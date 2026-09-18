@@ -1,3 +1,4 @@
 # Yotsuya Companion Website
 
-- [Volltext](./text.md)
+- [Volltext](./full-text.md)
+- [Naosuke markiert](./naosuke-text.md)

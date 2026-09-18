@@ -59,7 +59,7 @@ So bitten auch wir dich, Oiwa, um Erlaubnis, deine Geschichte zu erzählen, und 
 **IEMON**  
  (Betrunken)                                                                                                                                 Ein Samurai ohne Herr ist wie eine Klinge ohne Griff... scharf vielleicht, aber nutzlos.
 
-> [!caution] NAOSUKE  
+**NAOSUKE**  
 Du hast deine Anstellung verloren, Iemon. Du wirst sicher wieder eine finden. Kann dein Schwiegervater da nichts tun?
 
 **IEMON**  
@@ -76,7 +76,7 @@ Mein Schwiegervater wird nichts tun. Er verachtet mich. Ich würde ihn am liebst
  Wäre Samon doch still geblieben mit seiner Moral. Hätte er mich nur ein einziges Mal behandelt wie einen Sohn…  
 Er erwartet mich morgen Abend. Ich ahne nichts Gutes.
 
-> [!caution] NAOSUKE  
+**NAOSUKE**  
  Dein Schwiegervater ist ein Mann von Prinzipien. Und du... hast deine Ehre.
 
 **IEMON**  
@@ -89,7 +89,7 @@ Er erwartet mich morgen Abend. Ich ahne nichts Gutes.
  Ha\! Verheiratete Frauen, sagst du?  
  Du meinst wohl Osode... die kleine Schwester deiner holden Oiwa, nicht wahr?
 
-> [!caution] NAOSUKE  
+**NAOSUKE**  
  *(heftig, empört)*  
  Sprich ihren Namen nicht mit deinem Spott\!
 
@@ -99,7 +99,7 @@ Er erwartet mich morgen Abend. Ich ahne nichts Gutes.
 [ *(schenkt sich Sake ein \[TAKUETSU\])*  ]()  
  Mein bestes Mädchen, das selbst für Gold keinen Blick für dich hat — das nenne ich Tugend... oder Torheit.
 
-> [!caution] NAOSUKE  
+**NAOSUKE**  
 [ *(laut) (Packt Takuetsu, Stoffgeräusch \[NAOSUKE\] und Ächzen von TAKUETSU)*  ]()  
  Halt deinen Mund, Takuetsu\! (**Takuetsu:** Ähm…)
 
@@ -141,7 +141,7 @@ Er erwartet mich morgen Abend. Ich ahne nichts Gutes.
  Ah — Naosuke-san\! Schon wieder hier in meinem Haus?  
  Ich beginne zu glauben, du kommst öfter hierher als in deinen Tempel.
 
-> [!caution] NAOSUKE  
+**NAOSUKE**  
  Ich komme, um Osode zu sehen. Und ich zahle dafür, wie jeder andere auch.
 
 **TAKUETSU**  
@@ -155,7 +155,7 @@ Er erwartet mich morgen Abend. Ich ahne nichts Gutes.
 **OSODE**  
  Naosuke-san... Ich habe dir oft gesagt: Ich bin verheiratet. Und ich wähle aus, wem ich Gesellschaft leiste.
 
-> [!caution] NAOSUKE  
+**NAOSUKE**  
  Ich verlange keine Gesellschaft... nur, dass du mich ansiehst, wie früher.
 
 **TAKUETSU**  
@@ -176,7 +176,7 @@ Er erwartet mich morgen Abend. Ich ahne nichts Gutes.
  Aber sag mir Naosuke-san, wie fühlt es sich an, zu wissen, dass deine Geliebte hier Tee serviert und du ihn trotzdem nicht trinken darfst?  
 *(Kurzes Schweigen)*
 
-> [!caution] NAOSUKE  
+**NAOSUKE**  
  *(schlägt mit Faust auf Tisch)* Ihr könnt lachen... alle.  
  Aber eines Tages werdet ihr sehen, wer hier lacht und wer zahlt\!
 
@@ -322,7 +322,7 @@ Vater.
 
 [***Geräuschkulisse Seitenstraße:** **Regen laut \[SATO\]**, dumpfe Ferne Geräusche des Bordellviertels \[leise\], Gelächter \[OIWA, OSODE, SATO, IEMON\]), Hund (IEMON) \> Katze \[OSODE\] \> Winseln \[IEMON\])*]()  
 
-> [!caution] NAOSUKE  
+**NAOSUKE**  
 *(flüsternd, zu sich selbst)*  
 Da steht er... der Bastard... Osode-chans Mann...  
 Er hat sie mir genommen und wegen ihm ist sie in diesem Bordell.
@@ -331,21 +331,21 @@ Er hat sie mir genommen und wegen ihm ist sie in diesem Bordell.
 (murmelnd)  
 Verfluchter Regen…
 
-> [!caution] NAOSUKE  
+**NAOSUKE**  
 *(flüsternd, zu sich selbst)*  
 Sie hat gesagt... sie liebt keinen anderen...  
 Aber du... du hast sie beschmutzt…
 
 [*(Meister wird erstochen: Eine Klinge (Tanto: NAOSUKE) wird gezogen \[OSODE\]  \> 4 rasche Schritte auf Kies \[IEMON\] \> Stoff reißen \[TAKUETSU\] und gleichzeitiger Aufprall \[NAOSUKE\] \> Aufschrei \> Röcheln)*]()  
 
-> [!caution] NAOSUKE  
+**NAOSUKE**  
 Endlich, Sato-san. Lass mich sehen wie du…
 
 **MEISTER**  
 ***(**Röchelt)*  
  Naosuke-kun? Mein Schüler? Warum?
 
-> [!caution] NAOSUKE  
+**NAOSUKE**  
 *(atmet stoßweise, panisch)*  
  Meister? Nein, ich... ich wollte das nicht... ich wollte nur…
 
@@ -375,7 +375,7 @@ Endlich, Sato-san. Lass mich sehen wie du…
 
 [*(Schnelle Schritte auf Kies \[OSODE\] \> Keuchen von Naosuke \> Klopfen an einer Tür \[OSODE\])*]()  
 
-> [!caution] NAOSUKE   
+**NAOSUKE**   
 *(keuchend, nervös)*  
  Iemon\! Bist du da? Du sagtest mir, du wärest  heute noch im Haus deines Schwiegervaters\!  
  Öffne… ich flehe dich an\! 
@@ -386,7 +386,7 @@ Endlich, Sato-san. Lass mich sehen wie du…
  Naosuke. Du kommst zu einer Stunde, in der kein guter Mensch mehr auf den Wegen ist.  
  Was treibt dich hierher?
 
-> [!caution] NAOSUKE   
+**NAOSUKE**   
 *(flüstert, ringt nach Luft)*  
  Ich musste dich finden… ich konnte zu niemand anderem.  
  Mein Meister, ich habe ihn getötet.  
@@ -397,7 +397,7 @@ Du hast also Blut vergossen.
  Und du kommst zu mir… warum?  
 Du bittest um Vergebung? Um Schutz?
 
-> [!caution] NAOSUKE   
+**NAOSUKE**   
 *(flehend)*  
  Du bist der einzige, der mich nicht ausliefern wird.  
  Wenn die Beamten fragen, ich sage, ich war hier, bei dir, im Hause deiner Schwiegerfamilie.  
@@ -407,7 +407,7 @@ Du bittest um Vergebung? Um Schutz?
  Ein Alibi also.  
  Und du willst mich in deine Tat verstricken?
 
-> [!caution] NAOSUKE  
+**NAOSUKE**  
  Nur du kannst mir helfen. Und ich werde in deiner Schuld stehen.
 
 **IEMON**  
@@ -415,7 +415,7 @@ Du bittest um Vergebung? Um Schutz?
 
 [*(Schritte auf Holz \[OIWA\], Tür schließt \[OSODE\], Starker Regen stopp \[SATO\], leichter Regen \[OIWA\], Feuer \[TAKUETSU\])*]()  
 
-> [!caution] NAOSUKE  
+**NAOSUKE**  
  Iemon… was… liegt dort?  
  Ist… das Samon-sama?
 
@@ -423,14 +423,14 @@ Du bittest um Vergebung? Um Schutz?
  Ich fand ihn so. Ein Eindringling kam… und floh.  
  Ich konnte nichts tun.
 
-> [!caution] NAOSUKE  
+**NAOSUKE**  
  Ein… Einbrecher also?  
  Wenn ich aussagen würde, ich hätte einen Fremden über die Mauer fliehen sehen…
 
 **IEMON**  
  Dann wären wir beide geschützt.
 
-> [!caution] NAOSUKE:  
+**NAOSUKE:**  
  Ja…  
  Ein Alibi für dich… und eines für mich.  
  Wir wären miteinander verbunden.
@@ -438,7 +438,7 @@ Du bittest um Vergebung? Um Schutz?
 **IEMON**  
  Und was forderst du für dein Schweigen…und deine Aussage?
 
-> [!caution] NAOSUKE   
+**NAOSUKE**   
  Wenn du nun Oberhaupt der Familie wirst…  
  Löse die Ehe deiner Schwägerin Osode und gib sie mir.   
 Dafür binde ich mein Schicksal an dieses Haus… und an dich.
@@ -449,7 +449,7 @@ Dafür binde ich mein Schicksal an dieses Haus… und an dich.
  Einer lügt, einer schweigt. Zwei Männer jagen einen Mörder, der nicht existiert.  
  So soll es sein.
 
-> [!caution] NAOSUKE   
+**NAOSUKE**   
  Wir schwören also, den Mörder zu finden… den es nicht gibt.
 
 **IEMON**  
@@ -488,7 +488,7 @@ Euer geliebter Vater\!
 
 Naosuke-san und ich betraten gerade den Garten, als wir jemanden über die Mauer klettern sahen. Es ging zu schnell, wir konnten nicht mehr reagieren. Dann haben wir den guten Samon-sama gefunden. Er hat sich sicher dem Einbrecher in den Weg gestellt.
 
-> [!caution] NAOSUKE   
+**NAOSUKE**   
 Ja, genau so war es. Ich habe den Mörder genau gesehen, ein grobschlächtiger Mann. Ich würde ihn sicher wiedererkennen.
 
 **OSODE**  
@@ -505,7 +505,7 @@ Du hast recht, aber dann lass mich dies zu meiner Aufgabe machen. Ich werde bei 
 Ich werde aber Hilfe von Naosuke-san benötigen. Er hat das Gesicht des Täters gesehen.   
 Da dies aber eine Angelegenheit unserer Familie ist, kann ich ihn nicht einfach dort hineinziehen.
 
-> [!caution] NAOSUKE  
+**NAOSUKE**  
 Nun, werter Iemon-sama. Ich bin bereit, mich an eure Familie zu binden und dann gemeinsam mit euch den Mörder zu stellen.
 
 **OSODE**  
@@ -524,7 +524,7 @@ Und ob du das kannst. Du wirst es für deinen Vater tun und als neues Oberhaupt 
 **OSODE**  
 Ja, Iemon-dono.
 
-> [!caution] NAOSUKE  
+**NAOSUKE**  
 Ich danke dir, Iemon-dono.
 
 **IEMON**  
@@ -1425,7 +1425,7 @@ mit mir.
 Ja, es ist etwas geschehen.  
 [(Stille \> Ein Vogel flattert auf) \[OIWA\]]()  
 
-> [!caution] NAOSUKE  
+**NAOSUKE**  
  Ihr klingt… erschöpft.
 
 **IEMON**  
@@ -1434,7 +1434,7 @@ Ja, es ist etwas geschehen.
 
  In derselben Nacht.
 
-> [!caution] NAOSUKE  
+**NAOSUKE**  
  Was…?  
  Aber ihr habt doch gestern erst die Hochzeit gefeiert.
 
@@ -1442,7 +1442,7 @@ Ja, es ist etwas geschehen.
  Ermordet.  
  Beide.
 
-> [!caution] NAOSUKE  
+**NAOSUKE**  
  Wer…?
 
 **IEMON**  
@@ -1451,7 +1451,7 @@ Ja, es ist etwas geschehen.
  dass es derselbe war…  
  der auch meinen Schwiegervater…
 
-> [!caution] NAOSUKE  
+**NAOSUKE**  
  Ihr meint… den Vater von Oiwa?
 
 **IEMON**  
@@ -1461,7 +1461,7 @@ Ja, es ist etwas geschehen.
  immer in meiner Nähe.  
 Es muss ein Fluch sein.
 
-> [!caution] NAOSUKE  
+**NAOSUKE**  
  *(ungläubig, er war bei der ersten Aktion dabei)* Ein Fluch…? Aber wir…? *(wird von Iemon unterbrochen)*
 
 **IEMON**  
@@ -1473,7 +1473,7 @@ Es muss ein Fluch sein.
  Nicht immer.  
  Aber… oft.
 
-> [!caution] NAOSUKE  
+**NAOSUKE**  
 *(wie zu einem Psychotischen)* Ihr solltet vielleicht Hilfe suchen, bei uns im Tempel.
 
 **IEMON**  
@@ -1484,14 +1484,14 @@ Es muss ein Fluch sein.
  der mir alles nehmen will.  
  Du glaubst mir, nicht wahr?
 
-> [!caution] NAOSUKE  
+**NAOSUKE**  
  Ja, Iemon-dono.
 
 **IEMON**  
  Gut.  
  Denn wenn du es nicht tätest…
 
-> [!caution] NAOSUKE  
+**NAOSUKE**  
  Ich stehe… auf eurer Seite
 
 [(Ein Vogel flattert auf) \[OIWA\]]()  
@@ -1632,7 +1632,7 @@ Aber sie tut es\! Sie flüstert… sie schreit…
 [ (Ein ferner Donner \[OIWA\])  ]()  
 {Donner in der Hand behalten}
 
-> [!caution] NAOSUKE  
+**NAOSUKE**  
  Geister… werden nicht aus dem Tod geboren,  
  sondern aus dem, was wir den Toten angetan haben.
 
@@ -1655,7 +1655,7 @@ Ich bin kein Mörder\! Ich habe getan, was nötig war\!
 *(Pause. Atem.)*  
  Sag mir einfach, wie ich sie loswerde.
 
-> [!caution] NAOSUKE  
+**NAOSUKE**  
  Ich kann versuchen, dich zu reinigen.  
  Nicht, um sie zu vertreiben…  
  sondern um sie fernzuhalten.
@@ -1673,7 +1673,7 @@ Ich bin kein Mörder\! Ich habe getan, was nötig war\!
 
 ### 
 
-> [!caution] NAOSUKE  
+**NAOSUKE**  
 [(Klopfen eines Priesterstabes \[NAOSUKE\].  ]()  
  Naosuke murmelt kaum zu verstehen ein Norito (ritueller Singsang), ruhig, gleichmäßig.  
 [ Das Rascheln von Papierstreifen (Shide) im Wind.\[OIWA\]  ]()  
@@ -1707,7 +1707,7 @@ ko-no mo-no ni fu-re-ta
  Nein\!  
  Halt den Mund\!
 
-> [!caution] NAOSUKE  
+**NAOSUKE**  
  Iemon?  
  Mit wem sprichst du?
 
@@ -1721,7 +1721,7 @@ ko-no mo-no ni fu-re-ta
  Sie ist hier\!  
  Sie steht hinter dir\!
 
-> [!caution] NAOSUKE  
+**NAOSUKE**  
  Ich sehe nichts.  
  Bleib im Kreis\!  
  Schau sie nicht an\!
@@ -1745,7 +1745,7 @@ ko-no mo-no ni fu-re-ta
 [ (Ein heftiger Windstoß \[TAKUETSU\] \> Papier reißt (Shide reißen) \[NAOSKE\],  ]()  
 [ Der Gong fällt klirrend zu Boden \[OSODE\])]()  
 
-> [!caution] NAOSUKE  
+**NAOSUKE**  
  Die Kami hören nicht mehr zu…  
  Dein Herz widerspricht deinen Worten\!
 
@@ -1767,7 +1767,7 @@ Ich werde bei dir sein. (Alles zusammen)
 **IEMON**  
  *(Langezogen, gemeinsam mit Donner)* Nein\!
 
-> [!caution] NAOSUKE  
+**NAOSUKE**  
  Iemon\! Warte\!
 
 **IEMON**  
@@ -1862,7 +1862,7 @@ Lass mich in Frieden.
 
 [(Schritte(Kies): Naosuke und Takuetsu kommen angelaufen \[TAKUETSU\])]()  
 
-> [!caution] NAOSUKE  
+**NAOSUKE**  
 Iemon\! Da bist du ja\! Wir haben dich gesucht\! Komm zurück in den Tempel. Wir können das Ritual wiederholen. Ich bin mir sicher.
 
 **IEMON**  
@@ -1872,7 +1872,7 @@ Nein. Es wird nichts nützen.
 Iemon, was meinst du?  
 Warum starrst du so ins Hafenbecken?
 
-> [!caution] NAOSUKE  
+**NAOSUKE**  
 Iemon? Was ist das? Wer ist das da unten?  
 Oh, ihr Götter\!  
 Iemon, du- Was hast du getan? Warum?
@@ -1886,7 +1886,7 @@ Nein, ich habe es nicht getan. Oiwa, sie war es.
 **OIWA**  
 (Lacht)
 
-> [!caution] NAOSUKE  
+**NAOSUKE**  
 Du warst es, Iemon. Und bei deiner Ehre, stell dich deinen Taten oder du wirst auf ewig verfolgt werden.
 
 **IEMON**  
@@ -1896,31 +1896,31 @@ Nein, ich war es nicht. Ich habe nichts getan. Ich- ich muss fort von hier.
 **TAKUETSU**  
 Iemon\! Warte, du kannst doch nicht-
 
-> [!caution] NAOSUKE  
+**NAOSUKE**  
 Lass ihn. Er ist verloren. Ich werde an seiner Statt nun die Familie führen, nach der Hochzeit.
 
 **TAKUETSU**  
 Welche Hochzeit? Von was sprichst du, Naosuke?
 
-> [!caution] NAOSUKE  
+**NAOSUKE**  
 Osode. Sie hat ihren Fehler eingesehen und wir heiraten. Ihre bisherige Ehe wird aufgelöst.
 
 **TAKUETSU**  
 Was? Bist du nun auch dem Wahnsinn verfallen? Osode würde dich niemals heiraten\!
 
-> [!caution] NAOSUKE  
+**NAOSUKE**  
 Du wirst schon sehen. Schon bald verlierst du dein bestes Mädchen.
 
 **TAKUETSU**  
 Du bist verrückt. Wenn Sato erfährt, dass du so etwas über seine Frau erzählst, wird er…
 
-> [!caution] NAOSUKE  
+**NAOSUKE**  
 Wird er was? Er ist nichts weiter als ein Ronin, der sein Geld damit verdient, in deinem Bordell Störenfriede rauszuschmeißen. Osode hat eingewilligt, mich zu heiraten, auf Anweisung des Familienoberhaupts.
 
 **TAKUETSU**  
 Du sprichst von Iemon? 
 
-> [!caution] NAOSUKE  
+**NAOSUKE**  
 Ja. Zu dem Zeitpunkt war er aber noch nicht…  
 Nunja, wie auch immer. Die Hochzeit findet morgen statt und dann werdet ihr alle sehen, dass Osode zu mir steht. Auf bald, Takuetsu.
 
@@ -1947,7 +1947,7 @@ Möge alles Unreine weichen. Mögen Gedanken klar werden.
 **OSODE**  
 So still wie dieses Wasser… so nehme ich an, was mir bleibt.
 
-> [!caution] NAOSUKE  
+**NAOSUKE**  
 (glücklich)  
 Heute… heute beginnt unser Leben.
 
@@ -1960,7 +1960,7 @@ Große Kami, hört unser Bitten. Seht Osode und Naosuke, die vor euch treten.
 
 Sprecht eure Namen und euren Willen.
 
-> [!caution] NAOSUKE   
+**NAOSUKE**   
 (klar, voller Freude)  
 Ich, Naosuke, nehme Osode zu meiner Ehefrau und gelobe, sie zu achten und zu schützen.
 
@@ -1979,7 +1979,7 @@ Drei Schlucke, dreimal ein Band von Himmel, Erde und Mensch.
 
 (ein kleiner Schluck)
 
-> [!caution] NAOSUKE   
+**NAOSUKE**   
 Mit jedem Schluck… näher bei dir. (Windübergabe an Takuetsu)
 
 **OSODE**  
@@ -2001,7 +2001,7 @@ Halt\! Dies ist heiliger Boden.
 **SATO**  
  Heilig? Während ihr meine Ehe stehlt?
 
-> [!caution] NAOSUKE  
+**NAOSUKE**  
  Sato… wer hat- ?
 
 **SATO**  
@@ -2014,7 +2014,7 @@ Sato… es ist geschehen. Die Götter haben es gehört.
 **SATO**  
 Und was ist mit deinem Schwur mir gegenüber?
 
-> [!caution] NAOSUKE  
+**NAOSUKE**  
 Sato\! Achte diesen Ort\! Wir klären das draußen\!
 
 **SATO**  
@@ -2034,13 +2034,13 @@ Dann komm, du Hund\!
 **OSODE**  
 Naosuke… nimm dies.
 
-> [!caution] NAOSUKE  
+**NAOSUKE**  
 Was?
 
 **OSODE**  
 Ein Brief. Lies ihn nicht hier. Nicht jetzt.
 
-> [!caution] NAOSUKE  
+**NAOSUKE**  
 Osode?
 
 **SATO**  
@@ -2053,7 +2053,7 @@ Nichts, was dich betrifft\!
 **SATO**  
 Was dich betrifft, betrifft mich.
 
-> [!caution] NAOSUKE  
+**NAOSUKE**  
 Sato\! Beherrsche dich\!
 
 **SATO**  
@@ -2061,7 +2061,7 @@ Mich beherrschen? Hinter meinem Rücken wird meine Ehe aufgelöst\!
 Und dazu schließt du eine neue mit ihm? Der, den du immer verachtet hast?  
 Der wie ein räudiger, liebestoller Hund um dich herumgeschlichen ist?
 
-> [!caution] NAOSUKE  
+**NAOSUKE**  
 Mäßige dich, Sato\! Es ist entschieden. Geh deiner Wege\!
 
 **OSODE**  
@@ -2071,7 +2071,7 @@ Sato.
 **SATO**  
 Wie lange geht dieses Spiel schon?
 
-> [!caution] NAOSUKE  
+**NAOSUKE**  
 Lange genug. Osode hat erkannt, dass ich ihr ein besserer Mann sein werde als du.  
 Und ihre Familie unterstützt mich.
 
@@ -2081,7 +2081,7 @@ Ihre Familie? Iemon\! Was mischt der sich ein? Was ist er dir schuldig?
 **OSODE**  
 Sato\! Es wurde so bestimmt. Ich kann nichts mehr tun. Ich muss mich meiner Familie fügen.
 
-> [!caution] NAOSUKE  
+**NAOSUKE**  
 Siehst du, Sato: Meine Frau hat Verstand. Und wenn sie dich erst einmal vergessen hat, kann sie mit mir endlich glücklich sein.
 
 **SATO**  
@@ -2090,7 +2090,7 @@ Ich mag ein Ronin ohne Herr sein, aber diesen kleinen Rest Ehre lasse ich mir ni
 
 [(Schwert wird gezogen \[SATO\] → Sound \[Osode\])]()  
 
-> [!caution] NAOSUKE  
+**NAOSUKE**  
 Sato\! Du wirst doch nicht?\!
 
 [(\[IEMON\] mehrer kurze zarte Schritte)]()  
@@ -2123,7 +2123,7 @@ Osode, das hätte nicht der Weg sein sollen. Warum hast du dich in meine Klinge 
 
 DU\! Dein Wahn hat sie dazu gezwungen. 
 
-> [!caution] NAOSUKE  
+**NAOSUKE**  
 (geschockt und verwirrt)  
 Was? Nein, Osode\! Sato. Ich wollte doch nicht. Ich, ich dachte \-
 
@@ -2142,12 +2142,12 @@ Du dachtest nur an dich. Lauf, Priester, lauf. Oder ich werde Osodes Wunsch nich
 
 [ (Brief wird langsam entfaltet \[NAOSUKE\])]()  
 
-> [!caution] NAOSUKE/OSODE  
+**NAOSUKE/OSODE**  
 „Naosuke… wenn du diesen Brief liest, bin ich nicht mehr bei dir.“
 
 (Stille)
 
-> [!caution] NAOSUKE  
+**NAOSUKE**  
 (schmerzlich) Osode…
 
 **OSODE**  
@@ -2161,7 +2161,7 @@ Sondern aus Angst vor der Wahrheit.“
 Aufrichtig.  
 So sehr, dass ich glaubte, mein Herz würde zerbrechen, als ich dich zurückweisen musste.“
 
-> [!caution] NAOSUKE  
+**NAOSUKE**  
 (schmerzlich)  
 Warum…?
 
@@ -2175,7 +2175,7 @@ Warum ich dich von mir stieß, obwohl ich noch am Tag davor mit dir lachte.“
 „Ich ging zu meinem Vater.  
 Ich bat ihn um seine Erlaubnis, dich zu heiraten.“
 
-> [!caution] NAOSUKE  
+**NAOSUKE**  
 Zu… Samon? Warum lehnte er mich ab?
 
 **OSODE**  
@@ -2296,10 +2296,10 @@ So tief, dass sie niemand je findet.
 
 [(Rascheln von Papier \[NAOSUKE\] \-\> STILLE \-\> Feuerschale \[TAKUETSU\])]()  
 
-> [!caution] NAOSUKE/OSODE  
+**NAOSUKE/OSODE**  
 „Nachdem ich die Wahrheit kannte, konnte ich dich nicht mehr ansehen wie zuvor.“
 
-> [!caution] NAOSUKE  
+**NAOSUKE**  
 (leise)  
 Osode.
 
@@ -2310,7 +2310,7 @@ Ich weiß, wie sehr dich das verletzt hat.“
 „Doch mit der Zeit begann ich mich vor dir zu fürchten.  
 Deine Nähe war kein Trost mehr, sondern eine Last.“
 
-> [!caution] NAOSUKE  
+**NAOSUKE**  
 (verzweifelt)  
 Ich wollte nur bei dir sein…
 
@@ -2328,7 +2328,7 @@ Mehr, als ich dir je zeigen konnte.“
 Ich liebte ihn.  
 Er war sanft zu mir.“
 
-> [!caution] NAOSUKE  
+**NAOSUKE**  
 (heiser)  
 Sato…
 
@@ -2348,13 +2348,13 @@ Für dich und für mich … Bruder“
 
 (Stille)
 
-> [!caution] NAOSUKE  
+**NAOSUKE**  
 (leise, klar)  
 Schande.
 
 [(Ein Messer wird langsam aus der Scheide gezogen \[NAOSUKE\] Sound \[IEMON\] )]()  
 
-> [!caution] NAOSUKE  
+**NAOSUKE**  
 Ich habe den Mord an meinem Vater gedeckt.  
 Ohne zu wissen, wer er war.
 

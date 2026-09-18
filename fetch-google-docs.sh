@@ -42,9 +42,10 @@ MARKDOWN_TEXT="$(get_file markdown | sed 's/\r//g')"
 LINE_MARKDOWN_TEXT_BEGINNING="$(($(echo "$MARKDOWN_TEXT" | grep -n '^# Text$' | cut -d ':' -f 1 | head -n 1) - 1))"
 LINE_MARKDOWN_TEXT_END="$(($(echo "$MARKDOWN_TEXT" | grep -n '^# Geräusche$' | cut -d ':' -f 1 | head -n 1) - 1))"
 MARKDOWN_TEXT="$(echo "$MARKDOWN_TEXT" | sed -n "$((LINE_MARKDOWN_TEXT_BEGINNING + 1)),$LINE_MARKDOWN_TEXT_END p")"
-MARKDOWN_TEXT="$(echo "$MARKDOWN_TEXT" | sed -E 's/^\*\*(NAOSUKE.*)\*\*/> [!caution] \1/')"
 MARKDOWN_TEXT="$(echo "$MARKDOWN_TEXT" | sed -E 's/^(.*\\\[[^]+\\\].*$)/[\1]()  /')"
-echo "$MARKDOWN_TEXT" > text.md
+echo "$MARKDOWN_TEXT" > full-text.md
+MARKDOWN_TEXT="$(echo "$MARKDOWN_TEXT" | sed -E 's/^\*\*(NAOSUKE.*)\*\*/> [!CAUTION] \1/')"
+echo "$MARKDOWN_TEXT" > naosuke-text.md
 LINE_TEXT_END="$(($(echo "$TEXT" | grep -n '^Geräusche$' | cut -d ':' -f 1 | head -n 1) - 1))"
 SHORTENED_TEXT="$(echo "$TEXT" | head -n "$LINE_TEXT_END")"
 echo "$TEXT" > text.txt
