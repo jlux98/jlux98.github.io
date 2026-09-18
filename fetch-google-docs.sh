@@ -42,40 +42,29 @@ MARKDOWN_TEXT="$(get_file markdown | sed 's/\r//g')"
 LINE_MARKDOWN_TEXT_BEGINNING="$(($(echo "$MARKDOWN_TEXT" | grep -n '^# Text$' | cut -d ':' -f 1 | head -n 1) - 1))"
 LINE_MARKDOWN_TEXT_END="$(($(echo "$MARKDOWN_TEXT" | grep -n '^# Geräusche$' | cut -d ':' -f 1 | head -n 1) - 1))"
 MARKDOWN_TEXT="$(echo "$MARKDOWN_TEXT" | sed -n "$((LINE_MARKDOWN_TEXT_BEGINNING + 1)),$LINE_MARKDOWN_TEXT_END p")"
-MARKDOWN_TEXT="$(echo "$MARKDOWN_TEXT" | sed -E 's/^(.*\\\[[^]+\\\].*$)/<a href=""><span>\1<\/span><\/a>  /')"
+MARKDOWN_TEXT="$(echo "$MARKDOWN_TEXT" | sed -E 's/^(.*\\\[[^]+\\\].*$)/[\1]()  /')"
 MARKDOWN_TEXT="$(echo "$MARKDOWN_TEXT" | sed -E 's/  +/  /g')"
 echo "$MARKDOWN_TEXT" > full-text.md
 # MARKDOWN_TEXT="$(echo "$MARKDOWN_TEXT" | tr '\n' '|')"
 
-NAOSUKE_TEXT="$(echo "$MARKDOWN_TEXT" | tr '\n' '|' |
-    sed -E 's/((\*\*(NAOSUKE|AKI)[^*]*\*\* *(\|[^|]+)*)|([^|]*\\\[NAOSUKE\\\][^|]*))\|\|/<mark>\1<\/mark>\|\|/g' |
-    tr '|' '\n')"
-echo "$NAOSUKE_TEXT" > naosuke-text.md
+render_actor_part() {
+    SPEAKING_EXPRESSION="$1"
+    SOUNDEFFECT_EXPRESSION="$2"
+    OUTPUT_FILE_NAME=$3
+    ACTOR_TEXT="$(echo "$MARKDOWN_TEXT" | tr '\n' '|' |
+        sed -z -E 's/((\*\*('"$SPEAKING_EXPRESSION"')[^*]*\*\* *(\|[^|]+)*)|([^|]*\\\['"$SOUNDEFFECT_EXPRESSION"'\\\][^|]*\(\)))(  )?\|\|/==\1==  \|\|/g' |
+        tr '|' '\n')"
+    echo "$ACTOR_TEXT" > "$OUTPUT_FILE_NAME.md"
+    pandoc "$OUTPUT_FILE_NAME.md" -f markdown+smart+yaml_metadata_block+mark -t html -o "$OUTPUT_FILE_NAME.html"
+    rm "$OUTPUT_FILE_NAME.md"
+}
 
-IEMON_TEXT="$(echo "$MARKDOWN_TEXT" | tr '\n' '|' |
-    sed -z -E 's/((\*\*(IEMON|PRIESTER)[^*]*\*\* *(\|[^|]+)*)|([^|]*\\\[IEMON\\\][^|]*))\|\|/<mark>\1<\/mark>\|\|/g' |
-    tr '|' '\n')"
-echo "$IEMON_TEXT" > iemon-text.md
-
-OSODE_TEXT="$(echo "$MARKDOWN_TEXT" | tr '\n' '|' |
-    sed -z -E 's/((\*\*(OSODE|OUME|OYUMI)[^*]*\*\* *(\|[^|]+)*)|([^|]*\\\[OSODE\\\][^|]*))\|\|/<mark>\1<\/mark>\|\|/g' |
-    tr '|' '\n')"
-echo "$OSODE_TEXT" > osode-text.md
-
-SATO_TEXT="$(echo "$MARKDOWN_TEXT" | tr '\n' '|' |
-    sed -z -E 's/((\*\*(SATO|SAMON)[^*]*\*\* *(\|[^|]+)*)|([^|]*\\\[OSODE\\\][^|]*))\|\|/<mark>\1<\/mark>\|\|/g' |
-    tr '|' '\n')"
-echo "$SATO_TEXT" > sato-text.md
-
-OIWA_TEXT="$(echo "$MARKDOWN_TEXT" | tr '\n' '|' |
-    sed -z -E 's/((\*\*OIWA[^*]*\*\* *(\|[^|]+)*)|([^|]*\\\[OIWA\\\][^|]*))\|\|/<mark>\1<\/mark>\|\|/g' |
-    tr '|' '\n')"
-echo "$OIWA_TEXT" > oiwa-text.md
-
-TAKUETSU_TEXT="$(echo "$MARKDOWN_TEXT" | tr '\n' '|' |
-    sed -z -E 's/((\*\*(TAKUETSU|ITO KIHEI|MEISTER)[^*]*\*\* *(\|[^|]+)*)|([^|]*\\\[TAKUETSU\\\][^|]*))\|\|/<mark>\1<\/mark>\|\|/g' |
-    tr '|' '\n')"
-echo "$TAKUETSU_TEXT" > takuetsu-text.md
+render_actor_part "IEMON|PRIESTER" "IEMON" "iemon-text"
+render_actor_part "NAOSUKE|AKI" "NAOSUKE" "naosuke-text"
+render_actor_part "OSODE|OUME|OYUMI" "OSODE" "osode-text"
+render_actor_part "SATO|SAMON" "SATO" "sato-text"
+render_actor_part "OIWA" "OIWA" "oiwa-text"
+render_actor_part "TAKUETSU|ITO KIHEI|MEISTER" "TAKUETSU" "takuetsu-text"
 
 LINE_TEXT_END="$(($(echo "$TEXT" | grep -n '^Geräusche$' | cut -d ':' -f 1 | head -n 1) - 1))"
 SHORTENED_TEXT="$(echo "$TEXT" | head -n "$LINE_TEXT_END")"
