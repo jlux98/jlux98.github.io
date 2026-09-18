@@ -18,9 +18,9 @@ Einzug: “scheppernd” (alle außer Takuetsu), alle setzen sich. Iemon nimmt d
 
 (Licht geht aus; nur eine Kerze/Laterne (Oiwa-Laterne vor kleinen Tisch) beleuchtet den Erzähler, Er stellt die Laterne ab. Licht auf Takuetsu.) (Prolog mit Shamisen)
 
-Beim **Hyaku-mono-gatari Kaidankai**   
+Beim **Hyaku-mono-gatari Kaidankai**  
 erzählte man sich  
-im Japan der Edo-Zeit bei Kerzenschein Geistergeschichten.   
+im Japan der Edo-Zeit bei Kerzenschein Geistergeschichten.  
 Löschte man die letzte Kerze, so sollte ein Geist erscheinen.
 
  Eine dieser Geschichten spielt am Rand der großen Straße nach Westen.
@@ -57,7 +57,7 @@ So bitten auch wir dich, Oiwa, um Erlaubnis, deine Geschichte zu erzählen, und 
 [***Geräuschkulisse Teehaus: Regen \[OIWA\]**, gedämpftes Stimmengewirr \[OIWA, OSODE, SATO\]*]()  
 
 **IEMON**  
- (Betrunken)                                                                                                                                 Ein Samurai ohne Herr ist wie eine Klinge ohne Griff... scharf vielleicht, aber nutzlos.
+ (Betrunken)  Ein Samurai ohne Herr ist wie eine Klinge ohne Griff... scharf vielleicht, aber nutzlos.
 
 **NAOSUKE**  
 Du hast deine Anstellung verloren, Iemon. Du wirst sicher wieder eine finden. Kann dein Schwiegervater da nichts tun?
@@ -209,7 +209,7 @@ Er erwartet mich morgen Abend. Ich ahne nichts Gutes.
 **SAMON**  
  Setz dich, Iemon-san.
 
-**IEMON**   
+**IEMON**  
 Ja, Schwiegervater.  
 *(Stille)*
 
@@ -292,7 +292,8 @@ Ja, Schwiegervater.
 **IEMON**  
 Ihr richtet schnell, Schwiegervater.  
 Euch ist die Ehre eurer Familie wichtiger als alles andere.  
-[ Aber ihr habt keine Ahnung, was es heißt, in dieser neuen Welt zu leben. *\[Schritte bis hier hin\]*]()  
+ Aber ihr habt keine Ahnung, was es heißt, in dieser neuen Welt zu leben.  
+[*\[Schritte bis hier hin\]*]()  
 
 **SAMON**  
  Ich kenne die Bedeutung von Ehre.  
@@ -301,7 +302,7 @@ Euch ist die Ehre eurer Familie wichtiger als alles andere.
 **IEMON**  
  Dann wisst ihr, was nun kommt.
 
-[*(Geräuschkulisse stoppt \[STILLE\] \> Schwert wird gezogen \[OSODE\] \> Stoffgeräusch \[SATO\] \> Keuchen von Samon)*]()  
+[*(Geräuschkulisse stoppt \[STILLE\] \> Schwert wird gezogen (Sound \[OSODE\], Visual \[IEMON\]) \> Stoffgeräusch \[SATO\] \> Keuchen von Samon)*]()  
 
 **SAMON**  
  Iemon... du…
@@ -342,7 +343,7 @@ Aber du... du hast sie beschmutzt…
 Endlich, Sato-san. Lass mich sehen wie du…
 
 **MEISTER**  
-***(**Röchelt)*  
+*(Röchelt)*  
  Naosuke-kun? Mein Schüler? Warum?
 
 **NAOSUKE**  
@@ -355,10 +356,10 @@ Endlich, Sato-san. Lass mich sehen wie du…
  *(laut)*  
  Götter... was hab ich getan…
 
-[*(Ein entferntes Hundegebell. \[IEMON\] Schritte auf Kies \[OSODE; IEMON\] und Rufe*   ]()  
+[*(Ein entferntes Hundegebell. \[IEMON\] Schritte auf Kies \[OSODE; IEMON\] und Rufe*  ]()  
 [*Passanten rufen (Da hat jemand geschrien\! \[SATO\]*  ]()  
 [*Liegt da einer? \[OIWA\]*  ]()  
-[*Stehenbleiben\!\[OSODE\]*   ]()  
+[*Stehenbleiben\!\[OSODE\]*  ]()  
 *hallen undeutlich aus der Ferne.)*
 
  Nein... nein, sie werden mich finden... ich... ich muss weg…
@@ -375,7 +376,7 @@ Endlich, Sato-san. Lass mich sehen wie du…
 
 [*(Schnelle Schritte auf Kies \[OSODE\] \> Keuchen von Naosuke \> Klopfen an einer Tür \[OSODE\])*]()  
 
-**NAOSUKE**   
+**NAOSUKE**  
 *(keuchend, nervös)*  
  Iemon\! Bist du da? Du sagtest mir, du wärest  heute noch im Haus deines Schwiegervaters\!  
  Öffne… ich flehe dich an\! 
@@ -386,18 +387,18 @@ Endlich, Sato-san. Lass mich sehen wie du…
  Naosuke. Du kommst zu einer Stunde, in der kein guter Mensch mehr auf den Wegen ist.  
  Was treibt dich hierher?
 
-**NAOSUKE**   
+**NAOSUKE**  
 *(flüstert, ringt nach Luft)*  
  Ich musste dich finden… ich konnte zu niemand anderem.  
  Mein Meister, ich habe ihn getötet.  
  Es war ein Versehen, eine Verwechslung. Ich wollte nie…
 
-**IEMON**   
+**IEMON**  
 Du hast also Blut vergossen.  
  Und du kommst zu mir… warum?  
 Du bittest um Vergebung? Um Schutz?
 
-**NAOSUKE**   
+**NAOSUKE**  
 *(flehend)*  
  Du bist der einzige, der mich nicht ausliefern wird.  
  Wenn die Beamten fragen, ich sage, ich war hier, bei dir, im Hause deiner Schwiegerfamilie.  
@@ -438,9 +439,9 @@ Du bittest um Vergebung? Um Schutz?
 **IEMON**  
  Und was forderst du für dein Schweigen…und deine Aussage?
 
-**NAOSUKE**   
+**NAOSUKE**  
  Wenn du nun Oberhaupt der Familie wirst…  
- Löse die Ehe deiner Schwägerin Osode und gib sie mir.   
+ Löse die Ehe deiner Schwägerin Osode und gib sie mir.  
 Dafür binde ich mein Schicksal an dieses Haus… und an dich.
 
 [(Donner grollt in der Ferne. \[OIWA\])]()  
@@ -449,7 +450,7 @@ Dafür binde ich mein Schicksal an dieses Haus… und an dich.
  Einer lügt, einer schweigt. Zwei Männer jagen einen Mörder, der nicht existiert.  
  So soll es sein.
 
-**NAOSUKE**   
+**NAOSUKE**  
  Wir schwören also, den Mörder zu finden… den es nicht gibt.
 
 **IEMON**  
@@ -464,7 +465,7 @@ Dafür binde ich mein Schicksal an dieses Haus… und an dich.
 
 [***Geräuschkulisse Haus Samon**: **Donner \[Oiwa\]**; Leichter Regen \[SATO\]  Knistern von Feuer \[TAKUETSU\]*]()  
 
-[*Öffnen einer Tür \[OSODE\] –\> Schritte \[OIWA und OSODE\] c*                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             ]()  
+[*Öffnen einer Tür \[OSODE\] –\> Schritte \[OIWA und OSODE\] c*  ]()  
 
 **IEMON**  
 Oiwa. Osode. Da seid ihr endlich.
@@ -480,7 +481,7 @@ Er ist ein Zeuge.
 
 **OIWA**  
 Zeuge? Wozu braucht es eine Zeugen? Iemon-san\! Was ist unter diesem Laken?  
-    
+  
 **IEMON**  
 Euer geliebter Vater\!
 
@@ -488,7 +489,7 @@ Euer geliebter Vater\!
 
 Naosuke-san und ich betraten gerade den Garten, als wir jemanden über die Mauer klettern sahen. Es ging zu schnell, wir konnten nicht mehr reagieren. Dann haben wir den guten Samon-sama gefunden. Er hat sich sicher dem Einbrecher in den Weg gestellt.
 
-**NAOSUKE**   
+**NAOSUKE**  
 Ja, genau so war es. Ich habe den Mörder genau gesehen, ein grobschlächtiger Mann. Ich würde ihn sicher wiedererkennen.
 
 **OSODE**  
@@ -502,7 +503,7 @@ Nein. Es ist nicht eure Schuld. Denjenigen, der dies getan hat, trifft diese Sch
 
 **IEMON**  
 Du hast recht, aber dann lass mich dies zu meiner Aufgabe machen. Ich werde bei meiner Ehre den Mörder stellen und Gerechtigkeit im Namen Samons üben.  
-Ich werde aber Hilfe von Naosuke-san benötigen. Er hat das Gesicht des Täters gesehen.   
+Ich werde aber Hilfe von Naosuke-san benötigen. Er hat das Gesicht des Täters gesehen.  
 Da dies aber eine Angelegenheit unserer Familie ist, kann ich ihn nicht einfach dort hineinziehen.
 
 **NAOSUKE**  
@@ -572,7 +573,7 @@ Danke Großvater. Ich werde die Salbe Oiwa bringen, sobald du sie fertig hast.
 
 [***Geräuschkulisse Haus Iemon**: Knistern von Feuer \[TAKUETSU\], Windspiel \[SATO\]*]()  
 
-**OUME**   
+**OUME**  
 (gedämpft)  
 Oiwa-sama? Darf ich euch kurz stören? Eure Dienerin hat mich ins Haus gelassen.
 
@@ -602,7 +603,7 @@ Das werde ich. Ich hoffe, wir sehen uns bald wieder, Oiwa-sama.
 
 **OIWA**  
 Ein nettes Mädchen, auch wenn sie etwas verzogen ist.  
-*(Lauter)*   
+*(Lauter)*  
 Aki. Komm und hilf mir. Der alte Arzt von nebenan hat extra eine Salbe für mich angerührt. Du musst mir helfen, sie aufzutragen, bring auch etwas Wasser mit.
 
 **AKI**  
@@ -616,7 +617,7 @@ Ich fange dann an, Herrin.
 [*(Öffnen Salbendöschen \[OIWA\]) (Eincremegeräusch, Eincremen vorm Mikrofon, \[IEMON\])*]()  
 
 **OIWA**  
-Sehr schön Aki. (PAUSE.)   
+Sehr schön Aki. (PAUSE.)  
 vergiss den Hals nicht.
 
 **AKI**  
@@ -627,7 +628,7 @@ Natürlich, Herrin.
 **OIWA**  
 Oh man spürt die Wirkung ja richtig. Die Salbe sie… sie brennt\!  
 Mach sie ab Aki, mach sie sie ab.  
-   
+  
 *(Panisches Gefuchtel und Schreie und Keuchen von Oiwa aus Schmerz, von Aki Panik)*
 
 **AKI**  
@@ -867,7 +868,7 @@ Wenn ich morgen wieder schön bin.
  Was soll *ich* denn mit ihr?
 
 **IEMON**  
- Du wirst sie aufsuchen und dir nehmen, was du sonst hier verkaufst.   
+ Du wirst sie aufsuchen und dir nehmen, was du sonst hier verkaufst.  
 [(\[TAKUETSU\] macht Schockgeräusch)  ]()  
 Später wirst du sagen,  
  dass sie dir Zuneigung gezeigt hat.
@@ -1110,7 +1111,7 @@ Ich werde mich dann mal langsam auf den Weg machen und wünsche euch beiden eine
 (Sprechpause)
 
 **ITO KIHEI**  
-        Ihr sprecht… von eurer verstorbenen Frau? Welche Salbe?
+  Ihr sprecht… von eurer verstorbenen Frau? Welche Salbe?
 
 **IEMON**  
  (sachlich, grausam ruhig)  
@@ -1125,7 +1126,7 @@ Ich werde mich dann mal langsam auf den Weg machen und wünsche euch beiden eine
  Iemon-sama…? Großvater…?
 
 **IEMON**  
-Ich spreche davon, dass Eure Salbe   
+Ich spreche davon, dass Eure Salbe  
 ihr die Haut aus dem Gesicht brannte  
 und selbst das Fleisch darunter angriff.
 
@@ -1145,9 +1146,9 @@ Nicht mehr standesgemäß, sodass Oume ihren Platz einnehmen kann.
 Was wollt Ihr?
 
 **IEMON**  
-Ihr werdet mich als Oberhaupt Eurer Familie bestimmen, dann werdet Ihr Euch zurückziehen und mir die Führung überlassen.   
+Ihr werdet mich als Oberhaupt Eurer Familie bestimmen, dann werdet Ihr Euch zurückziehen und mir die Führung überlassen.  
 Nicht Oumes Vater.  
-   
+  
  Er ist zu weich.  
  Zu vorsichtig.  
 Ein Nichts.
@@ -1180,7 +1181,7 @@ Ihr seid ein grausamer Mann, Iemon.
 
 **IEMON**  
  Ich tue nur, was notwendig ist.  
-   
+  
 **ITO KIHEI**  
 Nun, ich… Ich werde euch zum nächsten Oberhaupt machen.
 
@@ -1263,7 +1264,7 @@ Das ist unmöglich.
 **OIWA**  
  So nennt sie sich jetzt?
 
-**IEMON**                                                                                                                                                  Tot. Du bist tot.
+**IEMON**  Tot. Du bist tot.
 
 **OUME**  
  (verwirrt)  
@@ -1300,7 +1301,7 @@ Das ist unmöglich.
 
 **OIWA**  
  Sie haben mir das Gesicht genommen.  
- Und du hast dich abgewandt.   
+ Und du hast dich abgewandt.  
 Du hast ihr mein Hochzeitsgewand geschenkt.  
 Wolltest du sie zu mir machen?
 
@@ -1331,7 +1332,7 @@ verschwörst du dich gegen mich?
 **OIWA**  
 Ist das deine Ehre, Samurai?  
 Ist das deine Treue?  
-   
+  
 **ITO KIHEI**  
  Steckt das Schwert weg\!  
  Ihr entehrt dieses Haus\!
@@ -1355,8 +1356,8 @@ Du hast mich allein gelassen in der Dunkelheit\!
  SCHWEIG\!\!
 
 **ITO KIHEI**  
-Iemon, gebt mir das Schwert.   
-                        Oume\! Zurück\! (Schrei Oume)
+Iemon, gebt mir das Schwert.  
+  Oume\! Zurück\! (Schrei Oume)
 
 [\[Reißender Stoff (SATO)\]  ]()  
  Er wird getroffen. Ein erstickter Atemzug.
@@ -1388,7 +1389,7 @@ Warum bist du hier?
 Glaubst du, ich würde mein Schwert nicht gegen dich richten, böser Geist?
 
 **OUME**  
-Iemon? Warum habt ihr? Was ist mit euch?   
+Iemon? Warum habt ihr? Was ist mit euch?  
 Nein, legt das Schwert weg, ich bin doch eure…  
 (Schrei bricht ab)  
 [(Kopf und Körper fallen auf Boden (Sellerie, \[NAOSUKE\])  ]()  
@@ -1511,7 +1512,7 @@ Es muss ein Fluch sein.
 **TAKUETSU**  
  Die Leute kommen aber nicht wegen der Gebete.  
 [*(Beide lachen. Die Tür* \[OSODE+OIWA\] *wird hastig aufgeschoben. Kurzes Atmen von Iemon, Iemon tritt ein, Schritte auf Holz \[OIWA\] – ungepflegt, atemlos, Gelächter hört auf, erschrockenes Tuscheln)*  ]()  
-   
+  
 **SATO**  
  Welch Überraschung\!  
  Iemon, du siehst aus, als kämst du gerade aus einer Schlacht.
@@ -1573,7 +1574,7 @@ Es muss ein Fluch sein.
 **TAKUETSU**  
  Mit wem sprichst du?
 
-**OIWA/OUME**   
+**OIWA/OUME**  
  Iemon…  
  Ehemann…
 
@@ -1596,8 +1597,8 @@ Iemon\! Wir sehen nichts\!
  Lasst mich in Ruhe\!  
 [*(Schritte auf Holz, **Gemeinsam mit Sprechen**\- \[OIWA\])*]()  
 
-**OIWA/OUME**   
-*(**Gemeinsam mit Sprechen***   
+**OIWA/OUME**  
+*(**Gemeinsam mit Sprechen***  
  Wo du hingehst, gehe ich mit dir.  
 *(STILLE. Die Lampe wird gelöscht.)*
 
@@ -1678,13 +1679,13 @@ Ich bin kein Mörder\! Ich habe getan, was nötig war\!
  Naosuke murmelt kaum zu verstehen ein Norito (ritueller Singsang), ruhig, gleichmäßig.  
 [ Das Rascheln von Papierstreifen (Shide) im Wind.\[OIWA\]  ]()  
 [Wind und Regen (\[TAKUETSU und SATO\], zusätzlicher Wind \- \[OSODE\]) werden dabei immer lauter.)  ]()  
-Oh-ha-ra-i no ko-to-ba   
+Oh-ha-ra-i no ko-to-ba  
 o moh-schi-a-ge-maß  
 Ka-mi-ta-tschi no ma-e ni  
  ke-ga-re o ha-ra-i  
  tsu-mi o ki-yo-me  
 ko-no mo-no ni fu-re-ta  
- ya-mi no ke-ha-i   
+ ya-mi no ke-ha-i  
  ka-ze ni na-ga-schi  
  mi-tsu ni ka-e-schi
 
@@ -1692,7 +1693,7 @@ ko-no mo-no ni fu-re-ta
  Kami des Himmels, Kami der Erde,  
  reinigt diesen Ort von Befleckung und Schatten…
 
-   
+  
 [ (Alle Geräusche hören schlagartig auf.)\[TAKUETSU, SATO, OSODE, OIWA\]]()  
 
 **IEMON**  
@@ -1729,7 +1730,7 @@ ko-no mo-no ni fu-re-ta
 [(Das Holz des Bodens knarzt.\[OSODE\] –\>  ]()  
  Langer gequälter Atem direkt am Mikrofon.)
 
-**OIWA/OUME**   
+**OIWA/OUME**  
  Du hast mich verraten.  
  Du hast mich allein sterben lassen.  
  Und nun willst du gereinigt werden?
@@ -1739,7 +1740,7 @@ ko-no mo-no ni fu-re-ta
  Du lügst\!  
  Ich habe dich geliebt\!
 
-**OIWA/OUME**   
+**OIWA/OUME**  
  Dann steh zu deinem Schwur und bleib bei mir (OSODE: Gong vorbereiten)
 
 [ (Ein heftiger Windstoß \[TAKUETSU\] \> Papier reißt (Shide reißen) \[NAOSKE\],  ]()  
@@ -1749,11 +1750,11 @@ ko-no mo-no ni fu-re-ta
  Die Kami hören nicht mehr zu…  
  Dein Herz widerspricht deinen Worten\!
 
-**OIWA/OUME**   
+**OIWA/OUME**  
  Kein Ritual wird dich schützen, Iemon. *(GERÄUSCHE PAUSIEREN)*
 
 **OIWA/OUME/SAMON/ITO**  
-*(im Kanon)*   
+*(im Kanon)*  
  Ich werde bei dir sein  
  in jedem Feuer,  
  in jedem Gesicht,  
@@ -1773,7 +1774,7 @@ Ich werde bei dir sein. (Alles zusammen)
 **IEMON**  
  Nein, nein, nein\!
 
-[ (Hastige Schritte auf Holz, werden leiser\!) \[TAKUE –\>   ]()  
+[ (Hastige Schritte auf Holz, werden leiser\!) \[TAKUE –\>  ]()  
 [ Reißt eine Tür auf \[OSODE\] \> Starker Regen \[SATO\]; Starker Wind \[TAKUETSU\], Donner \[OIWA\]]()  
 
  (Iemons Atem überschlägt sich)
@@ -1790,7 +1791,7 @@ Ich werde bei dir sein. (Alles zusammen)
 **OIWA**  
  Iemon… einen schönen Ort hast du zum Sterben gefunden. Ein dreckiges Hafenbecken als Grab für einen ehrlosen Ronin.
 
-**IEMON**   
+**IEMON**  
  Nein… nicht schon wieder…  
  Lass mich endlich in Ruhe\!  
 Es ist nur ein Schritt.  
@@ -1800,7 +1801,7 @@ Nur noch ein Schritt und es ist vorbei.
  Ja, Iemon, spring. Lass deinen nutzlosen Leib auf der Mole zerschellen.
 
 **OYUMI**  
-(scharf und laut)   
+(scharf und laut)  
 Iemon.
 
 **IEMON**  
@@ -1830,10 +1831,10 @@ Ja, Geliebter, räche mich.
 Ich? Ich. Nein. Verschwinde Oiwa\! Lass mich in Frieden\!
 
 **OYUMI**  
-Oiwa?   
+Oiwa?  
 Was spricht du nun von Oiwa?  
-Ich bin nicht deine tote erste Frau\!   
-Oder… Moment.   
+Ich bin nicht deine tote erste Frau\!  
+Oder… Moment.  
 Du hast doch nicht etwa? Nein\!
 
  **OIWA**  
@@ -1848,9 +1849,9 @@ Sie hat dich entlarvt, Geliebter. Was willst du nun tun?
 Willst du dich immer noch in die Strudel und Felsen unter uns stürzen?  
 Feige und ehrenlos? 
 
-**IEMON**   
+**IEMON**  
 (kalt)  
-Nein.   
+Nein.  
 [(Gerangel von Iemon und Oyumi \> Oyumi schreit \> Aufprall Körper auf Tisch, Knochenbrechen (IEMON) \> ein letztes Röcheln) (Wellen (Kies \- \[OSODE\], \[NAOSUKE\] klappt Mikro hoch))  ]()  
 [(Todes Thema \[Musik\])]()  
 
@@ -1960,7 +1961,7 @@ Große Kami, hört unser Bitten. Seht Osode und Naosuke, die vor euch treten.
 
 Sprecht eure Namen und euren Willen.
 
-**NAOSUKE**   
+**NAOSUKE**  
 (klar, voller Freude)  
 Ich, Naosuke, nehme Osode zu meiner Ehefrau und gelobe, sie zu achten und zu schützen.
 
@@ -1979,7 +1980,7 @@ Drei Schlucke, dreimal ein Band von Himmel, Erde und Mensch.
 
 (ein kleiner Schluck)
 
-**NAOSUKE**   
+**NAOSUKE**  
 Mit jedem Schluck… näher bei dir. (Windübergabe an Takuetsu)
 
 **OSODE**  
@@ -1994,7 +1995,7 @@ Die Kami nehmen euer Opfer an.
 (laut, zornig)  
 Osode\!
 
-**PRIESTER**   
+**PRIESTER**  
 (erschrocken, streng)  
 Halt\! Dies ist heiliger Boden.
 
@@ -2394,7 +2395,7 @@ Ehre? Pflichtgefühl? Schuld?
 **SATO**  
 Pass auf, was du da sagst.  
 Es ist Iemons Schuld. Er hat sie dazu gezwungen.  
-   
+  
 **TAKUETSU**  
 Sato. Er ist ihr Familienoberhaupt. Sie hat nach einem Ausweg gesucht.
 
@@ -2436,7 +2437,7 @@ Du kennst nicht die ganze Geschichte. Er kam hierher. Er bedrohte mich und zwang
 
 **SATO**  
 Osode und ihre Schwester Oiwa, seine neue Braut und ihre Familie, Samon, selbst Naosuke.  
-Iemon trägt die Schuld.   
+Iemon trägt die Schuld.  
 Sprich, Takuetsu\!  
 Wo ist er?
 
@@ -2469,7 +2470,7 @@ Bis morgen.
 [**Geräuschkulisse Verfallener Tempel:** Wind pfeift \[MUSIK\], altes Holz knarzt \[OSODE\], ein einzelnes Tempelglöckchen klirrt unregelmässig im Wind \[NAOSUKE\], Wasser tropft \[TAKUETSU\]  ]()  
 **Technik:** Nur das Licht der Laternen
 
-**IEMON**   
+**IEMON**  
 (murmelnd, wiegend)  
  Wir beide, Weißt du das noch?  
  Die Kirschblüten, so schön, so sanft.
@@ -2477,7 +2478,7 @@ Bis morgen.
 **OIWA**  
  Du wolltest mich verstoßen.
 
-**IEMON**   
+**IEMON**  
 *(erschrocken, dann trotzig)*  
  Nein. Nein\! Das wollte ich nicht.  
  Das war nur wegen der Salbe. Ich konnte es einfach nicht ertragen-
@@ -2488,12 +2489,12 @@ Und du belohnst es mit einer Hochzeit.
 
 [(Nasses Reißen \[SATO\])]()  
 
-**IEMON**   
+**IEMON**  
 (würgend)  
  Hör auf… bitte…  
  Ich kann dich nicht ansehen, wenn du so sprichst.
 
-**OIWA**   
+**OIWA**  
 (flüsternd, fast liebevoll)  
  Dann hör zu.
 
@@ -2502,7 +2503,7 @@ Und du belohnst es mit einer Hochzeit.
  Iemon… Iemon…  
 (Chor macht weiter bis unten)
 
-**IEMON**   
+**IEMON**  
 (panisch)  
  Still\! Seid still\!
 
@@ -2519,7 +2520,7 @@ Sie sind tot. Sie sind alle tot und fort\!
  Ich habe Opfer gebracht\!  
  Warum lässt du mich nicht gehen?\!
 
-**OIWA**   
+**OIWA**  
 *(plötzlich laut)*  
  WEIL DU ES GESCHWOREN HAST\!
 
@@ -2529,7 +2530,7 @@ Sie sind tot. Sie sind alle tot und fort\!
 
 (STILLE)
 
-**IEMON**   
+**IEMON**  
 *(schreiend)*  
  ICH LIEBTE DICH\!
 
@@ -2554,11 +2555,11 @@ Sie sind tot. Sie sind alle tot und fort\!
  Dein Gesicht… es, es…  
  Oiwa, dein Gesicht\!
 
-**OIWA**   
+**OIWA**  
 (zischend)  
  SIEH.
 
-**IEMON**   
+**IEMON**  
 (wahnsinnig lachend)  
  Haha… haha…  
  Du bist es… du bist wirklich hier…  
@@ -2566,11 +2567,11 @@ Sie sind tot. Sie sind alle tot und fort\!
 
 [(Gedämpfte Schritte x2(Kies?) \[NAOSUKE und IEMON\] im gleichen Becken)]()  
 
-**TAKUETSU**   
+**TAKUETSU**  
 (flüsternd)  
  Sato… da ist nichts. Oder?
 
-**SATO**   
+**SATO**  
 (leise)  
  Für uns nicht.
 
@@ -2586,12 +2587,12 @@ Niemand wird mich holen.
 
 [ (Iemon zieht sein Schwert aus der Scheide: ein schabendes Kreischen \[IEMON (optisch)\], \[OSODE (akkustisch)\])]()  
 
-**SATO**   
+**SATO**  
 (ruhig, klar)  
  Iemon.  
 (Alle Geräusche verstummen. Nur Iemons Atem.)
 
-**IEMON**   
+**IEMON**  
 (zitternd)  
  Du…  
  Auch du hast ihr Gesicht gesehen.
@@ -2600,7 +2601,7 @@ Niemand wird mich holen.
  Nein.  
  Ich sehe nur einen Mann, der schon lange tot ist.
 
-**OIWA**   
+**OIWA**  
 (wütend, verzerrt, überlaut)  
  LÜGNER\!
 

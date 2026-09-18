@@ -43,9 +43,40 @@ LINE_MARKDOWN_TEXT_BEGINNING="$(($(echo "$MARKDOWN_TEXT" | grep -n '^# Text$' | 
 LINE_MARKDOWN_TEXT_END="$(($(echo "$MARKDOWN_TEXT" | grep -n '^# Geräusche$' | cut -d ':' -f 1 | head -n 1) - 1))"
 MARKDOWN_TEXT="$(echo "$MARKDOWN_TEXT" | sed -n "$((LINE_MARKDOWN_TEXT_BEGINNING + 1)),$LINE_MARKDOWN_TEXT_END p")"
 MARKDOWN_TEXT="$(echo "$MARKDOWN_TEXT" | sed -E 's/^(.*\\\[[^]+\\\].*$)/[\1]()  /')"
+MARKDOWN_TEXT="$(echo "$MARKDOWN_TEXT" | sed -E 's/  +/  /g')"
 echo "$MARKDOWN_TEXT" > full-text.md
-MARKDOWN_TEXT="$(echo "$MARKDOWN_TEXT" | sed -E 's/^\*\*(NAOSUKE.*)\*\*/> [!CAUTION] \1/')"
-echo "$MARKDOWN_TEXT" > naosuke-text.md
+# MARKDOWN_TEXT="$(echo "$MARKDOWN_TEXT" | tr '\n' '|')"
+
+NAOSUKE_TEXT="$(echo "$MARKDOWN_TEXT" | tr '\n' '|' |
+    sed -z -E 's/((\*\*(NAOSUKE|AKI)[^*]*\*\* *(\|[^|]+)*)|([^|]*\\\[NAOSUKE\\\][^|]*))\|\|/<mark>\1<\/mark>\|\|/g' |
+    tr '|' '\n')"
+echo "$NAOSUKE_TEXT" > naosuke-text.md
+
+IEMON_TEXT="$(echo "$MARKDOWN_TEXT" | tr '\n' '|' |
+    sed -z -E 's/((\*\*(IEMON|PRIESTER)[^*]*\*\* *(\|[^|]+)*)|([^|]*\\\[IEMON\\\][^|]*))\|\|/<mark>\1<\/mark>\|\|/g' |
+    tr '|' '\n')"
+echo "$IEMON_TEXT" > iemon-text.md
+
+OSODE_TEXT="$(echo "$MARKDOWN_TEXT" | tr '\n' '|' |
+    sed -z -E 's/((\*\*(OSODE|OUME|OYUMI)[^*]*\*\* *(\|[^|]+)*)|([^|]*\\\[OSODE\\\][^|]*))\|\|/<mark>\1<\/mark>\|\|/g' |
+    tr '|' '\n')"
+echo "$OSODE_TEXT" > osode-text.md
+
+SATO_TEXT="$(echo "$MARKDOWN_TEXT" | tr '\n' '|' |
+    sed -z -E 's/((\*\*(SATO|SAMON)[^*]*\*\* *(\|[^|]+)*)|([^|]*\\\[OSODE\\\][^|]*))\|\|/<mark>\1<\/mark>\|\|/g' |
+    tr '|' '\n')"
+echo "$SATO_TEXT" > sato-text.md
+
+OIWA_TEXT="$(echo "$MARKDOWN_TEXT" | tr '\n' '|' |
+    sed -z -E 's/((\*\*OIWA[^*]*\*\* *(\|[^|]+)*)|([^|]*\\\[OIWA\\\][^|]*))\|\|/<mark>\1<\/mark>\|\|/g' |
+    tr '|' '\n')"
+echo "$OIWA_TEXT" > oiwa-text.md
+
+TAKUETSU_TEXT="$(echo "$MARKDOWN_TEXT" | tr '\n' '|' |
+    sed -z -E 's/((\*\*(TAKUETSU|ITO KIHEI|MEISTER)[^*]*\*\* *(\|[^|]+)*)|([^|]*\\\[TAKUETSU\\\][^|]*))\|\|/<mark>\1<\/mark>\|\|/g' |
+    tr '|' '\n')"
+echo "$TAKUETSU_TEXT" > takuetsu-text.md
+
 LINE_TEXT_END="$(($(echo "$TEXT" | grep -n '^Geräusche$' | cut -d ':' -f 1 | head -n 1) - 1))"
 SHORTENED_TEXT="$(echo "$TEXT" | head -n "$LINE_TEXT_END")"
 echo "$TEXT" > text.txt

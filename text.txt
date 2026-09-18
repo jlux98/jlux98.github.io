@@ -418,7 +418,8 @@ Aber eine Frau, die mit ihm fällt, steht nie wieder auf.
 IEMON
 Ihr richtet schnell, Schwiegervater.
 Euch ist die Ehre eurer Familie wichtiger als alles andere.
- Aber ihr habt keine Ahnung, was es heißt, in dieser neuen Welt zu leben. [Schritte bis hier hin]
+ Aber ihr habt keine Ahnung, was es heißt, in dieser neuen Welt zu leben.
+[Schritte bis hier hin]
 
 
 SAMON
@@ -430,7 +431,7 @@ IEMON
  Dann wisst ihr, was nun kommt.
 
 
-(Geräuschkulisse stoppt [STILLE] > Schwert wird gezogen [OSODE] > Stoffgeräusch [SATO] > Keuchen von Samon)
+(Geräuschkulisse stoppt [STILLE] > Schwert wird gezogen (Sound [OSODE], Visual [IEMON]) > Stoffgeräusch [SATO] > Keuchen von Samon)
 
 
 SAMON
@@ -5389,7 +5390,7 @@ Geräuschkulisse Haus Samon: Leichter Regen [OIWA]; Knistern von Feuer [TAKUETSU
 (lange Pause; Iemon geht langsam im Raum umher = Schritte [OSODE])
  Aber ihr habt keine Ahnung, was es heißt, in dieser neuen Welt zu leben. [Schritte bis hier hin]
 (Geräuschkulisse stoppt [STILLE] 
- > Schwert wird gezogen [OSODE] 
+ > Schwert wird gezogen (Sound [OSODE], Visual [IEMON]) 
  > Stoffgeräusch [SATO] 
  > Keuchen von Samon)
 (Todes Thema [Musik])
