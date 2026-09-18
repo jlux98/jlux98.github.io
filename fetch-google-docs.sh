@@ -42,13 +42,13 @@ MARKDOWN_TEXT="$(get_file markdown | sed 's/\r//g')"
 LINE_MARKDOWN_TEXT_BEGINNING="$(($(echo "$MARKDOWN_TEXT" | grep -n '^# Text$' | cut -d ':' -f 1 | head -n 1) - 1))"
 LINE_MARKDOWN_TEXT_END="$(($(echo "$MARKDOWN_TEXT" | grep -n '^# Geräusche$' | cut -d ':' -f 1 | head -n 1) - 1))"
 MARKDOWN_TEXT="$(echo "$MARKDOWN_TEXT" | sed -n "$((LINE_MARKDOWN_TEXT_BEGINNING + 1)),$LINE_MARKDOWN_TEXT_END p")"
-MARKDOWN_TEXT="$(echo "$MARKDOWN_TEXT" | sed -E 's/^(.*\\\[[^]+\\\].*$)/[\1]()  /')"
+MARKDOWN_TEXT="$(echo "$MARKDOWN_TEXT" | sed -E 's/^(.*\\\[[^]+\\\].*$)/<a href="">\1]<\/a>  /')"
 MARKDOWN_TEXT="$(echo "$MARKDOWN_TEXT" | sed -E 's/  +/  /g')"
 echo "$MARKDOWN_TEXT" > full-text.md
 # MARKDOWN_TEXT="$(echo "$MARKDOWN_TEXT" | tr '\n' '|')"
 
 NAOSUKE_TEXT="$(echo "$MARKDOWN_TEXT" | tr '\n' '|' |
-    sed -z -E 's/((\*\*(NAOSUKE|AKI)[^*]*\*\* *(\|[^|]+)*)|([^|]*\\\[NAOSUKE\\\][^|]*))\|\|/<mark>\1<\/mark>\|\|/g' |
+    sed -E 's/((\*\*(NAOSUKE|AKI)[^*]*\*\* *(\|[^|]+)*)|([^|]*\\\[NAOSUKE\\\][^|]*))\|\|/<mark>\1<\/mark>\|\|/g' |
     tr '|' '\n')"
 echo "$NAOSUKE_TEXT" > naosuke-text.md
 

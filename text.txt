@@ -5388,7 +5388,7 @@ Geräuschkulisse Haus Samon: Leichter Regen [OIWA]; Knistern von Feuer [TAKUETSU
 (Öffnen Tür [OSODE] 
  > Schritte auf Holz [OSODE])
 (lange Pause; Iemon geht langsam im Raum umher = Schritte [OSODE])
- Aber ihr habt keine Ahnung, was es heißt, in dieser neuen Welt zu leben. [Schritte bis hier hin]
+[Schritte bis hier hin]
 (Geräuschkulisse stoppt [STILLE] 
  > Schwert wird gezogen (Sound [OSODE], Visual [IEMON]) 
  > Stoffgeräusch [SATO] 
