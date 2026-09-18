@@ -47,15 +47,31 @@ MARKDOWN_TEXT="$(echo "$MARKDOWN_TEXT" | sed -E 's/  +/  /g')"
 echo "$MARKDOWN_TEXT" > full-text.md
 # MARKDOWN_TEXT="$(echo "$MARKDOWN_TEXT" | tr '\n' '|')"
 
+convert_with_css() {
+    INPUT_FILE_NAME="$1"
+    OUTPUT_FILE_NAME="${2:-${INPUT_FILE_NAME}}"
+    pandoc "$INPUT_FILE_NAME.md" -f markdown+smart+yaml_metadata_block+mark -t html -o "$OUTPUT_FILE_NAME.html.tmp"
+    echo '<link rel="stylesheet" type="text/css" href="minimal.css">' > "$OUTPUT_FILE_NAME.html"
+    echo '<body>' >> "$OUTPUT_FILE_NAME.html"
+    cat "$OUTPUT_FILE_NAME.html.tmp" >> "$OUTPUT_FILE_NAME.html"
+    echo '</body>' >> "$OUTPUT_FILE_NAME.html"
+    rm "$OUTPUT_FILE_NAME.html.tmp"
+}
+
+convert_with_css "README" "index"
+convert_with_css "full-text"
+
 render_actor_part() {
     SPEAKING_EXPRESSION="$1"
     SOUNDEFFECT_EXPRESSION="$2"
     OUTPUT_FILE_NAME=$3
-    ACTOR_TEXT="$(echo "$MARKDOWN_TEXT" | tr '\n' '|' |
-        sed -z -E 's/((\*\*('"$SPEAKING_EXPRESSION"')[^*]*\*\* *(\|[^|]+)*)|([^|]*\\\['"$SOUNDEFFECT_EXPRESSION"'\\\][^|]*\(\)))(  )?\|\|/==\1==  \|\|/g' |
+    ACTOR_TEXT="$(echo "$MARKDOWN_TEXT" | sed -E 's/^# Text/# '"$SOUNDEFFECT_EXPRESSION"'/' )"
+    ACTOR_TEXT="$(echo "$ACTOR_TEXT" | tr '\n' '|' |
+        sed -z -E 's/(\*\*('"$SPEAKING_EXPRESSION"')[^*]*\*\* *(\|[^|]+)*)\|\|/==\1==\|\|/g' |
+        sed -z -E 's/([^|]*\\\['"$SOUNDEFFECT_EXPRESSION"'\\\][^|]*) *\(\)(  )?\|\|/==\1\(\)==  \|\|/g' |
         tr '|' '\n')"
     echo "$ACTOR_TEXT" > "$OUTPUT_FILE_NAME.md"
-    pandoc "$OUTPUT_FILE_NAME.md" -f markdown+smart+yaml_metadata_block+mark -t html -o "$OUTPUT_FILE_NAME.html"
+    convert_with_css "$OUTPUT_FILE_NAME"
     rm "$OUTPUT_FILE_NAME.md"
 }
 
