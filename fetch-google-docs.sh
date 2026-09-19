@@ -57,6 +57,7 @@ convert_with_css() {
     OUTPUT_FILE_NAME="${2:-${INPUT_FILE_NAME}}"
     pandoc "$INPUT_FILE_NAME.md" -f markdown+smart+yaml_metadata_block+mark -t html -o "$OUTPUT_FILE_NAME.html.tmp"
     echo '<link rel="stylesheet" type="text/css" href="minimal.css">' > "$OUTPUT_FILE_NAME.html"
+    cat zoom-buttons.html >> "$OUTPUT_FILE_NAME.html"
     echo '<body>' >> "$OUTPUT_FILE_NAME.html"
     cat "$OUTPUT_FILE_NAME.html.tmp" >> "$OUTPUT_FILE_NAME.html"
     echo '</body>' >> "$OUTPUT_FILE_NAME.html"
@@ -73,7 +74,7 @@ render_actor_part() {
     ACTOR_TEXT="$(echo "$MARKDOWN_TEXT" | sed -E 's/^# Text/# '"$SOUNDEFFECT_EXPRESSION"'/' )"
     ACTOR_TEXT="$(echo "$ACTOR_TEXT" | tr '\n' '|' |
         sed -z -E 's/(\*\*('"$SPEAKING_EXPRESSION"')[^*]*\*\* *(\|[^|]+)*)\|\|/==\1==\|\|/g' |
-        sed -z -E 's/([^|]*\\\['"$SOUNDEFFECT_EXPRESSION"'\\\][^|]*) *\(\)(  )?\|\|/==\1\(\)==  \|\|/g' |
+        sed -z -E 's/([^|]*\\\[[a-zA-Z, ]*'"$SOUNDEFFECT_EXPRESSION"'[a-zA-Z, ]*\\\][^|]*) *\(\)(  )?\|\|/==\1\(\)==  \|\|/g' |
         tr '|' '\n')"
     echo "$ACTOR_TEXT" > "$OUTPUT_FILE_NAME.md"
     convert_with_css "$OUTPUT_FILE_NAME"

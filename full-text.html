@@ -1,4 +1,59 @@
 <link rel="stylesheet" type="text/css" href="minimal.css">
+<!--
+Source - https://stackoverflow.com/a/34635971
+Posted by Lukas Sommer, modified by community. See post 'Timeline' for change history
+Retrieved 2026-09-20, License - CC BY-SA 3.0
+-->
+
+<!-- The CSS is assumed to apply “display=none” to the elements
+with class="no-print" when used for printing. -->
+<header class="zoom-header">
+<p class="no-print">
+  <!-- Some text size tools.
+  The CSS is assumed to apply “display=none” to the elements
+  with id="textSizeTools". So the text size tools are
+  by default invisible and do not take any space in the default
+  rendering. -->
+  <span id="textSizeTools">
+    <span class="linkStyle zoomInCursor" onclick="javascript:resizeText(true)">
+      [größer]
+    </span>
+    –
+    <span class="linkStyle zoomOutCursor" onclick="javascript:resizeText(false)">
+      [kleiner]
+    </span>
+  </span>
+</p>
+</header>
+<script>
+  /* document.body.style.fontSize is empty – though “font-size=100%” is set in
+   * the CSS. We initialize it here with the value "100%", that
+   * corresponds to our CSS entry . From
+   * now on, the value is available in ECMAScript. */
+  document.body.style.fontSize = "100%";
+  var resizeText = (function () {
+      'use strict';
+      var step = 0;
+      return function (bigger) {
+          if (bigger !== true) {
+              step -= 1;
+          } else {
+              step += 1;
+          }
+          document.body.style.fontSize = 100 * Math.pow(1.2, step) + "%";
+      };
+  }());
+  /* If the browser is scripting-enabled, than this script will be executed
+   * and the text size tools will become visible. If the browser is not scripting-enabled,
+   * than this script will not be executed and the text size tools will stay hidden.
+   * This is intentional, because without scripting, the text size tools would not
+   * work, and it is not good if the user can see buttons and links that
+   * do not work. The same is if this script does not work because some
+   * of the commands do not work in the current browser: The script cannot
+   * be executed until here, so the text size tools will not be made
+   * visible. */
+  document.getElementById("textSizeTools").style.display = 'initial';
+</script>
 <body>
 <h1 id="text">Text</h1>
 <p><strong>Legende:</strong></p>

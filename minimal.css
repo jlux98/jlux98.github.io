@@ -82,3 +82,32 @@ blockquote::before, blockquote::after, q::before, q::after {
     content: '';
     content: none;
 }
+
+body {
+  margin: 0;
+  justify-content: center;
+  width: 100%;
+  margin: auto;
+}
+
+.zoom-header {
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  background: var(--color-background);
+  border-bottom: 1px solid #ddd;
+  padding: 0.5rem 1rem;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%
+}
+
+.no-print {
+  margin: 0;
+}
+
+#textSizeTools {
+  display: none; /* hidden until JS runs */
+}

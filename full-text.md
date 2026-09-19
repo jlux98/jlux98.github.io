@@ -1,6 +1,6 @@
 # Text
 
-**Legende:**
+ **Legende:**
 
 Blau: Geräuschkulisse  
 Rot: Schauspieleranweisung  
