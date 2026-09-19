@@ -17,6 +17,11 @@ if [ -z $(type -P gcloud) ]; then
     exit 1
 fi
 
+if [ -z $(type -P pandoc) ]; then
+    echo "This script requires pandoc. Please install pandoc and try again."
+    exit 1
+fi
+
 TAB_NAME="Geräusche nach Szenen (gefiltert aus Text)"
 GOOGLE_APPLICATION_CREDENTIALS="${1:-"/opt/theater/.google-sa-auth.json"}"
 PREAMBEL="Die nachfolgende Auflistung wurde maschinell erstellt, sie enthält jede Zeile aus dem Stücktext, in der eckige Klammern vorkommen.
