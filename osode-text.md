@@ -304,7 +304,7 @@ Euch ist die Ehre eurer Familie wichtiger als alles andere.
 **IEMON**  
  Dann wisst ihr, was nun kommt.
 
-==[*(Geräuschkulisse stoppt \[ALLE\] \> Schwert wird gezogen (Sound \[OSODE\], Visual \[IEMON\]) \> Stoffgeräusch \[SATO\] \> Keuchen von Samon)*]()==  
+==[*(Geräuschkulisse stoppt \[ALLE\] \> Schwert wird gezogen (Sound \[OSODE\], Visual \[IEMON\]) \> Stoffgeräusch \[SATO\] \> Keuchen von \[SATO\])*]()==  
 
 **SAMON**  
  Iemon... du…
@@ -361,7 +361,7 @@ Endlich, Sato-san. Lass mich sehen wie du…
  *(laut)*  
  Götter... was hab ich getan…
 
-[*(Ein entferntes Hundegebell. \[IEMON\] Schritte auf Kies \[OSODE\]; \[IEMON\] und Rufe*  ]()  
+==[*(Ein entferntes Hundegebell. \[IEMON\] Schritte auf Kies \[OSODE\]; \[IEMON\] und Rufe*  ]()==  
 *Passanten rufen*  
 [*(Da hat jemand geschrien\! \[SATO\]*  ]()  
 [*Liegt da einer? \[OIWA\]*  ]()  
@@ -380,14 +380,14 @@ Endlich, Sato-san. Lass mich sehen wie du…
 
 [***Geräuschkulisse Haus Samon**: Schwerer Regen \[SATO\] ab Tür zu: **Leichter Regen \[OIWA\], Knistern von Feuer \[TAKUETSU\] \[MUSIK klingt aus\]***]()  
 
-==[*(Schnelle Schritte auf Kies \[OSODE\] \> Keuchen von Naosuke \>  Klopfen an einer Tür \[OSODE\])*]()==  
+==[*(Schnelle Schritte auf Kies \[OSODE\] \> Keuchen von \[NAOSUKE\] \>  Klopfen an einer Tür \[OSODE\])*]()==  
 
 **NAOSUKE**  
 *(keuchend, nervös)*  
  Iemon\! Bist du da? Du sagtest mir, du wärest  heute noch im Haus deines Schwiegervaters\!  
  Öffne… ich flehe dich an\!i
 
-[*(Tür wird langsam geöffnet \[OSODE\])*  ]()  
+==[*(Tür wird langsam geöffnet \[OSODE\])*  ]()==  
 **IEMON**  
  *(ernst, angespannt)*  
  Naosuke. Du kommst zu einer Stunde, in der kein guter Mensch mehr auf den Wegen ist.  
@@ -471,7 +471,8 @@ Dafür binde ich mein Schicksal an dieses Haus… und an dich.
 
 [***Geräuschkulisse Haus Samon**: **Donner \[OIWA\]**; Leichter Regen \[SATO\]  Knistern von Feuer \[TAKUETSU\]*]()  
 
-[*Öffnen einer Tür \[OSODE\] –\> Schritte \[OIWA\] und \[OSODE\]*  ]()  
+==[*Öffnen einer Tür \[OSODE\] –\> Schritte \[OIWA\] und \[OSODE\]*]()==  
+
 **IEMON**  
 Oiwa. Osode. Da seid ihr endlich.
 
@@ -535,7 +536,12 @@ Ja, Iemon-dono.==
 Ich danke dir, Iemon-dono.
 
 **IEMON**  
-[Oiwa-san. (\[OIWA\]: Keine Reaktion) Oiwa-San (\[OIWA\]: Ja?), weise die Diener an, sich um deinen Vater zu kümmern. (\[OIWA\]: Jawohl) Der Rest von euch kann nun gehen. Naosuke-san, wir besprechen unser weiteres Vorgehen morgen.]()  
+Oiwa-san. (Keine Reaktion von Oiwa) Oiwa-San\!  
+[(\[OIWA\]: Ja?)  ]()  
+weise die Diener an, sich um deinen Vater zu kümmern.  
+[(\[OIWA\]: Jawohl)  ]()  
+Der Rest von euch kann nun gehen. Naosuke-san, wir besprechen unser weiteres Vorgehen morgen.  
+[Zustimmendes Geräusch \[NAOSUKE\] (Hmm-mm)]()  
 
 [\[Übergangsmusik\]]()  
 
@@ -637,7 +643,7 @@ Natürlich, Herrin.
 Oh man spürt die Wirkung ja richtig. Die Salbe sie… sie brennt\!  
 Mach sie ab Aki, mach sie sie ab.  
   
-*(Panisches Gefuchtel und Schreie und Keuchen von Oiwa aus Schmerz, von Aki Panik)*
+[*(Panisches Gefuchtel und Schreie und Keuchen von \[OIWA\] aus Schmerz, von Aki Panik \[NAOSUKE\])*]()  
 
 **AKI**  
 (panisch)  
@@ -725,8 +731,7 @@ Nun tu doch endlich was\!
 **OIWA**  
  AKI\!  
  Komm SOFORT zurück\!  
- KOMM ZURÜCK\!\!
-
+ KOMM ZURÜCK\!\!  
 (Oiwas schweres, ungleichmäßiges Atmen.)  
 (Musik: Klagethema)  
  Es… ist nichts…  
@@ -833,10 +838,10 @@ Aki hat nur zu fest gerieben.
 
 ==[*(Seine Schritte entfernen sich \[OSODE\] –\> Schiebetür zu***.** \[OSODE\]]()==  
 
-[**\[MUSIK: Klagethema\]**  ]()  
- (Oiwas schwerer Atem)
+[**\[MUSIK: Klagethema\]**]()  
 
 **OIWA**  
+ (schwerer Atem)  
  (leise, zu sich, wie in Trance)  
  Er…  
  Er kommt wieder.  
@@ -846,7 +851,7 @@ Wenn ich morgen wieder schön bin.
 ### **Szene 9: Hat deine Braut…**
 
 **Ort: Bordell Figuren: Iemon, Takuetsu**  
-==[*Geräuschkulisse Bordell: **Shamisenmusik (upbeat MUSIK), gedämpftes Gelächter und leichte Sake-Trunkenheit im Hintergrund (Go wird gespielt, gelalle, lachen, anstoßen) \[ALLE\]***]()==  
+[*Geräuschkulisse Bordell: **Shamisenmusik (upbeat MUSIK), gedämpftes Gelächter und leichte Sake-Trunkenheit im Hintergrund (Go wird gespielt, gelalle, lachen, anstoßen) \[ALLE\]***]()  
 
 ==[*( 2 Schritte auf Tatami \[OSODE\])*]()==  
 
@@ -943,7 +948,9 @@ Wie könnt ihr nur? Warum solltet ihr wollen, dass ich…
 (Licht wird dunkel/blau, um zu zeigen, dass Oiwas Gesicht für Takuetsu nicht zu sehen ist.)
 
 **TAKUETSU**  
-[ Oiwa-sama…? (\[OIWA\] wacht auf) Bitte erschreckt euch nicht. Ich… ich muss mit euch sprechen.]()  
+ Oiwa-sama…?  
+[(\[OIWA\] wacht auf)  ]()  
+Bitte erschreckt euch nicht. Ich… ich muss mit euch sprechen.
 
 **OIWA**  
  Wer…? Takuetsu? Was tut ihr hier? Verschwindet\! Geht\!
@@ -1083,7 +1090,8 @@ Geliebter.
 
 **Einleitung: MUSIK Thema mit Gesang**
 
-**Ort: Garten am Haus Iemons; Figuren: Iemon, Oume, Ito Kihei, Oiwa**  
+**Ort: Garten am Haus Iemons; Figuren: Iemon, Oume, Ito Kihei, Oiwa**
+
 ==[**Geräuschkulisse Garten: Vogelgezwitscher \[OIWA\]**, Frosch/Zikaden \[OIWA\], ein sanfter Wind bewegt Bambus \[SATO\] und \[OSODE\], Klockbambus \[NAOSUKE\], Schritte auf Kies ??\[TAKUETSU\]??\]]()==  
 
 ***ITO KIHEI***  
@@ -1439,7 +1447,7 @@ mit mir.
 **Ort: Garten am Haus des Iemon; Figuren: Iemon, Naosuke**
 
 [**\[MUSIK ganz kurzer Übergang\]**  ]()  
-==[**Geräuschkulisse: Hahnenschrei \[IEMON\]** –\> Wind in Bambus \[SATO\], \[OSODE\], Vogelgezwitscher \[OIWA\]]()==  
+[**Geräuschkulisse: Hahnenschrei \[IEMON\]** –\> Wind in Bambus \[SATO\], \[OSODE\], Vogelgezwitscher \[OIWA\]]()  
 
  **NAOSUKE**  
  Ihr habt nach mir schicken lassen, Iemon?
@@ -1524,7 +1532,7 @@ Es muss ein Fluch sein.
 ### Szene 13: Geister im Bordell
 
 **Ort: Bordell; Figuren: Iemon, Sato, Takuetsu, Oiwa**  
-==[***Geräuschkulisse Bordell:** **Shamisenmusik (MUSIK),** gedämpftes Gelächter \[ALLE\], mittelschwere Sake-Trunkenheit im Hintergrund. \[ALLE\]*]()==  
+[***Geräuschkulisse Bordell:** **Shamisenmusik (MUSIK),** gedämpftes Gelächter \[ALLE\], mittelschwere Sake-Trunkenheit im Hintergrund. \[ALLE\]*]()  
 
 **SATO**  
  (lachend)  
@@ -1685,7 +1693,7 @@ Ich bin kein Mörder\! Ich habe getan, was nötig war\!
  sondern um sie fernzuhalten.
 
 [ (Papier raschelt \[OIWA\] –\>  ]()  
-==[ Mittelmächtiger Gong \[OSODE\])]()==  
+[ Mittelmächtiger Gong \[OSODE\])]()  
 
  Ein Shintō-Ritual der Abwehr.  
  Es wird deinen Geist schützen –  
@@ -1717,7 +1725,7 @@ ko-no mo-no ni fu-re-ta
  reinigt diesen Ort von Befleckung und Schatten…
 
   
-==[ (Alle Geräusche hören schlagartig auf.)\[TAKUETSU\], \[SATO\], \[OSODE\], \[OIWA\]]()==  
+[ (Alle Geräusche hören schlagartig auf.)\[TAKUETSU\], \[SATO\], \[OSODE\], \[OIWA\]]()  
 
 **IEMON**  
  Naosuke…  
@@ -1750,7 +1758,7 @@ ko-no mo-no ni fu-re-ta
  Bleib im Kreis\!  
  Schau sie nicht an\!
 
-[(Das Holz des Bodens knarzt.\[OSODE\] –\>  ]()  
+==[(Das Holz des Bodens knarzt.\[OSODE\] –\>  ]()==  
  Langer gequälter Atem direkt am Mikrofon. (OIWA)
 
 **OIWA/OUME**  
@@ -1764,10 +1772,10 @@ ko-no mo-no ni fu-re-ta
  Ich habe dich geliebt\!
 
 **OIWA/OUME**  
-==[ Dann steh zu deinem Schwur und bleib bei mir (\[OSODE\]: Gong vorbereiten)]()==  
+[ Dann steh zu deinem Schwur und bleib bei mir (\[OSODE\]: Gong vorbereiten)]()  
 
 [ (Ein heftiger Windstoß \[TAKUETSU\] \> Papier reißt (Shide reißen) \[NAOSUKE\],  ]()  
-==[ Der Gong fällt klirrend zu Boden \[OSODE\])]()==  
+[ Der Gong fällt klirrend zu Boden \[OSODE\])]()  
 
 **NAOSUKE**  
  Die Kami hören nicht mehr zu…  
@@ -1801,14 +1809,14 @@ Ich werde bei dir sein. (X 3, Alle zusammen)
  Nein, nein, nein\!
 
 [ (Hastige Schritte auf Holz, werden leiser\!) \[TAKUETSU\] –\>  ]()  
-==[ Reißt eine Tür auf \[OSODE\] \> Starker Regen \[SATO\]; Starker Wind \[TAKUETSU\], Donner \[OIWA\]]()==  
+[ Reißt eine Tür auf \[OSODE\] \> Starker Regen \[SATO\]; Starker Wind \[TAKUETSU\], Donner \[OIWA\]]()  
 
  (Iemons Atem überschlägt sich)
 
 ### Szene 15: Hafen des Todes
 
 **Ort: Hafen; Figuren: Iemon, Naosuke, Oyumi, Oiwa, Takuetsu**  
-==[**Geräuschkulisse Hafen: Möwen \[OSODE**\], Wellen (Kies \> \[NAOSUKE\], später \[OSODE\] Brandung (durch Atem \> \[SATO\])]()==  
+[**Geräuschkulisse Hafen: Möwen \[OSODE**\], Wellen (Kies \> \[NAOSUKE\], später \[OSODE\] Brandung (durch Atem \> \[SATO\])]()  
 
 **IEMON**  
  Genug…  
@@ -1918,7 +1926,7 @@ Du warst es, Iemon. Und bei deiner Ehre, stell dich deinen Taten oder du wirst a
 
 **IEMON**  
 Nein, ich war es nicht. Ich habe nichts getan. Ich- ich muss fort von hier.  
-==[(Laufschritte auf Kies (Iemon geht ab) \- \[OSODE\])]()==  
+[(Laufschritte auf Kies (Iemon geht ab) \- \[OSODE\])]()  
 
 **TAKUETSU**  
 Iemon\! Warte, du kannst doch nicht-
@@ -2056,7 +2064,7 @@ Dann komm, du Hund\!
 ==[**Geräuschkulisse Tempelvorhof:** gelegentliches Krähen von Krähen \[WIEBKE\], Wind der durch Bambus rauscht \[TAKUETSU\], \[OSODE\]]()==  
 
 [(Schritte auf Kies \[IEMON\])  ]()  
-==[(Brief raschelt \[OSODE\])]()==  
+[(Brief raschelt \[OSODE\])]()  
 
 ==**OSODE**  
 Naosuke… nimm dies.==
@@ -2496,7 +2504,7 @@ Bis morgen.
 
 **Ort: Verfallener Tempel; Figuren: Iemon, Sato, Takuetsu, Oiwa, Osode**
 
-[**Geräuschkulisse Verfallener Tempel:** Wind pfeift \[MUSIK\], altes Holz knarzt \[OSODE\], ein einzelnes Tempelglöckchen klirrt unregelmässig im Wind (\[NAOSUKE\] über Kiesbecken), Wasser tropft \[TAKUETSU\]  ]()  
+==[**Geräuschkulisse Verfallener Tempel:** Wind pfeift \[MUSIK\], altes Holz knarzt \[OSODE\], ein einzelnes Tempelglöckchen klirrt unregelmässig im Wind (\[NAOSUKE\] über Kiesbecken), Wasser tropft \[TAKUETSU\]  ]()==  
 **Technik:** Nur das Licht der Laternen
 
 **IEMON**  
@@ -2646,7 +2654,7 @@ Niemand wird mich holen.
 
 **SATO**  
  Es reicht.  
-==[(Schwert wird gezogen \[OSODE\] & \[SATO\])]()==  
+[(Schwert wird gezogen \[OSODE\] & \[SATO\])]()  
 
 **IEMON**  
  Wenn ich sterbe…  
@@ -2712,4 +2720,4 @@ Diese Geschichte mahnt uns,
 
 *(Musik hört auf)*
 
-[(*Gong \- \[OSODE\]*)]()  
+==[(*Gong \- \[OSODE\]*)]()==  

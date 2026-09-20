@@ -5,25 +5,43 @@ Posted by Lukas Sommer, modified by community. See post 'Timeline' for change hi
 Retrieved 2026-09-20, License - CC BY-SA 3.0
 -->
 
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/mdbassit/Coloris@latest/dist/coloris.min.css" />
+<script src="https://cdn.jsdelivr.net/gh/mdbassit/Coloris@latest/dist/coloris.min.js"></script>
+
 <!-- The CSS is assumed to apply “display=none” to the elements
 with class="no-print" when used for printing. -->
 <header class="zoom-header">
-<p class="no-print">
-  <!-- Some text size tools.
+  <p class="no-print">
+    <!-- Some text size tools.
   The CSS is assumed to apply “display=none” to the elements
   with id="textSizeTools". So the text size tools are
   by default invisible and do not take any space in the default
   rendering. -->
-  <span id="textSizeTools">
-    [<span class="linkStyle zoomInCursor" onclick="javascript:resizeText(true)">
-      größer
-    </span>]
-    –
-    [<span class="linkStyle zoomOutCursor" onclick="javascript:resizeText(false)">
-      kleiner
-    </span>]
-  </span>
-</p>
+    <span id="textSizeTools">
+      [<span class="linkStyle zoomInCursor" onclick="javascript:resizeText(true)">
+        größer
+      </span>]
+      –
+      [<span class="linkStyle zoomOutCursor" onclick="javascript:resizeText(false)">
+        kleiner
+      </span>]
+    </span>
+
+    <label class="color-label">
+      <span>Geräusche</span>
+      <input type="text" class="coloris" id="soundsPicker" value="#79A6D8">
+    </label>
+
+    <label class="color-label">
+      <span>Einsätze</span>
+      <input type="text" class="coloris" id="markPicker" value="#573875">
+    </label>
+
+
+    <button id="themeToggle" type="button" aria-label="Switch to light mode">
+      ☀️
+    </button>
+  </p>
 </header>
 <script>
   /* document.body.style.fontSize is empty – though “font-size=100%” is set in
@@ -32,16 +50,16 @@ with class="no-print" when used for printing. -->
    * now on, the value is available in ECMAScript. */
   document.body.style.fontSize = "100%";
   var resizeText = (function () {
-      'use strict';
-      var step = 0;
-      return function (bigger) {
-          if (bigger !== true) {
-              step -= 1;
-          } else {
-              step += 1;
-          }
-          document.body.style.fontSize = 100 * Math.pow(1.2, step) + "%";
-      };
+    'use strict';
+    var step = 0;
+    return function (bigger) {
+      if (bigger !== true) {
+        step -= 1;
+      } else {
+        step += 1;
+      }
+      document.body.style.fontSize = 100 * Math.pow(1.2, step) + "%";
+    };
   }());
   /* If the browser is scripting-enabled, than this script will be executed
    * and the text size tools will become visible. If the browser is not scripting-enabled,
@@ -53,6 +71,57 @@ with class="no-print" when used for printing. -->
    * be executed until here, so the text size tools will not be made
    * visible. */
   document.getElementById("textSizeTools").style.display = 'initial';
+</script>
+
+<script>
+  Coloris({
+    el: '#soundsPicker',
+    theme: 'dark',
+    themeInline: false,
+    alpha: false,
+    format: 'hex',
+    swatches: ['#573875', '#79A6D8', '#0d1109', '#F5E8B7', '#ffffff']
+  });
+
+  document.querySelector('#soundsPicker').addEventListener('input', (e) => {
+    document.documentElement.style.setProperty('--color-links', e.target.value);
+  });
+</script>
+<script>
+  Coloris({
+    el: '#markPicker',
+    theme: 'dark',
+    themeInline: false,
+    alpha: false,
+    format: 'hex',
+    swatches: ['#573875', '#79A6D8', '#0d1109', '#F5E8B7', '#ffffff']
+  });
+
+  document.querySelector('#markPicker').addEventListener('input', (e) => {
+    document.documentElement.style.setProperty('--color-highlights', e.target.value);
+  });
+</script>
+<script>
+  const root = document.documentElement;
+  const toggle = document.getElementById("themeToggle");
+
+  function applyTheme(mode) {
+    root.dataset.theme = mode;
+    toggle.textContent = mode === "dark" ? "☀️" : "🌙";
+    toggle.setAttribute(
+      "aria-label",
+      mode === "dark" ? "Switch to light mode" : "Switch to dark mode"
+    );
+    localStorage.setItem("theme", mode);
+  }
+
+  const savedTheme = localStorage.getItem("theme") || "dark";
+  applyTheme(savedTheme);
+
+  toggle.addEventListener("click", () => {
+    const next = root.dataset.theme === "dark" ? "light" : "dark";
+    applyTheme(next);
+  });
 </script>
 <body>
 <h1 id="text">Text</h1>
@@ -325,7 +394,7 @@ Und ich weiß, was geschieht, wenn man sie verliert.</p>
 Dann wisst ihr, was nun kommt.</p>
 <p><a href=""><em>(Geräuschkulisse stoppt [ALLE] &gt; Schwert wird
 gezogen (Sound [OSODE], Visual [IEMON]) &gt; Stoffgeräusch [SATO] &gt;
-Keuchen von Samon)</em></a></p>
+Keuchen von [SATO])</em></a></p>
 <p><strong>SAMON</strong><br />
 Iemon… du…</p>
 <p><strong>IEMON</strong><br />
@@ -389,7 +458,7 @@ Götter… was hab ich getan…</p>
 Regen [SATO] ab Tür zu: <strong>Leichter Regen [OIWA], Knistern von
 Feuer [TAKUETSU] [MUSIK klingt aus]</strong></em></a></p>
 <p><a href=""><em>(Schnelle Schritte auf Kies [OSODE] &gt; Keuchen von
-Naosuke &gt; Klopfen an einer Tür [OSODE])</em></a></p>
+[NAOSUKE] &gt; Klopfen an einer Tür [OSODE])</em></a></p>
 <p><strong>NAOSUKE</strong><br />
 <em>(keuchend, nervös)</em><br />
 Iemon! Bist du da? Du sagtest mir, du wärest heute noch im Haus deines
@@ -466,8 +535,8 @@ Oiwa</strong></p>
 <strong>Donner [OIWA]</strong>; Leichter Regen [SATO] Knistern von Feuer
 [TAKUETSU]</em></a></p>
 <p><a href=""><em>Öffnen einer Tür [OSODE] –&gt; Schritte [OIWA] und
-[OSODE]</em></a><br />
-<strong>IEMON</strong><br />
+[OSODE]</em></a></p>
+<p><strong>IEMON</strong><br />
 Oiwa. Osode. Da seid ihr endlich.</p>
 <p><strong>OIWA</strong><br />
 Iemon-san? Du hast nach meiner Schwester und mir schicken lassen? Was
@@ -528,10 +597,13 @@ Ja, Iemon-dono.</p>
 <p><strong>NAOSUKE</strong><br />
 Ich danke dir, Iemon-dono.</p>
 <p><strong>IEMON</strong><br />
-<a href="">Oiwa-san. ([OIWA]: Keine Reaktion) Oiwa-San ([OIWA]: Ja?),
-weise die Diener an, sich um deinen Vater zu kümmern. ([OIWA]: Jawohl)
+Oiwa-san. (Keine Reaktion von Oiwa) Oiwa-San!<br />
+<a href="">([OIWA]: Ja?)</a><br />
+weise die Diener an, sich um deinen Vater zu kümmern.<br />
+<a href="">([OIWA]: Jawohl)</a><br />
 Der Rest von euch kann nun gehen. Naosuke-san, wir besprechen unser
-weiteres Vorgehen morgen.</a></p>
+weiteres Vorgehen morgen.<br />
+<a href="">Zustimmendes Geräusch [NAOSUKE] (Hmm-mm)</a></p>
 <p><a href="">[Übergangsmusik]</a></p>
 <h3 id="szene-7-frisch-verliebt">Szene 7: Frisch verliebt</h3>
 <p><strong>Ort: Haus von Itô Kihei; Figuren: Itô Kihei,
@@ -625,8 +697,8 @@ Natürlich, Herrin.</p>
 <p><strong>OIWA</strong><br />
 Oh man spürt die Wirkung ja richtig. Die Salbe sie… sie brennt!<br />
 Mach sie ab Aki, mach sie sie ab.</p>
-<p><em>(Panisches Gefuchtel und Schreie und Keuchen von Oiwa aus
-Schmerz, von Aki Panik)</em></p>
+<p><a href=""><em>(Panisches Gefuchtel und Schreie und Keuchen von
+[OIWA] aus Schmerz, von Aki Panik [NAOSUKE])</em></a></p>
 <p><strong>AKI</strong><br />
 (panisch)<br />
 Herrin, haltet still, bitte!<br />
@@ -698,8 +770,8 @@ Ich kann nicht! Verzeiht!</p>
 <p><strong>OIWA</strong><br />
 AKI!<br />
 Komm SOFORT zurück!<br />
-KOMM ZURÜCK!!</p>
-<p>(Oiwas schweres, ungleichmäßiges Atmen.)<br />
+KOMM ZURÜCK!!<br />
+(Oiwas schweres, ungleichmäßiges Atmen.)<br />
 (Musik: Klagethema)<br />
 Es… ist nichts…<br />
 Nichts.<br />
@@ -786,9 +858,9 @@ Bleib… bitte…<br />
 Du bist mein Mann.</p>
 <p><a href=""><em>(Seine Schritte entfernen sich [OSODE] –&gt;
 Schiebetür zu</em><strong>.</strong> [OSODE]</a></p>
-<p><a href=""><strong>[MUSIK: Klagethema]</strong></a><br />
-(Oiwas schwerer Atem)</p>
+<p><a href=""><strong>[MUSIK: Klagethema]</strong></a></p>
 <p><strong>OIWA</strong><br />
+(schwerer Atem)<br />
 (leise, zu sich, wie in Trance)<br />
 Er…<br />
 Er kommt wieder.<br />
@@ -881,8 +953,9 @@ auf Tatami-Matte [OSODE])</a><br />
 (Licht wird dunkel/blau, um zu zeigen, dass Oiwas Gesicht für Takuetsu
 nicht zu sehen ist.)</p>
 <p><strong>TAKUETSU</strong><br />
-<a href="">Oiwa-sama…? ([OIWA] wacht auf) Bitte erschreckt euch nicht.
-Ich… ich muss mit euch sprechen.</a></p>
+Oiwa-sama…?<br />
+<a href="">([OIWA] wacht auf)</a><br />
+Bitte erschreckt euch nicht. Ich… ich muss mit euch sprechen.</p>
 <p><strong>OIWA</strong><br />
 Wer…? Takuetsu? Was tut ihr hier? Verschwindet! Geht!</p>
 <p><strong>TAKUETSU</strong><br />
@@ -999,8 +1072,8 @@ Geliebter.<br />
 <h3 id="szene-11-bluthochzeit">Szene 11: Bluthochzeit</h3>
 <p><strong>Einleitung: MUSIK Thema mit Gesang</strong></p>
 <p><strong>Ort: Garten am Haus Iemons; Figuren: Iemon, Oume, Ito Kihei,
-Oiwa</strong><br />
-<a href=""><strong>Geräuschkulisse Garten: Vogelgezwitscher
+Oiwa</strong></p>
+<p><a href=""><strong>Geräuschkulisse Garten: Vogelgezwitscher
 [OIWA]</strong>, Frosch/Zikaden [OIWA], ein sanfter Wind bewegt Bambus
 [SATO] und [OSODE], Klockbambus [NAOSUKE], Schritte auf Kies
 ??[TAKUETSU]??]</a></p>

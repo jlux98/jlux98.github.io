@@ -433,7 +433,7 @@ IEMON
  Dann wisst ihr, was nun kommt.
 
 
-(Geräuschkulisse stoppt [ALLE] > Schwert wird gezogen (Sound [OSODE], Visual [IEMON]) > Stoffgeräusch [SATO] > Keuchen von Samon)
+(Geräuschkulisse stoppt [ALLE] > Schwert wird gezogen (Sound [OSODE], Visual [IEMON]) > Stoffgeräusch [SATO] > Keuchen von [SATO])
 
 
 SAMON
@@ -559,7 +559,7 @@ Ort: Haus von Samon; Figuren: Iemon, Naosuke
 Geräuschkulisse Haus Samon: Schwerer Regen [SATO] ab Tür zu: Leichter Regen [OIWA], Knistern von Feuer [TAKUETSU] [MUSIK klingt aus]
 
 
-(Schnelle Schritte auf Kies [OSODE] > Keuchen von Naosuke >  Klopfen an einer Tür [OSODE])
+(Schnelle Schritte auf Kies [OSODE] > Keuchen von [NAOSUKE] >  Klopfen an einer Tür [OSODE])
 
 
 NAOSUKE 
@@ -690,6 +690,8 @@ Geräuschkulisse Haus Samon: Donner [OIWA]; Leichter Regen [SATO]  Knistern von 
 
 
 Öffnen einer Tür [OSODE] –> Schritte [OIWA] und [OSODE]
+
+
 IEMON
 Oiwa. Osode. Da seid ihr endlich.
 
@@ -774,11 +776,12 @@ Ich danke dir, Iemon-dono.
 
 
 IEMON
-Oiwa-san. ([OIWA]: Keine Reaktion) Oiwa-San ([OIWA]: Ja?), weise die Diener an, sich um deinen Vater zu kümmern. ([OIWA]: Jawohl) Der Rest von euch kann nun gehen. Naosuke-san, wir besprechen unser weiteres Vorgehen morgen.
-
-
-
-
+Oiwa-san. (Keine Reaktion von Oiwa) Oiwa-San!
+([OIWA]: Ja?)
+weise die Diener an, sich um deinen Vater zu kümmern.
+([OIWA]: Jawohl)
+Der Rest von euch kann nun gehen. Naosuke-san, wir besprechen unser weiteres Vorgehen morgen.
+Zustimmendes Geräusch [NAOSUKE] (Hmm-mm)
 
 
 [Übergangsmusik]
@@ -924,7 +927,7 @@ OIWA
 Oh man spürt die Wirkung ja richtig. Die Salbe sie… sie brennt!
 Mach sie ab Aki, mach sie sie ab.
  
-(Panisches Gefuchtel und Schreie und Keuchen von Oiwa aus Schmerz, von Aki Panik)
+(Panisches Gefuchtel und Schreie und Keuchen von [OIWA] aus Schmerz, von Aki Panik [NAOSUKE])
 
 
 AKI
@@ -1043,8 +1046,6 @@ OIWA
 AKI!
 Komm SOFORT zurück!
 KOMM ZURÜCK!!
-
-
 (Oiwas schweres, ungleichmäßiges Atmen.)
 (Musik: Klagethema)
  Es… ist nichts…
@@ -1181,10 +1182,10 @@ Du bist mein Mann.
 
 
 [MUSIK: Klagethema]
- (Oiwas schwerer Atem)
 
 
 OIWA
+ (schwerer Atem)
  (leise, zu sich, wie in Trance)
 Er…
 Er kommt wieder.
@@ -1323,7 +1324,9 @@ Schiebetür auf und zu. [OSODE] Wind aus [TAKUETSU], Schritte auf Tatami-Matte [
 
 
 TAKUETSU
-Oiwa-sama…? ([OIWA] wacht auf) Bitte erschreckt euch nicht. Ich… ich muss mit euch sprechen.
+Oiwa-sama…?
+([OIWA] wacht auf)
+Bitte erschreckt euch nicht. Ich… ich muss mit euch sprechen.
 
 
 OIWA
@@ -1503,6 +1506,8 @@ Einleitung: MUSIK Thema mit Gesang
 
 
 Ort: Garten am Haus Iemons; Figuren: Iemon, Oume, Ito Kihei, Oiwa
+
+
 Geräuschkulisse Garten: Vogelgezwitscher [OIWA], Frosch/Zikaden [OIWA], ein sanfter Wind bewegt Bambus [SATO] und [OSODE], Klockbambus [NAOSUKE], Schritte auf Kies ??[TAKUETSU]??]
 
 
@@ -5426,7 +5431,7 @@ Geräuschkulisse Haus Samon: Leichter Regen [OIWA]; Knistern von Feuer [TAKUETSU
 (Geräuschkulisse stoppt [ALLE] 
  > Schwert wird gezogen (Sound [OSODE], Visual [IEMON]) 
  > Stoffgeräusch [SATO] 
- > Keuchen von Samon)
+ > Keuchen von [SATO])
 (Todes Thema [Musik])
 [NAOSUKE] lehnt sich zur Seite
 (Schwert wird weggesteckt [IEMON]) 
@@ -5460,7 +5465,7 @@ Szene 5: Eine Verschwörung
 
 Geräuschkulisse Haus Samon: Schwerer Regen [SATO] ab Tür zu: Leichter Regen [OIWA], Knistern von Feuer [TAKUETSU] [MUSIK klingt aus]
 (Schnelle Schritte auf Kies [OSODE] 
- > Keuchen von Naosuke 
+ > Keuchen von [NAOSUKE] 
  > Klopfen an einer Tür [OSODE])
 (Tür wird langsam geöffnet [OSODE])
 (Schritte auf Holz [OIWA], Tür schließt [OSODE], Starker Regen stopp [SATO], leichter Regen [OIWA], Feuer [TAKUETSU])
@@ -5476,7 +5481,9 @@ Geräuschkulisse Haus Samon: Donner [OIWA]; Leichter Regen [SATO] Knistern von F
  > Schritte [OIWA] und [OSODE]
 (Laken wird umgeschlagen [NAOSUKE] –
  > Donner [OIWA], Aufschrei mit Donner von Oiwa und Osode)
-Oiwa-san. ([OIWA]: Keine Reaktion) Oiwa-San ([OIWA]: Ja?), weise die Diener an, sich um deinen Vater zu kümmern. ([OIWA]: Jawohl) Der Rest von euch kann nun gehen. Naosuke-san, wir besprechen unser weiteres Vorgehen morgen.
+([OIWA]: Ja?)
+([OIWA]: Jawohl)
+Zustimmendes Geräusch [NAOSUKE] (Hmm-mm)
 [Übergangsmusik]
 
 
@@ -5500,6 +5507,7 @@ Geräuschkulisse Haus Iemon: Knistern von Feuer [TAKUETSU], Windspiel [SATO]
 (Schritte [OIWA]),Schiebetür zu [OSODE], Platz nehmen (Stoff [NAOSUKE] und Matte [OIWA]
 (Öffnen Salbendöschen [OIWA]) (Eincremegeräusch, Eincremen vorm Mikrofon, [IEMON])
 (Eincremegeräusch, Eincremen vorm Mikrofon, [IEMON])
+(Panisches Gefuchtel und Schreie und Keuchen von [OIWA] aus Schmerz, von Aki Panik [NAOSUKE])
 (Wasser wird hektisch aus einer Schüssel geschöpft [TAKUETSU])
 (Hastiges Reiben mit Stoff und Creme) [IEMON]
  (Haut reißt ein Stück [SATO], Schrei [OIWA], Stoff reiben hört auf [NAOSUKE], Musik stoppt)
@@ -5542,7 +5550,7 @@ Geräuschkulisse Haus Iemon: Windspiel [SATO] mit Wind [TAKUETSU]
 (Ein fernes Hundegebell [IEMON] der Hund, Schritte auf Kies [IEMON], Schritte auf Holz [IEMON] –
  >
 Schiebetür auf und zu. [OSODE] Wind aus [TAKUETSU], Schritte auf Tatami-Matte [OSODE])
-Oiwa-sama…? ([OIWA] wacht auf) Bitte erschreckt euch nicht. Ich… ich muss mit euch sprechen.
+([OIWA] wacht auf)
 (Oiwa greift hinter sich und stößt an einen Schwertständer. Greift sich eines der Schwerter.) [OIWA]
 (Oiwa reißt eines von Iemons Schwertern aus der Scheide.) [OIWA] und [OSODE]
 (Im Rhythmus 1-2-3: Zwei stolpernde Schritte auf Tatami (Faustschläge gegen Tatamimatte) [OSODE] 

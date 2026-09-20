@@ -33,7 +33,7 @@ Geräuschkulisse Haus Samon: Leichter Regen [OIWA]; Knistern von Feuer [TAKUETSU
 (Geräuschkulisse stoppt [ALLE] 
  > Schwert wird gezogen (Sound [OSODE], Visual [IEMON]) 
  > Stoffgeräusch [SATO] 
- > Keuchen von Samon)
+ > Keuchen von [SATO])
 (Todes Thema [Musik])
 [NAOSUKE] lehnt sich zur Seite
 (Schwert wird weggesteckt [IEMON]) 
@@ -63,7 +63,7 @@ Szene 5: Eine Verschwörung
 
 Geräuschkulisse Haus Samon: Schwerer Regen [SATO] ab Tür zu: Leichter Regen [OIWA], Knistern von Feuer [TAKUETSU] [MUSIK klingt aus]
 (Schnelle Schritte auf Kies [OSODE] 
- > Keuchen von Naosuke 
+ > Keuchen von [NAOSUKE] 
  > Klopfen an einer Tür [OSODE])
 (Tür wird langsam geöffnet [OSODE])
 (Schritte auf Holz [OIWA], Tür schließt [OSODE], Starker Regen stopp [SATO], leichter Regen [OIWA], Feuer [TAKUETSU])
@@ -77,7 +77,9 @@ Geräuschkulisse Haus Samon: Donner [OIWA]; Leichter Regen [SATO] Knistern von F
  > Schritte [OIWA] und [OSODE]
 (Laken wird umgeschlagen [NAOSUKE] –
  > Donner [OIWA], Aufschrei mit Donner von Oiwa und Osode)
-Oiwa-san. ([OIWA]: Keine Reaktion) Oiwa-San ([OIWA]: Ja?), weise die Diener an, sich um deinen Vater zu kümmern. ([OIWA]: Jawohl) Der Rest von euch kann nun gehen. Naosuke-san, wir besprechen unser weiteres Vorgehen morgen.
+([OIWA]: Ja?)
+([OIWA]: Jawohl)
+Zustimmendes Geräusch [NAOSUKE] (Hmm-mm)
 [Übergangsmusik]
 
 Szene 7: Frisch verliebt
@@ -97,6 +99,7 @@ Geräuschkulisse Haus Iemon: Knistern von Feuer [TAKUETSU], Windspiel [SATO]
 (Schritte [OIWA]),Schiebetür zu [OSODE], Platz nehmen (Stoff [NAOSUKE] und Matte [OIWA]
 (Öffnen Salbendöschen [OIWA]) (Eincremegeräusch, Eincremen vorm Mikrofon, [IEMON])
 (Eincremegeräusch, Eincremen vorm Mikrofon, [IEMON])
+(Panisches Gefuchtel und Schreie und Keuchen von [OIWA] aus Schmerz, von Aki Panik [NAOSUKE])
 (Wasser wird hektisch aus einer Schüssel geschöpft [TAKUETSU])
 (Hastiges Reiben mit Stoff und Creme) [IEMON]
  (Haut reißt ein Stück [SATO], Schrei [OIWA], Stoff reiben hört auf [NAOSUKE], Musik stoppt)
@@ -135,7 +138,7 @@ Geräuschkulisse Haus Iemon: Windspiel [SATO] mit Wind [TAKUETSU]
 (Ein fernes Hundegebell [IEMON] der Hund, Schritte auf Kies [IEMON], Schritte auf Holz [IEMON] –
  >
 Schiebetür auf und zu. [OSODE] Wind aus [TAKUETSU], Schritte auf Tatami-Matte [OSODE])
-Oiwa-sama…? ([OIWA] wacht auf) Bitte erschreckt euch nicht. Ich… ich muss mit euch sprechen.
+([OIWA] wacht auf)
 (Oiwa greift hinter sich und stößt an einen Schwertständer. Greift sich eines der Schwerter.) [OIWA]
 (Oiwa reißt eines von Iemons Schwertern aus der Scheide.) [OIWA] und [OSODE]
 (Im Rhythmus 1-2-3: Zwei stolpernde Schritte auf Tatami (Faustschläge gegen Tatamimatte) [OSODE] 

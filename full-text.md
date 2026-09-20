@@ -304,7 +304,7 @@ Euch ist die Ehre eurer Familie wichtiger als alles andere.
 **IEMON**  
  Dann wisst ihr, was nun kommt.
 
-[*(Geräuschkulisse stoppt \[ALLE\] \> Schwert wird gezogen (Sound \[OSODE\], Visual \[IEMON\]) \> Stoffgeräusch \[SATO\] \> Keuchen von Samon)*]()  
+[*(Geräuschkulisse stoppt \[ALLE\] \> Schwert wird gezogen (Sound \[OSODE\], Visual \[IEMON\]) \> Stoffgeräusch \[SATO\] \> Keuchen von \[SATO\])*]()  
 
 **SAMON**  
  Iemon... du…
@@ -380,7 +380,7 @@ Endlich, Sato-san. Lass mich sehen wie du…
 
 [***Geräuschkulisse Haus Samon**: Schwerer Regen \[SATO\] ab Tür zu: **Leichter Regen \[OIWA\], Knistern von Feuer \[TAKUETSU\] \[MUSIK klingt aus\]***]()  
 
-[*(Schnelle Schritte auf Kies \[OSODE\] \> Keuchen von Naosuke \>  Klopfen an einer Tür \[OSODE\])*]()  
+[*(Schnelle Schritte auf Kies \[OSODE\] \> Keuchen von \[NAOSUKE\] \>  Klopfen an einer Tür \[OSODE\])*]()  
 
 **NAOSUKE**  
 *(keuchend, nervös)*  
@@ -471,7 +471,8 @@ Dafür binde ich mein Schicksal an dieses Haus… und an dich.
 
 [***Geräuschkulisse Haus Samon**: **Donner \[OIWA\]**; Leichter Regen \[SATO\]  Knistern von Feuer \[TAKUETSU\]*]()  
 
-[*Öffnen einer Tür \[OSODE\] –\> Schritte \[OIWA\] und \[OSODE\]*  ]()  
+[*Öffnen einer Tür \[OSODE\] –\> Schritte \[OIWA\] und \[OSODE\]*]()  
+
 **IEMON**  
 Oiwa. Osode. Da seid ihr endlich.
 
@@ -535,7 +536,12 @@ Ja, Iemon-dono.
 Ich danke dir, Iemon-dono.
 
 **IEMON**  
-[Oiwa-san. (\[OIWA\]: Keine Reaktion) Oiwa-San (\[OIWA\]: Ja?), weise die Diener an, sich um deinen Vater zu kümmern. (\[OIWA\]: Jawohl) Der Rest von euch kann nun gehen. Naosuke-san, wir besprechen unser weiteres Vorgehen morgen.]()  
+Oiwa-san. (Keine Reaktion von Oiwa) Oiwa-San\!  
+[(\[OIWA\]: Ja?)  ]()  
+weise die Diener an, sich um deinen Vater zu kümmern.  
+[(\[OIWA\]: Jawohl)  ]()  
+Der Rest von euch kann nun gehen. Naosuke-san, wir besprechen unser weiteres Vorgehen morgen.  
+[Zustimmendes Geräusch \[NAOSUKE\] (Hmm-mm)]()  
 
 [\[Übergangsmusik\]]()  
 
@@ -637,7 +643,7 @@ Natürlich, Herrin.
 Oh man spürt die Wirkung ja richtig. Die Salbe sie… sie brennt\!  
 Mach sie ab Aki, mach sie sie ab.  
   
-*(Panisches Gefuchtel und Schreie und Keuchen von Oiwa aus Schmerz, von Aki Panik)*
+[*(Panisches Gefuchtel und Schreie und Keuchen von \[OIWA\] aus Schmerz, von Aki Panik \[NAOSUKE\])*]()  
 
 **AKI**  
 (panisch)  
@@ -725,8 +731,7 @@ Nun tu doch endlich was\!
 **OIWA**  
  AKI\!  
  Komm SOFORT zurück\!  
- KOMM ZURÜCK\!\!
-
+ KOMM ZURÜCK\!\!  
 (Oiwas schweres, ungleichmäßiges Atmen.)  
 (Musik: Klagethema)  
  Es… ist nichts…  
@@ -833,10 +838,10 @@ Aki hat nur zu fest gerieben.
 
 [*(Seine Schritte entfernen sich \[OSODE\] –\> Schiebetür zu***.** \[OSODE\]]()  
 
-[**\[MUSIK: Klagethema\]**  ]()  
- (Oiwas schwerer Atem)
+[**\[MUSIK: Klagethema\]**]()  
 
 **OIWA**  
+ (schwerer Atem)  
  (leise, zu sich, wie in Trance)  
  Er…  
  Er kommt wieder.  
@@ -943,7 +948,9 @@ Wie könnt ihr nur? Warum solltet ihr wollen, dass ich…
 (Licht wird dunkel/blau, um zu zeigen, dass Oiwas Gesicht für Takuetsu nicht zu sehen ist.)
 
 **TAKUETSU**  
-[ Oiwa-sama…? (\[OIWA\] wacht auf) Bitte erschreckt euch nicht. Ich… ich muss mit euch sprechen.]()  
+ Oiwa-sama…?  
+[(\[OIWA\] wacht auf)  ]()  
+Bitte erschreckt euch nicht. Ich… ich muss mit euch sprechen.
 
 **OIWA**  
  Wer…? Takuetsu? Was tut ihr hier? Verschwindet\! Geht\!
@@ -1083,7 +1090,8 @@ Geliebter.
 
 **Einleitung: MUSIK Thema mit Gesang**
 
-**Ort: Garten am Haus Iemons; Figuren: Iemon, Oume, Ito Kihei, Oiwa**  
+**Ort: Garten am Haus Iemons; Figuren: Iemon, Oume, Ito Kihei, Oiwa**
+
 [**Geräuschkulisse Garten: Vogelgezwitscher \[OIWA\]**, Frosch/Zikaden \[OIWA\], ein sanfter Wind bewegt Bambus \[SATO\] und \[OSODE\], Klockbambus \[NAOSUKE\], Schritte auf Kies ??\[TAKUETSU\]??\]]()  
 
 ***ITO KIHEI***  
