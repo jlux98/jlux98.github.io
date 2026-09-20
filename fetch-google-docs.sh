@@ -19,7 +19,9 @@ if [ -z $(type -P gcloud) ]; then
     exit 1
 fi
 
+PANDOC_INSTALLED="TRUE"
 if [ -z $(type -P pandoc) ]; then
+    PANDOC_INSTALLED="FALSE"
     echo "This script requires pandoc. Please install pandoc and try again."
     exit 1
 fi
@@ -57,7 +59,9 @@ echo "$MARKDOWN_TEXT" > full-text.md
 convert_with_css "README" "index"
 convert_with_css "full-text"
 
-source ./render-actor-parts.sh "full-text.md"
+if [[ $PANDOC_INSTALLED == "TRUE" ]]; then
+    source ./render-actor-parts.sh "full-text.md"
+fi
 
 LINE_TEXT_END="$(($(echo "$TEXT" | grep -n '^Geräusche$' | cut -d ':' -f 1 | head -n 1) - 1))"
 SHORTENED_TEXT="$(echo "$TEXT" | head -n "$LINE_TEXT_END")"
