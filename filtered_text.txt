@@ -160,6 +160,7 @@ Geräuschkulisse Garten: Vogelgezwitscher [OIWA], Frosch/Zikaden [OIWA], ein san
  > Eine Laterne wird entzündet (TECHNIK? [TAKUETSU]?)
 (Papier rascheln [TAKUETSU], Feuerstein schlägt [IEMON]
 (Papier raschelt [TAKUETSU], Feuerstein schlägt [IEMON]
+[MUSIK: einzelner Shamisen-Ton]
 (Schwertziehgräusch[OSODE] visuell [IEMON])
 [Reißender Stoff [SATO]
 (Todes Thema [Musik])

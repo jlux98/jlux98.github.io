@@ -1074,12 +1074,14 @@ Ich werde bei dir sein.
 Geliebter.  
 (Ein letzter Atemzug.)
 
-[(Intro Thema mit Gesang \[Musik\])  ]()  
+[**(Intro Thema mit Gesang \[Musik\])**  ]()  
 **PAUSE\!**
 
 ## Akt 2
 
 ### Szene 11: Bluthochzeit
+
+**Einleitung: MUSIK Thema mit Gesang**
 
 **Ort: Garten am Haus Iemons; Figuren: Iemon, Oume, Ito Kihei, Oiwa**  
 [**Geräuschkulisse Garten: Vogelgezwitscher \[OIWA\]**, Frosch/Zikaden \[OIWA\], ein sanfter Wind bewegt Bambus \[SATO\] und \[OSODE\], Klockbambus \[NAOSUKE\], Schritte auf Kies ??\[TAKUETSU\]??\]]()  
@@ -1263,7 +1265,8 @@ Das ist unmöglich.
  Warum zittert ihr?
 
 **OIWA**  
- Dreh dich um.
+ Dreh dich um.  
+[**\[MUSIK: einzelner Shamisen-Ton\]**]()  
 
 **OUME**  
  (ruhig, freundlich)  

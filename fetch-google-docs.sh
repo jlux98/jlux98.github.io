@@ -75,7 +75,7 @@ render_actor_part() {
     ACTOR_TEXT="$(echo "$MARKDOWN_TEXT" | sed -E 's/^# Text/# '"$SOUNDEFFECT_EXPRESSION"'/' )"
     ACTOR_TEXT="$(echo "$ACTOR_TEXT" | tr '\n' '|' |
         sed -z -E 's/(\*\*('"$SPEAKING_EXPRESSION"')[^*]*\*\* *(\|[^|]+)*)\|\|/==\1==\|\|/g' |
-        sed -z -E 's/([^|]*\\\[[a-zA-Z, ]*'"$SOUNDEFFECT_EXPRESSION"'[a-zA-Z, ]*\\\][^|]*) *\(\)(  )?\|\|/==\1\(\)==  \|\|/g' |
+        sed -z -E 's/([^|]*\\\[[a-zA-Z, ]*'"$SOUNDEFFECT_EXPRESSION"'[a-zA-Z, ]*\\\][^|]*) *\(\)((\|)|([^ ] *\|))\|/==\1\(\)==  \|\|/g' |
         tr '|' '\n')"
     echo "$ACTOR_TEXT" > "$OUTPUT_FILE_NAME.md"
     convert_with_css "$OUTPUT_FILE_NAME"

@@ -1497,6 +1497,11 @@ PAUSE!
 
 Akt 2
 Szene 11: Bluthochzeit
+
+
+Einleitung: MUSIK Thema mit Gesang
+
+
 Ort: Garten am Haus Iemons; Figuren: Iemon, Oume, Ito Kihei, Oiwa
 Geräuschkulisse Garten: Vogelgezwitscher [OIWA], Frosch/Zikaden [OIWA], ein sanfter Wind bewegt Bambus [SATO] und [OSODE], Klockbambus [NAOSUKE], Schritte auf Kies ??[TAKUETSU]??]
 
@@ -1724,6 +1729,7 @@ Warum zittert ihr?
 
 OIWA
 Dreh dich um.
+[MUSIK: einzelner Shamisen-Ton]
 
 
 OUME
