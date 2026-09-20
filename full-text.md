@@ -385,7 +385,7 @@ Endlich, Sato-san. Lass mich sehen wie du…
 **NAOSUKE**  
 *(keuchend, nervös)*  
  Iemon\! Bist du da? Du sagtest mir, du wärest  heute noch im Haus deines Schwiegervaters\!  
- Öffne… ich flehe dich an\!
+ Öffne… ich flehe dich an\!i
 
 [*(Tür wird langsam geöffnet \[OSODE\])*  ]()  
 **IEMON**  
@@ -744,7 +744,7 @@ Nun tu doch endlich was\!
 **IEMON**  
  (leise, entsetzt)  
  …Oiwa? Was ist mit dir?  
-**(MUSIK stoppt)**
+**(MUSIK klingt aus)**
 
 **OIWA**  
  Es ist nichts.  
@@ -831,8 +831,9 @@ Aki hat nur zu fest gerieben.
  Bleib… bitte…  
  Du bist mein Mann.
 
-[*(Seine Schritte entfernen sich \[OSODE\] –\> Schiebetür zu***.** \[OSODE\]  ]()  
-(Musik: Klagethema)  
+[*(Seine Schritte entfernen sich \[OSODE\] –\> Schiebetür zu***.** \[OSODE\]]()  
+
+[**\[MUSIK: Klagethema\]**  ]()  
  (Oiwas schwerer Atem)
 
 **OIWA**  
@@ -979,7 +980,7 @@ Wie könnt ihr nur? Warum solltet ihr wollen, dass ich…
 Ihr müsst etwas gegen euren Mann unternehmen. Ihr habt sicher einen Verwandten, an den ihr euch wenden…
 
 [(Oiwa greift hinter sich und stößt an einen Schwertständer. Greift sich eines der Schwerter.) \[OIWA\]  ]()  
-(Musik beginnt mit Spannungsaufbau)
+**(MUSIK beginnt mit Spannungsaufbau)**
 
 **OIWA**  
  Raus\! Geht\!  
@@ -1000,8 +1001,8 @@ Ihr müsst etwas gegen euren Mann unternehmen. Ihr habt sicher einen Verwandten,
 
 [*(Im Rhythmus 1-2-3: Zwei stolpernde Schritte auf Tatami (Faustschläge gegen Tatamimatte) \[OSODE\] \> Takuetsu fällt nach hinten durch die Tür,reißen von Papier \[NAOSUKE\] und brechen von Holz \[IEMON\] \> Zwei Schritte auf Tatami \[OSODE\])*]()  
 
-*(Licht geht an, da der Flur beleuchtet ist.)*
-
+*(Licht geht an, da der Flur beleuchtet ist.)*  
+***(MUSIK leiser, auf Oiwas Schauspiel reagieren)***  
 **TAKUETSU**  
 Allmächtige Augen des Buddha.  
  Euer… euer Gesicht…
@@ -1023,6 +1024,8 @@ Allmächtige Augen des Buddha.
  Das… bin… *ich?*  
  Deshalb will er mich verstoßen?  
  Iemon… mein Mann…?
+
+[**\[MUSIK intensiver\]**]()  
 
 **TAKUETSU**  
  Oiwa-sama, bitte.
@@ -1052,7 +1055,8 @@ Wenn er das tat, dann war er es auch, der meinen Vater \- \!
 Ich wollte nicht…  
  Ich, ich hole Hilfe\!
 
-[(Schnelle Schritte auf Holz die leiser werden *\[IEMON\]*]()  
+[(Schnelle Schritte auf Holz die leiser werden *\[IEMON\]*  ]()  
+[**\[MUSIK wird zu ihrem Klagethema\]**]()  
 
 **OIWA**  
  (schwach, röchelnd)  

@@ -565,7 +565,7 @@ Geräuschkulisse Haus Samon: Schwerer Regen [SATO] ab Tür zu: Leichter Regen [O
 NAOSUKE 
 (keuchend, nervös)
 Iemon! Bist du da? Du sagtest mir, du wärest  heute noch im Haus deines Schwiegervaters!
-Öffne… ich flehe dich an!
+Öffne… ich flehe dich an!i
 
 
 (Tür wird langsam geöffnet [OSODE])
@@ -1068,7 +1068,7 @@ Bring mir noch Wasser.
 IEMON
  (leise, entsetzt)
 …Oiwa? Was ist mit dir?
-(Musik stoppt)
+(MUSIK klingt aus)
 
 
 OIWA
@@ -1178,7 +1178,9 @@ Du bist mein Mann.
 
 
 (Seine Schritte entfernen sich [OSODE] –> Schiebetür zu. [OSODE]
-(Musik: Klagethema)
+
+
+[MUSIK: Klagethema]
  (Oiwas schwerer Atem)
 
 
@@ -1370,7 +1372,7 @@ Ihr müsst etwas gegen euren Mann unternehmen. Ihr habt sicher einen Verwandten,
 
 
 (Oiwa greift hinter sich und stößt an einen Schwertständer. Greift sich eines der Schwerter.) [OIWA]
-(Musik beginnt mit Spannungsaufbau)
+(MUSIK beginnt mit Spannungsaufbau)
 
 
 OIWA
@@ -1399,8 +1401,7 @@ Niemand wird mir etwas tun!
 
 
 (Licht geht an, da der Flur beleuchtet ist.)
-
-
+(MUSIK leiser, auf Oiwas Schauspiel reagieren)
 TAKUETSU
 Allmächtige Augen des Buddha.
 Euer… euer Gesicht…
@@ -1427,6 +1428,9 @@ OIWA
 Das… bin… ich?
  Deshalb will er mich verstoßen?
 Iemon… mein Mann…?
+
+
+[MUSIK intensiver]
 
 
 TAKUETSU
@@ -1465,6 +1469,7 @@ Ich, ich hole Hilfe!
 
 
 (Schnelle Schritte auf Holz die leiser werden [IEMON]
+[MUSIK wird zu ihrem Klagethema]
 
 
 OIWA
@@ -5375,7 +5380,7 @@ Damit ein Geräusch in dieser Auflistung erscheint, muss in derselben Zeile mind
 Einführung
 
 
-(Shamisen-Signal und Trommeldoppelschlag [NAOSUKE])
+(MUSIK weiter, bis Takuetsu sitzt. Shamisen-Signal und Trommeldoppelschlag [NAOSUKE])
 
 
 Szene 1: It`s a Hard Knock Life
@@ -5395,7 +5400,7 @@ Szene 2: I was made for loving you Osode…
 Geräuschkulisse Bordell: fröhliche Shamisen-Musik [MUSIK], Kichern von Frauen [IEMON], [OIWA], Gespräche im Hintergrund [IEMON], [OIWA], Tatami-Schritte [OIWA], Lachen [OIWA],
  (lacht mit, schlägt leicht auf den Tisch [SATO])
 (Er stößt den Sakebecher fest auf den Tisch [NAOSUKE] – dumpfer Klang 
- > Geräuschkulisse verstummt kurz [ALLE]/[MUSIK] 
+ > Geräuschkulisse verstummt kurz [ALLE]/[MUSIK hält inne] 
  > Laute Schritte auf Holz [OIWA] 
  > Tür [OSODE])
 
@@ -5443,7 +5448,7 @@ Stehenbleiben![OSODE]
 Szene 5: Eine Verschwörung
 
 
-Geräuschkulisse Haus Samon: Schwerer Regen [SATO] ab Tür zu: Leichter Regen [OIWA], Knistern von Feuer [TAKUETSU]
+Geräuschkulisse Haus Samon: Schwerer Regen [SATO] ab Tür zu: Leichter Regen [OIWA], Knistern von Feuer [TAKUETSU] [MUSIK klingt aus]
 (Schnelle Schritte auf Kies [OSODE] 
  > Keuchen von Naosuke 
  > Klopfen an einer Tür [OSODE])
@@ -5471,6 +5476,7 @@ Szene 7: Frisch verliebt
 Geräuschkulisse Haus Ito: Mörser und Stößel [SATO]
 (Aufschieben einer Tür [OSODE] –
  > Schritte [OIWA])
+[MUSIK: Übergang]
 
 
 Szene 8: Creme, Werk des Teufels
@@ -5489,6 +5495,7 @@ Geräuschkulisse Haus Iemon: Knistern von Feuer [TAKUETSU], Windspiel [SATO]
  (Haut reißt ein Stück [SATO], Schrei [OIWA], Stoff reiben hört auf [NAOSUKE], Musik stoppt)
 (Ohrfeigengeräusch [NAOSUKE] 
  > Schmerzensschrei Aki)
+lch sagte, du sollst es NICHT sagen! [MUSIK setzt zaghaft wieder ein, weiter angespannt]
 (Stolpernde Schritte [OSODE])
 (Schnelle Schritte [OSODE] –
  > Schiebetür auf [OSODE])

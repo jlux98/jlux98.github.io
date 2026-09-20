@@ -115,6 +115,7 @@ lch sagte, du sollst es NICHT sagen! [MUSIK setzt zaghaft wieder ein, weiter ang
  (versucht aufzustehen, fällt aber gleich [OIWA])
 (Seine Schritte entfernen sich [OSODE] –
  > Schiebetür zu. [OSODE]
+[MUSIK: Klagethema]
 
 Szene 9: Hat deine Braut…
 
@@ -141,10 +142,12 @@ Oiwa-sama…? ([OIWA] wacht auf) Bitte erschreckt euch nicht. Ich… ich muss mi
  > Takuetsu fällt nach hinten durch die Tür,reißen von Papier [NAOSUKE] und brechen von Holz [IEMON] 
  > Zwei Schritte auf Tatami [OSODE])
 (Ein Handspiegel wird auf den Boden gelegt, Ein kurzer Moment des Schweigens (musik kurz innehalten, bis der Spiegel fällt), Oiwa sieht ihr Gesicht [OIWA] und der Spiegel wird fallen gelassen.) [TAKUETSU]
+[MUSIK intensiver]
 (Er versucht, ihr das Schwert zu entreißen. 
  > Stichgeräusch [SATO]
 (Das Schwert fällt [OIWA])
 (Schnelle Schritte auf Holz die leiser werden [IEMON]
+[MUSIK wird zu ihrem Klagethema]
 (Intro Thema mit Gesang [Musik])
 
 Szene 11: Bluthochzeit
