@@ -264,7 +264,7 @@ NAOSUKE
  Aber eines Tages werdet ihr sehen, wer hier lacht und wer zahlt!
 
 
-(Er stößt den Sakebecher fest auf den Tisch [NAOSUKE] – dumpfer Klang > Geräuschkulisse verstummt kurz [ALLE]/[MUSIK] > Laute Schritte auf Holz [OIWA] > Tür [OSODE])
+(Er stößt den Sakebecher fest auf den Tisch [NAOSUKE] – dumpfer Klang > Geräuschkulisse verstummt kurz [ALLE]/[MUSIK hält inne] > Laute Schritte auf Holz [OIWA] > Tür [OSODE])
 
 
 OSODE
@@ -556,7 +556,7 @@ Szene 5: Eine Verschwörung
 Ort: Haus von Samon; Figuren: Iemon, Naosuke
 
 
-Geräuschkulisse Haus Samon: Schwerer Regen [SATO] ab Tür zu: Leichter Regen [OIWA], Knistern von Feuer [TAKUETSU]
+Geräuschkulisse Haus Samon: Schwerer Regen [SATO] ab Tür zu: Leichter Regen [OIWA], Knistern von Feuer [TAKUETSU] [MUSIK klingt aus]
 
 
 (Schnelle Schritte auf Kies [OSODE] > Keuchen von Naosuke >  Klopfen an einer Tür [OSODE])
@@ -565,7 +565,7 @@ Geräuschkulisse Haus Samon: Schwerer Regen [SATO] ab Tür zu: Leichter Regen [O
 NAOSUKE 
 (keuchend, nervös)
 Iemon! Bist du da? Du sagtest mir, du wärest  heute noch im Haus deines Schwiegervaters!
-Öffne… ich flehe dich an! 
+Öffne… ich flehe dich an!
 
 
 (Tür wird langsam geöffnet [OSODE])
@@ -832,6 +832,7 @@ OUME
 Danke Großvater. Ich werde die Salbe Oiwa bringen, sobald du sie fertig hast.
 
 
+[MUSIK: Übergang]
 
 
 Szene 8: Creme, Werk des Teufels
@@ -909,7 +910,7 @@ Ich fange dann an, Herrin.
 
 OIWA
 Sehr schön Aki. (PAUSE.) 
-vergiss den Hals nicht. (Musik setzt ein, wird unruhiger)
+vergiss den Hals nicht. (Musik setzt ein, wird immer unruhiger)
 
 
 AKI
@@ -994,8 +995,8 @@ Aber… ich…
 
 
 OIWA
-lch sagte, du sollst es NICHT sagen!
-Das ist nur die Reizung… der Schmerz… nichts weiter! Nichts weiter! Hörst du?!
+lch sagte, du sollst es NICHT sagen! [MUSIK setzt zaghaft wieder ein, weiter angespannt]
+ Das ist nur die Reizung… der Schmerz… nichts weiter! Nichts weiter! Hörst du?!
 
 
 
@@ -1067,6 +1068,7 @@ Bring mir noch Wasser.
 IEMON
  (leise, entsetzt)
 …Oiwa? Was ist mit dir?
+(Musik stoppt)
 
 
 OIWA
@@ -1088,7 +1090,6 @@ Dreh dich um.
 OIWA
 Nein.
 Ich… ich möchte mich erst waschen. Ich bin sicher schrecklich verschmiert.
-(Musik stoppt)
 
 
 IEMON

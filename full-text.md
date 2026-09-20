@@ -182,7 +182,7 @@ Er erwartet mich morgen Abend. Ich ahne nichts Gutes.
  *(schlägt mit Faust auf Tisch)* Ihr könnt lachen... alle.  
  Aber eines Tages werdet ihr sehen, wer hier lacht und wer zahlt\!
 
-[*(Er stößt den Sakebecher fest auf den Tisch \[NAOSUKE\] – dumpfer Klang \> Geräuschkulisse verstummt kurz \[ALLE\]/\[MUSIK\] \> Laute Schritte auf Holz \[OIWA\] \> Tür \[OSODE\])*]()  
+[*(Er stößt den Sakebecher fest auf den Tisch \[NAOSUKE\] – dumpfer Klang \> Geräuschkulisse verstummt kurz \[ALLE\]/\[MUSIK hält inne\] \> Laute Schritte auf Holz \[OIWA\] \> Tür \[OSODE\])*]()  
 
 **OSODE**  
  Naosuke…
@@ -378,14 +378,14 @@ Endlich, Sato-san. Lass mich sehen wie du…
 
 **Ort: Haus von Samon; Figuren: Iemon, Naosuke**
 
-[***Geräuschkulisse Haus Samon**: Schwerer Regen \[SATO\] ab Tür zu: **Leichter Regen \[OIWA\], Knistern von Feuer \[TAKUETSU\]***]()  
+[***Geräuschkulisse Haus Samon**: Schwerer Regen \[SATO\] ab Tür zu: **Leichter Regen \[OIWA\], Knistern von Feuer \[TAKUETSU\] \[MUSIK klingt aus\]***]()  
 
 [*(Schnelle Schritte auf Kies \[OSODE\] \> Keuchen von Naosuke \>  Klopfen an einer Tür \[OSODE\])*]()  
 
 **NAOSUKE**  
 *(keuchend, nervös)*  
  Iemon\! Bist du da? Du sagtest mir, du wärest  heute noch im Haus deines Schwiegervaters\!  
- Öffne… ich flehe dich an\! 
+ Öffne… ich flehe dich an\!
 
 [*(Tür wird langsam geöffnet \[OSODE\])*  ]()  
 **IEMON**  
@@ -573,6 +573,8 @@ Sicherlich. Ich werde eine Salbe anrühren und du wirst sie Oiwa bringen. Als ei
 **OUME**  
 Danke Großvater. Ich werde die Salbe Oiwa bringen, sobald du sie fertig hast.
 
+[**\[MUSIK: Übergang\]**]()  
+
 ### Szene 8: Creme, Werk des Teufels
 
 **Ort: Haus von Iemon; Figuren: Oiwa, Oume, Aki (Dienerin), Iemon**
@@ -624,7 +626,7 @@ Ich fange dann an, Herrin.
 
 **OIWA**  
 Sehr schön Aki. (PAUSE.)  
-vergiss den Hals nicht. (Musik setzt ein, wird unruhiger)
+vergiss den Hals nicht. (Musik setzt ein, wird immer unruhiger)
 
 **AKI**  
 Natürlich, Herrin.
@@ -674,7 +676,7 @@ Nun tu doch endlich was\!
  *(zwischen Zähnen, voller Zorn und Verzweiflung)*  
  Dann machst du etwas falsch\! Wasch gründlicher, Aki\! Gründlicher\!
 
-[ *(Haut reißt ein Stück \[SATO\], Schrei \[OIWA\], Stoff reiben hört auf \[NAOSUKE\],* Musik stoppt)]()  
+[ *(Haut reißt ein Stück \[SATO\], Schrei \[OIWA\], Stoff reiben hört auf \[NAOSUKE\],* **Musik stoppt**)]()  
 
 **AKI**  
  Herrin… euer… euer Gesicht…
@@ -688,7 +690,7 @@ Nun tu doch endlich was\!
 [*(Ohrfeigengeräusch \[NAOSUKE\] \> Schmerzensschrei Aki)*]()  
 
 **OIWA**  
- lch sagte, du sollst es NICHT sagen\!  
+[ lch sagte, du sollst es NICHT sagen\! **\[MUSIK setzt zaghaft wieder ein, weiter angespannt\]**  ]()  
  Das ist nur die Reizung… der Schmerz… nichts weiter\! Nichts weiter\! Hörst du?\!
 
 **AKI**  
@@ -741,7 +743,8 @@ Nun tu doch endlich was\!
 
 **IEMON**  
  (leise, entsetzt)  
- …Oiwa? Was ist mit dir?
+ …Oiwa? Was ist mit dir?  
+**(MUSIK stoppt)**
 
 **OIWA**  
  Es ist nichts.  
@@ -758,8 +761,7 @@ Nun tu doch endlich was\!
 
 **OIWA**  
  Nein.  
- Ich… ich möchte mich erst waschen. Ich bin sicher schrecklich verschmiert.  
-(Musik stoppt)
+ Ich… ich möchte mich erst waschen. Ich bin sicher schrecklich verschmiert.
 
 **IEMON**  
  (härter)  
