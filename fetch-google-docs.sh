@@ -20,10 +20,9 @@ if [ -z $(type -P gcloud) ]; then
 fi
 
 PANDOC_INSTALLED="TRUE"
-if [ -z $(type -P pandoc) ]; then
+if [ -z "$(type -P pandoc)" ]; then
     PANDOC_INSTALLED="FALSE"
-    echo "This script requires pandoc. Please install pandoc and try again."
-    exit 1
+    echo "pandoc not found, skipping Markdown conversion"
 fi
 
 TAB_NAME="Geräusche nach Szenen (gefiltert aus Text)"
