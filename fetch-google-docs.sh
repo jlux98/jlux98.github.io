@@ -69,12 +69,12 @@ convert_with_css "full-text"
 
 render_actor_part() {
     SPEAKING_EXPRESSION="$1"
-    SOUNDEFFECT_EXPRESSION="$2"
+    SOUNDEFFECT_EXPRESSION="$2|ALLE"
     OUTPUT_FILE_NAME=$3
     ACTOR_TEXT="$(echo "$MARKDOWN_TEXT" | sed -E 's/^# Text/# '"$SOUNDEFFECT_EXPRESSION"'/' )"
     ACTOR_TEXT="$(echo "$ACTOR_TEXT" | tr '\n' '|' |
         sed -z -E 's/(\*\*('"$SPEAKING_EXPRESSION"')[^*]*\*\* *(\|[^|]+)*)\|\|/==\1==\|\|/g' |
-        sed -z -E 's/([^|]*\\\[[a-zA-Z, ]*'"$SOUNDEFFECT_EXPRESSION"'[a-zA-Z, ]*\\\][^|]*) *\(\)(  )?\|\|/==\1\(\)==  \|\|/g' |
+        sed -z -E 's/([^|]*\\\[[a-zA-Z, ]*'"$SOUNDEFFECT_EXPRESSION"'[a-zA-Z, ]*\\\][^|]*) *\(\)((\|)|([^ ] *\|))\|/==\1\(\)==  \|\|/g' |
         tr '|' '\n')"
     echo "$ACTOR_TEXT" > "$OUTPUT_FILE_NAME.md"
     convert_with_css "$OUTPUT_FILE_NAME"
@@ -104,6 +104,11 @@ CURRENT_FILTERED_TEXT=${CURRENT_FILTERED_TEXT//$'\n'$'\n'/$'\n'}
 
 echo "$CURRENT_FILTERED_TEXT" > current_filtered_text.txt
 echo "$FILTERED_TEXT" > filtered_text.txt
+
+git add .
+git commit -m "$(date)"
+git push
+
 if diff current_filtered_text.txt filtered_text.txt; then
     echo "No differences found between current and filtered text."
     echo "Exiting..."

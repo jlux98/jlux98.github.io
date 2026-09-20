@@ -66,7 +66,7 @@ Löschte man die letzte Kerze, so sollte ein Geist erscheinen.
 
  Eine dieser Geschichten spielt am Rand der großen Straße nach Westen.
 „Tōkaidō Yotsuya Kaidan“ –
-Die Geistergeschichte von Yotsuya an der Tōkaidō-Straße.
+´+ Die Geistergeschichte von Yotsuya an der Tōkaidō-Straße.
 Sie erzählt vom gefallenen Samurai Iemon,
 von seiner treuen Frau Oiwa, von Mord,
 und von einem Verrat, der so grausam ist,
@@ -81,10 +81,12 @@ damit sie ihren Zorn nicht auf jene richtet,
 die ihre Geschichte erneut erzählen.
 
 
-(Erzähler entzündet Räucherstäbchen und dankt kurz)
+(Erzähler entzündet Räucherstäbchen und dankt kurz alle verbeugen sich mit)
 
 
 So bitten auch wir dich, Oiwa, um Erlaubnis, deine Geschichte zu erzählen, und um ihre Vergebung.
+
+
 
 
  Oiwas und Iemons Geschichte beginnt…
@@ -92,7 +94,7 @@ an einem verregneten Abend,
 in einem Teehaus am Rande der Tōkaidō-Straße.
 
 
-(Shamisen-Signal und Trommeldoppelschlag [NAOSUKE])
+(MUSIK weiter, bis Takuetsu sitzt. Shamisen-Signal und Trommeldoppelschlag [NAOSUKE])
 
 
 
@@ -101,7 +103,7 @@ Szene 1: It`s a Hard Knock Life
 Ort: Teehaus beim Asakusa Tempel;  Figuren: Iemon, Naosuke, Takuetsu
 
 
-Geräuschkulisse Teehaus: Regen [OIWA], gedämpftes Stimmengewirr [OIWA, OSODE, SATO]
+Geräuschkulisse Teehaus: Regen [OIWA], gedämpftes Stimmengewirr (kein Gekicher), Geschirr klirren [OIWA], [OSODE], [SATO]
 
 
 IEMON
@@ -162,7 +164,7 @@ TAKUETSU
 
 
 NAOSUKE
- (laut) (Packt Takuetsu, Stoffgeräusch [NAOSUKE] und Ächzen von TAKUETSU)
+ (laut) (Packt Takuetsu, Stoffgeräusch [NAOSUKE] und Ächzen von [TAKUETSU])
  Halt deinen Mund, Takuetsu! (Takuetsu: Ähm…)
 
 
@@ -204,7 +206,7 @@ Szene 2: I was made for loving you Osode…
 Ort: Bordell; Figuren: Naosuke, Osode, Satô, Takuetsu
 
 
-Geräuschkulisse Bordell:  fröhliche Shamisen-Musik [MUSIK], Kichern von Frauen [IEMON, OIWA], Gespräche im Hintergrund [IEMON, OIWA], Tatami-Schritte [OIWA], Lachen [OIWA],
+Geräuschkulisse Bordell:  fröhliche Shamisen-Musik [MUSIK], Kichern von Frauen [IEMON], [OIWA], Gespräche im Hintergrund [IEMON], [OIWA], Tatami-Schritte [OIWA], Lachen [OIWA],
 
 
 TAKUETSU
@@ -262,7 +264,7 @@ NAOSUKE
  Aber eines Tages werdet ihr sehen, wer hier lacht und wer zahlt!
 
 
-(Er stößt den Sakebecher fest auf den Tisch [NAOSUKE] – dumpfer Klang > Geräuschkulisse verstummt kurz [ALLE/MUSIK] > Laute Schritte auf Holz [OIWA] > Tür [OSODE])
+(Er stößt den Sakebecher fest auf den Tisch [NAOSUKE] – dumpfer Klang > Geräuschkulisse verstummt kurz [ALLE]/[MUSIK] > Laute Schritte auf Holz [OIWA] > Tür [OSODE])
 
 
 OSODE
@@ -412,14 +414,14 @@ SAMON
 Aber eine Frau, die mit ihm fällt, steht nie wieder auf.
 
 
-(lange Pause; Iemon geht langsam im Raum umher = Schritte [OSODE])
+(lange Pause; Iemon geht langsam im Raum umher = Schritte auf Holz [OSODE])
 
 
 IEMON
 Ihr richtet schnell, Schwiegervater.
 Euch ist die Ehre eurer Familie wichtiger als alles andere.
  Aber ihr habt keine Ahnung, was es heißt, in dieser neuen Welt zu leben.
-[Schritte bis hier hin]
+[Schritte auf Holz bis hier hin]
 
 
 SAMON
@@ -431,7 +433,7 @@ IEMON
  Dann wisst ihr, was nun kommt.
 
 
-(Geräuschkulisse stoppt [STILLE] > Schwert wird gezogen (Sound [OSODE], Visual [IEMON]) > Stoffgeräusch [SATO] > Keuchen von Samon)
+(Geräuschkulisse stoppt [ALLE] > Schwert wird gezogen (Sound [OSODE], Visual [IEMON]) > Stoffgeräusch [SATO] > Keuchen von Samon)
 
 
 SAMON
@@ -448,6 +450,7 @@ IEMON
 Vater.
 
 
+[NAOSUKE] lehnt sich zur Seite
 (Schwert wird weggesteckt [IEMON]) 
 
 
@@ -477,7 +480,10 @@ Szene 4: Und noch ein Mord
 Ort: Seitenstraße des Bordellviertels; Figuren: Naosuke, Naosukes ehemaliger Herr
 
 
-Geräuschkulisse Seitenstraße: Regen laut [SATO], dumpfe Ferne Geräusche des Bordellviertels [leise], Gelächter [OIWA, OSODE, SATO, IEMON]), Hund (IEMON) > Katze [OSODE] > Winseln [IEMON])
+Geräuschkulisse Seitenstraße: Regen laut [SATO], dumpfe Ferne Geräusche des Bordellviertels [leise], Gelächter [OIWA], [OSODE], [SATO], [IEMON]), Hund [IEMON] > Katze [OSODE] > Winseln [IEMON])
+
+
+[IEMON] Mikrofon auf Kies
 
 
 NAOSUKE
@@ -497,7 +503,7 @@ Sie hat gesagt... sie liebt keinen anderen...
 Aber du... du hast sie beschmutzt…
 
 
-(Meister wird erstochen: Eine Klinge (Tanto: NAOSUKE) wird gezogen [OSODE]  > 4 rasche Schritte auf Kies [IEMON] > Stoff reißen [TAKUETSU] und gleichzeitiger Aufprall [NAOSUKE] > Aufschrei > Röcheln)
+(Meister wird erstochen: Eine Klinge (Tanto: [NAOSUKE]) wird gezogen [OSODE]  > 4 rasche Schritte auf Kies [IEMON] > Stoff reißen [TAKUETSU] und gleichzeitiger Aufprall [NAOSUKE] > Aufschrei > Röcheln)
 
 
 NAOSUKE
@@ -522,8 +528,9 @@ NAOSUKE
  Götter... was hab ich getan…
 
 
-(Ein entferntes Hundegebell. [IEMON] Schritte auf Kies [OSODE; IEMON] und Rufe 
-Passanten rufen (Da hat jemand geschrien! [SATO]
+(Ein entferntes Hundegebell. [IEMON] Schritte auf Kies [OSODE]; [IEMON] und Rufe 
+Passanten rufen
+(Da hat jemand geschrien! [SATO]
 Liegt da einer? [OIWA]
 Stehenbleiben![OSODE] 
 hallen undeutlich aus der Ferne.)
@@ -531,13 +538,14 @@ hallen undeutlich aus der Ferne.)
 
 
 
- Nein... nein, sie werden mich finden... ich... ich muss weg…
-
-
+ Nein... nein, sie werden mich finden
 (Schnelle Schritte auf Kies [IEMON])
+... ich... ich muss weg…
 
 
-STILLE
+[Musik untermalt die Flucht]
+
+
 
 
 
@@ -551,7 +559,7 @@ Ort: Haus von Samon; Figuren: Iemon, Naosuke
 Geräuschkulisse Haus Samon: Schwerer Regen [SATO] ab Tür zu: Leichter Regen [OIWA], Knistern von Feuer [TAKUETSU]
 
 
-(Schnelle Schritte auf Kies [OSODE] > Keuchen von Naosuke > Klopfen an einer Tür [OSODE])
+(Schnelle Schritte auf Kies [OSODE] > Keuchen von Naosuke >  Klopfen an einer Tür [OSODE])
 
 
 NAOSUKE 
@@ -614,6 +622,13 @@ NAOSUKE
 Ist… das Samon-sama?
 
 
+
+
+
+
+([OIWA]: REGENTROMMEL ZU [SATO])
+
+
 IEMON
  Ich fand ihn so. Ein Eindringling kam… und floh.
 Ich konnte nichts tun.
@@ -665,19 +680,16 @@ IEMON
 
 
 
-(OIWA: TROMMEL ZU SATO)
 
 
 Szene 6: Ein Schwur
 Ort: Haus von Samon; Figuren: Iemon, Naosuke, Osode, Oiwa
 
 
-Geräuschkulisse Haus Samon: Donner [Oiwa]; Leichter Regen [SATO]  Knistern von Feuer [TAKUETSU]
+Geräuschkulisse Haus Samon: Donner [OIWA]; Leichter Regen [SATO]  Knistern von Feuer [TAKUETSU]
 
 
-Öffnen einer Tür [OSODE] –> Schritte [OIWA und OSODE] c                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
-
-
+Öffnen einer Tür [OSODE] –> Schritte [OIWA] und [OSODE]
 IEMON
 Oiwa. Osode. Da seid ihr endlich.
 
@@ -762,7 +774,7 @@ Ich danke dir, Iemon-dono.
 
 
 IEMON
-Oiwa-san. (OIWA: Keine Reaktion) Oiwa-San (OIWA: Ja?), weise die Diener an, sich um deinen Vater zu kümmern. (OIWA: Jawohl) Der Rest von euch kann nun gehen. Naosuke-san, wir besprechen unser weiteres Vorgehen morgen.
+Oiwa-san. ([OIWA]: Keine Reaktion) Oiwa-San ([OIWA]: Ja?), weise die Diener an, sich um deinen Vater zu kümmern. ([OIWA]: Jawohl) Der Rest von euch kann nun gehen. Naosuke-san, wir besprechen unser weiteres Vorgehen morgen.
 
 
 
@@ -897,7 +909,7 @@ Ich fange dann an, Herrin.
 
 OIWA
 Sehr schön Aki. (PAUSE.) 
-vergiss den Hals nicht.
+vergiss den Hals nicht. (Musik setzt ein, wird unruhiger)
 
 
 AKI
@@ -962,7 +974,7 @@ OIWA
 Dann machst du etwas falsch! Wasch gründlicher, Aki! Gründlicher!
 
 
- (Haut reißt ein Stück [SATO], Schrei [OIWA], Stoff reiben hört auf [AKI])
+ (Haut reißt ein Stück [SATO], Schrei [OIWA], Stoff reiben hört auf [NAOSUKE], Musik stoppt)
 
 
 AKI
@@ -975,7 +987,8 @@ Sag es nicht!
 
 
 AKI
-Aber… ich… (Ohrfeigengeräusch [AKI] > Schmerzensschrei Aki)
+Aber… ich…
+(Ohrfeigengeräusch [NAOSUKE] > Schmerzensschrei Aki)
 
 
 
@@ -1032,8 +1045,8 @@ KOMM ZURÜCK!!
 
 
 (Oiwas schweres, ungleichmäßiges Atmen.)
-
-Es… ist nichts…
+(Musik: Klagethema)
+ Es… ist nichts…
 Nichts.
 Nur Schmerz.
 Nur… nur eine Reaktion.
@@ -1075,6 +1088,7 @@ Dreh dich um.
 OIWA
 Nein.
 Ich… ich möchte mich erst waschen. Ich bin sicher schrecklich verschmiert.
+(Musik stoppt)
 
 
 IEMON
@@ -1163,8 +1177,7 @@ Du bist mein Mann.
 
 
 (Seine Schritte entfernen sich [OSODE] –> Schiebetür zu. [OSODE]
-
-
+(Musik: Klagethema)
  (Oiwas schwerer Atem)
 
 
@@ -1180,7 +1193,7 @@ Wenn ich morgen wieder schön bin.
 
 Szene 9: Hat deine Braut…
 Ort: Bordell Figuren: Iemon, Takuetsu
-Geräuschkulisse Bordell: Shamisenmusik (MUSIK), gedämpftes Gelächter und leichte Sake-Trunkenheit im Hintergrund (Go wird gespielt, gelalle, lachen, anstoßen) [ALLE]
+Geräuschkulisse Bordell: Shamisenmusik (upbeat MUSIK), gedämpftes Gelächter und leichte Sake-Trunkenheit im Hintergrund (Go wird gespielt, gelalle, lachen, anstoßen) [ALLE]
 
 
 
@@ -1266,7 +1279,7 @@ Und wenn… ich mich verweigere?
 
 
 IEMON
- (Schenkt sich und Takuetsu einen Sake aus [TAKUETSU] –> trinkt(IEMON))
+ (Schenkt sich und Takuetsu einen Sake aus [TAKUETSU] –> trinkt [IEMON])
 Dann wirst du keinen neuen Morgen sehen,
 an dem du etwas verweigern könntest.
 
@@ -1286,7 +1299,10 @@ Bereite dich vor.
 Heute Nacht wirst du es tun.
 
 
-(Schritte Tatami [OSODE] –> Schiebetür auf und zu [OSODE] > Musik endet mit Schließen der Schiebetür)
+(Schritte Tatami [OSODE] –> Schiebetür auf und zu [OSODE] > Musik wird düsterer, um die Nacht einzuleiten)
+
+
+(Holzschritte (Sandale) von OSODE an IEMON)
 
 
 
@@ -1295,16 +1311,16 @@ Szene 10: Eine gute Nacht zum sterben
 Ort: Haus des Iemon; Figuren: Oiwa, Takuetsu
 
 
-Geräuschkulisse Haus Iemon: Windspiel [SATO] mit Wind [Takuetsu]
+Geräuschkulisse Haus Iemon: Windspiel [SATO] mit Wind [TAKUETSU]
 
 
-(Ein fernes Hundegebell [IEMON der Hund], Schritte auf Kies [IEMON], Schritte auf Holz [IEMON] –>
+(Ein fernes Hundegebell [IEMON] der Hund, Schritte auf Kies [IEMON], Schritte auf Holz [IEMON] –>
 Schiebetür auf und zu. [OSODE] Wind aus [TAKUETSU], Schritte auf Tatami-Matte [OSODE])
 (Licht wird dunkel/blau, um zu zeigen, dass Oiwas Gesicht für Takuetsu nicht zu sehen ist.)
 
 
 TAKUETSU
-Oiwa-sama…? [Sie wacht auf OIWA] Bitte erschreckt euch nicht. Ich… ich muss mit euch sprechen.
+Oiwa-sama…? ([OIWA] wacht auf) Bitte erschreckt euch nicht. Ich… ich muss mit euch sprechen.
 
 
 OIWA
@@ -1353,8 +1369,7 @@ Ihr müsst etwas gegen euren Mann unternehmen. Ihr habt sicher einen Verwandten,
 
 
 (Oiwa greift hinter sich und stößt an einen Schwertständer. Greift sich eines der Schwerter.) [OIWA]
-
-
+(Musik beginnt mit Spannungsaufbau)
 
 
 OIWA
@@ -1366,7 +1381,7 @@ TAKUETSU
 Nein! Ich-
 
 
-(Oiwa reißt eines von Iemons Schwertern aus der Scheide.) [OIWA und OSODE]
+(Oiwa reißt eines von Iemons Schwertern aus der Scheide.) [OIWA] und [OSODE]
 
 
 TAKUETSU
@@ -1379,7 +1394,7 @@ Ihr werdet mir nichts tun!
 Niemand wird mir etwas tun!
 
 
-(Im Rhythmus 1-2-3: Zwei stolpernde Schritte auf Tatami [OSODE] > Takuetsu fällt nach hinten durch die Tür,reißen von Papier [NAOSUKE] und brechen von Holz [IEMON] > Zwei Schritte auf Tatami [OSODE])
+(Im Rhythmus 1-2-3: Zwei stolpernde Schritte auf Tatami (Faustschläge gegen Tatamimatte) [OSODE] > Takuetsu fällt nach hinten durch die Tür,reißen von Papier [NAOSUKE] und brechen von Holz [IEMON] > Zwei Schritte auf Tatami [OSODE])
 
 
 (Licht geht an, da der Flur beleuchtet ist.)
@@ -1400,7 +1415,7 @@ Ich… ich kann es nicht sagen.
 Aber… ich kann es euch zeigen.
 
 
-(Ein Handspiegel wird auf den Boden gelegt, Ein kurzer Moment des Schweigens, Oiwa sieht ihr Gesicht (OIWA) und der Spiegel wird fallen gelassen.) [TAKUETSU]
+(Ein Handspiegel wird auf den Boden gelegt, Ein kurzer Moment des Schweigens (musik kurz innehalten, bis der Spiegel fällt), Oiwa sieht ihr Gesicht [OIWA] und der Spiegel wird fallen gelassen.) [TAKUETSU]
 
 
 TAKUETSU
@@ -1468,7 +1483,7 @@ Geliebter.
 (Ein letzter Atemzug.)
 
 
-(Todes Thema [Musik])
+(Intro Thema mit Gesang [Musik])
 PAUSE!
 
 
@@ -1477,7 +1492,7 @@ PAUSE!
 Akt 2
 Szene 11: Bluthochzeit
 Ort: Garten am Haus Iemons; Figuren: Iemon, Oume, Ito Kihei, Oiwa
-Geräuschkulisse Garten: Vogelgezwitscher [OIWA], Frosch/Zikaden [OIWA], ein sanfter Wind bewegt Bambus [SATO und OSODE], Klockbambus [NAOSUKE], Schritte auf Kies [??TAKU??]]
+Geräuschkulisse Garten: Vogelgezwitscher [OIWA], Frosch/Zikaden [OIWA], ein sanfter Wind bewegt Bambus [SATO] und [OSODE], Klockbambus [NAOSUKE], Schritte auf Kies ??[TAKUETSU]??]
 
 
 ITO KIHEI
@@ -1608,7 +1623,7 @@ wer die Salbe mischte und wer sie meiner armen Frau brachte.
 
 
 (Kurze Pause)
-(Der Wind rauscht durch den Bambus [SATO und OIWA])
+(Der Wind rauscht durch den Bambus [SATO] und [OIWA])
 
 
 Es war Mord, Großvater, Und Ihr und Oume würdet dafür verantworlich gemacht werden,
@@ -1637,8 +1652,8 @@ Bitte.
 
 
 ( Beleuchtung dunkel!)
-(Papier rascheln (TAKUETSU), Feuerstein schlägt [IEMON]
--> Eine Laterne wird entzündet (TECHNIK? TAKUETSU)
+(Papier rascheln [TAKUETSU], Feuerstein schlägt [IEMON]
+-> Eine Laterne wird entzündet (TECHNIK? [TAKUETSU]?)
 
 
 OIWA
@@ -1842,7 +1857,7 @@ Iemon, gebt mir das Schwert.
                        Oume! Zurück! (Schrei Oume)
 
 
-[Reißender Stoff (SATO)]
+[Reißender Stoff [SATO]
  Er wird getroffen. Ein erstickter Atemzug.
 
 …Oume…
@@ -1917,7 +1932,7 @@ Szene 12: MorgenGrauen
 Ort: Garten am Haus des Iemon; Figuren: Iemon, Naosuke
 
 
-Geräuschkulisse: Hahnenschrei [IEMON] –> Wind in Bambus [SATO, OSODE], Vogelgezwitscher [OIWA]
+Geräuschkulisse: Hahnenschrei [IEMON] –> Wind in Bambus [SATO], [OSODE], Vogelgezwitscher [OIWA]
 
 
 
@@ -2036,7 +2051,7 @@ Dein Bordell ist berühmter als der Tempel.
 
 TAKUETSU
 Die Leute kommen aber nicht wegen der Gebete.
-(Beide lachen. Die Tür [OSODE+OIWA] wird hastig aufgeschoben. Kurzes Atmen von Iemon, Iemon tritt ein, Schritte auf Holz [OIWA] – ungepflegt, atemlos, Gelächter hört auf, erschrockenes Tuscheln)
+(Beide lachen. Die Tür [OSODE] & [OIWA] wird hastig aufgeschoben. Kurzes Atmen von Iemon, Iemon tritt ein, Schritte auf Holz [OIWA] – ungepflegt, atemlos, Gelächter hört auf, erschrockenes Tuscheln)
  
 SATO
 Welch Überraschung!
@@ -2071,7 +2086,7 @@ Ein… Doppelmord?
 IEMON
  Ich habe ihn nicht gesehen.
 Und dann war es zu spät.
-(Gesicht-Lampe geht an (TAKUETSU) > Oiwa: LÜGNER!)
+(Gesicht-Lampe geht an [TAKUETSU] > [OIWA]: LÜGNER!)
 Habt ihr das gehört?
 
 
@@ -2259,7 +2274,7 @@ NAOSUKE
 (Klopfen eines Priesterstabes [NAOSUKE].
 Naosuke murmelt kaum zu verstehen ein Norito (ritueller Singsang), ruhig, gleichmäßig.
  Das Rascheln von Papierstreifen (Shide) im Wind.[OIWA]
-Wind und Regen ([TAKUETSU und SATO], zusätzlicher Wind - [OSODE]) werden dabei immer lauter.)
+Wind und Regen ([TAKUETSU] und [SATO], zusätzlicher Wind - [OSODE]) werden dabei immer lauter.)
 Oh-ha-ra-i no ko-to-ba 
 o moh-schi-a-ge-maß
 Ka-mi-ta-tschi no ma-e ni
@@ -2277,7 +2292,7 @@ reinigt diesen Ort von Befleckung und Schatten…
 
 
  
-(Alle Geräusche hören schlagartig auf.)[TAKUETSU, SATO, OSODE, OIWA]
+(Alle Geräusche hören schlagartig auf.)[TAKUETSU], [SATO], [OSODE], [OIWA]
 
 
 IEMON
@@ -2306,7 +2321,7 @@ OIWA
 (lacht leise, gurgelnd)
 Er hört mich nicht. So wie du mich auch nicht gehört hast.
 
-(Ein heftiger Donner [OIWA], Regen und Wind  setzen ein.[TAKUETSU und SATO])
+(Ein heftiger Donner [OIWA], Regen und Wind  setzen ein.[TAKUETSU] und [SATO])
 
 
 IEMON
@@ -2336,10 +2351,10 @@ Ich habe dich geliebt!
 
 
 OIWA/OUME 
- Dann steh zu deinem Schwur und bleib bei mir (OSODE: Gong vorbereiten)
+ Dann steh zu deinem Schwur und bleib bei mir ([OSODE]: Gong vorbereiten)
 
 
- (Ein heftiger Windstoß [TAKUETSU] > Papier reißt (Shide reißen) [NAOSKE],
+ (Ein heftiger Windstoß [TAKUETSU] > Papier reißt (Shide reißen) [NAOSUKE],
 Der Gong fällt klirrend zu Boden [OSODE])
 
 
@@ -2348,8 +2363,11 @@ NAOSUKE
 Dein Herz widerspricht deinen Worten!
 
 
+[ALLE] GERÄUSCHE PAUSIEREN
+
+
 OIWA/OUME 
- Kein Ritual wird dich schützen, Iemon. (GERÄUSCHE PAUSIEREN)
+ Kein Ritual wird dich schützen, Iemon.
 
 
 OIWA/OUME/SAMON/ITO
@@ -2378,7 +2396,7 @@ IEMON
 Nein, nein, nein!
 
 
- (Hastige Schritte auf Holz, werden leiser!) [TAKUE –> 
+ (Hastige Schritte auf Holz, werden leiser!) [TAKUETSU] –> 
 Reißt eine Tür auf [OSODE] > Starker Regen [SATO]; Starker Wind [TAKUETSU], Donner [OIWA]
 
 (Iemons Atem überschlägt sich)
@@ -2389,7 +2407,7 @@ Reißt eine Tür auf [OSODE] > Starker Regen [SATO]; Starker Wind [TAKUETSU], Do
 
 Szene 15: Hafen des Todes
 Ort: Hafen; Figuren: Iemon, Naosuke, Oyumi, Oiwa, Takuetsu
-Geräuschkulisse Hafen: Möwen [OSODE], Wellen (Kies > [NAOSUKE, später OSODE] Brandung (durch Atem > [SATO])
+Geräuschkulisse Hafen: Möwen [OSODE], Wellen (Kies > [NAOSUKE], später [OSODE] Brandung (durch Atem > [SATO])
 
 
 IEMON
@@ -2481,7 +2499,7 @@ Feige und ehrenlos?
 IEMON 
 (kalt)
 Nein. 
-(Gerangel von Iemon und Oyumi > Oyumi schreit > Aufprall Körper auf Tisch, Knochenbrechen (IEMON) > ein letztes Röcheln) (Wellen (Kies - [OSODE], [NAOSUKE] klappt Mikro hoch))
+(Gerangel von Iemon und Oyumi > Oyumi schreit > Aufprall Körper auf Tisch, Knochenbrechen [IEMON] > ein letztes Röcheln) (Wellen (Kies - [OSODE], [NAOSUKE] klappt Mikro hoch))
 (Todes Thema [Musik])
 
 
@@ -2493,7 +2511,7 @@ IEMON
 Lass mich in Frieden. 
 
 
-(Schritte(Kies): Naosuke und Takuetsu kommen angelaufen [TAKUETSU])
+(Schritte (Kies): Naosuke und Takuetsu kommen angelaufen [TAKUETSU])
 
 
 NAOSUKE
@@ -2596,7 +2614,7 @@ Szene 16: Hochzeit Osode
 Ort: Tempel; Figuren: Naosuke, Osode, Priester Limone , Sato
 
 
-Klangkulisse Shinto-Tempel: ferne Glocke (leise Gong schlagen > [OSODE], leises Plätschern eines Wasserbeckens [TAKUETSU], Wind im Bambus [SATO+ OSODE]
+Klangkulisse Shinto-Tempel: ferne Glocke (leise Gong schlagen > [OSODE], leises Plätschern eines Wasserbeckens [TAKUETSU], Wind im Bambus [SATO] + [OSODE]
 
 
 PRIESTER
@@ -2709,7 +2727,7 @@ SATO
 Dann komm, du Hund!
 
 
-(Schritte auf Kiesboden (OIWA))
+(Schritte auf Kiesboden [OIWA])
 
 
 
@@ -2744,7 +2762,7 @@ Szene 17: Dreiecksmord
 Ort: Vor dem Tempel; Figuren: Naosuke, Osode, Sato
 
 
-Geräuschkulisse Tempelvorhof: gelegentliches Krähen von Krähen [WIEBKE], Wind der durch Bambus rauscht [TAKUETSU, OSODE]
+Geräuschkulisse Tempelvorhof: gelegentliches Krähen von Krähen [WIEBKE], Wind der durch Bambus rauscht [TAKUETSU], [OSODE]
 
 
 (Schritte auf Kies [IEMON])
@@ -2827,7 +2845,7 @@ Glaubst du, dass ich mir das gefallen lasse, Priester?
 Ich mag ein Ronin ohne Herr sein, aber diesen kleinen Rest Ehre lasse ich mir nicht nehmen.
 
 
-(Schwert wird gezogen [SATO] → Sound [Osode])
+(Schwert wird gezogen [SATO] → Sound [OSODE])
 
 
 NAOSUKE
@@ -2964,7 +2982,7 @@ Auf mein Leben.
 Dass ich niemals jemandem erzählen würde, was er mir offenbarte.“
 
 
-(STILLE -> Zwitschern von Vögeln [OIWA], leise rauschender Wind [TAKUETSU und IEMON])
+(STILLE -> Zwitschern von Vögeln [OIWA], leise rauschender Wind [TAKUETSU] und [IEMON])
 
 
 OSODE
@@ -2986,7 +3004,7 @@ Und mein Herz ist sich sicher.
 Vater…ich möchte Naosuke heiraten.
 
 
-(Ein Schreibpinsel wird abgelegt [SAMON])
+(Ein Schreibpinsel wird abgelegt [SATO])
 
 
 SAMON
@@ -3207,7 +3225,7 @@ Schwestern, Vater
 verzeiht mir.
 
 
-(Ein dumpfer Stich -> reißender Stoff [Oiwa]
+(Ein dumpfer Stich -> reißender Stoff [OIWA]
  -> Ein Körper sackt zusammen [NAOSUKE] -> Stille)
 
 
@@ -3229,7 +3247,7 @@ TAKUETSU
 Trink erst einmal etwas, mein Freund.
 
 
-(Sake wird ausgeschenkt [TAKUETSU]-> Trinkgeräusch x2 [TAKUETSU, SATO])
+(Sake wird ausgeschenkt [TAKUETSU]-> Trinkgeräusch x2 $], [SATO])
 
 
 SATO
@@ -3437,6 +3455,8 @@ OIWA
 
 
 IEMON 
+(vorsichtig)
+Oiwa?
 (schreiend)
  ICH LIEBTE DICH!
 
@@ -3482,7 +3502,7 @@ Du bist es… du bist wirklich hier…
 Dann ist es gut. Dann bin ich nicht allein.
 
 
-(Gedämpfte Schritte x2(Kies?) [NAOSUKE und IEMON] im gleichen Becken)
+(Gedämpfte Schritte x2(Kies?) [NAOSUKE] und [IEMON] im gleichen Becken)
 
 
 TAKUETSU 
@@ -3508,7 +3528,7 @@ OIWA
  Dann töte sie.
 
 
- (Iemon zieht sein Schwert aus der Scheide: ein schabendes Kreischen [IEMON (optisch)], [OSODE (akkustisch)])
+ (Iemon zieht sein Schwert aus der Scheide: ein schabendes Kreischen [IEMON] (optisch), [OSODE] (akkustisch))
 
 
 SATO 
@@ -3533,7 +3553,7 @@ OIWA
  LÜGNER!
 
 
-(Oiwa/Oume beginnt zu lachen)
+([OIWA]/[OSODE] als Oume beginnt zu lachen)
 
 
 IEMON
@@ -3546,7 +3566,7 @@ HÖR AUF!
 
 SATO
  Es reicht.
-(Schwert wird gezogen [OSODE+SATO])
+(Schwert wird gezogen [OSODE] & [SATO])
 
 
 IEMON
@@ -4775,8 +4795,7 @@ Durchlauf Akt I
 
 	
 
-	
-
+	spielt
 	
 
 	Kann (als Backup)
@@ -4844,8 +4863,7 @@ Durchlauf Akt I
 
 	
 
-	
-
+	spielt
 	
 
 	spielt
@@ -4868,8 +4886,7 @@ Durchlauf Akt I
 
 	
 
-	
-
+	spielt
 	Kann (als Backup)
 	/
 	
@@ -5363,9 +5380,9 @@ Einführung
 Szene 1: It`s a Hard Knock Life
 
 
-Geräuschkulisse Teehaus: Regen [OIWA], gedämpftes Stimmengewirr [OIWA, OSODE, SATO]
+Geräuschkulisse Teehaus: Regen [OIWA], gedämpftes Stimmengewirr (kein Gekicher), Geschirr klirren [OIWA], [OSODE], [SATO]
  (schenkt sich Sake ein [TAKUETSU])
- (laut) (Packt Takuetsu, Stoffgeräusch [NAOSUKE] und Ächzen von TAKUETSU)
+ (laut) (Packt Takuetsu, Stoffgeräusch [NAOSUKE] und Ächzen von [TAKUETSU])
 (Kurze Pause. [TAKUETSU] schenkt nach, das Gluckern des Sake ist hörbar.)
 (Windstoß [OSODE] 
  > Pause)
@@ -5374,10 +5391,10 @@ Geräuschkulisse Teehaus: Regen [OIWA], gedämpftes Stimmengewirr [OIWA, OSODE, 
 Szene 2: I was made for loving you Osode…
 
 
-Geräuschkulisse Bordell: fröhliche Shamisen-Musik [MUSIK], Kichern von Frauen [IEMON, OIWA], Gespräche im Hintergrund [IEMON, OIWA], Tatami-Schritte [OIWA], Lachen [OIWA],
+Geräuschkulisse Bordell: fröhliche Shamisen-Musik [MUSIK], Kichern von Frauen [IEMON], [OIWA], Gespräche im Hintergrund [IEMON], [OIWA], Tatami-Schritte [OIWA], Lachen [OIWA],
  (lacht mit, schlägt leicht auf den Tisch [SATO])
 (Er stößt den Sakebecher fest auf den Tisch [NAOSUKE] – dumpfer Klang 
- > Geräuschkulisse verstummt kurz [ALLE/MUSIK] 
+ > Geräuschkulisse verstummt kurz [ALLE]/[MUSIK] 
  > Laute Schritte auf Holz [OIWA] 
  > Tür [OSODE])
 
@@ -5388,23 +5405,25 @@ Szene 3: Ein Mord
 Geräuschkulisse Haus Samon: Leichter Regen [OIWA]; Knistern von Feuer [TAKUETSU] 
 (Öffnen Tür [OSODE] 
  > Schritte auf Holz [OSODE])
-(lange Pause; Iemon geht langsam im Raum umher = Schritte [OSODE])
-[Schritte bis hier hin]
-(Geräuschkulisse stoppt [STILLE] 
+(lange Pause; Iemon geht langsam im Raum umher = Schritte auf Holz [OSODE])
+[Schritte auf Holz bis hier hin]
+(Geräuschkulisse stoppt [ALLE] 
  > Schwert wird gezogen (Sound [OSODE], Visual [IEMON]) 
  > Stoffgeräusch [SATO] 
  > Keuchen von Samon)
 (Todes Thema [Musik])
+[NAOSUKE] lehnt sich zur Seite
 (Schwert wird weggesteckt [IEMON]) 
 
 
 Szene 4: Und noch ein Mord
 
 
-Geräuschkulisse Seitenstraße: Regen laut [SATO], dumpfe Ferne Geräusche des Bordellviertels [leise], Gelächter [OIWA, OSODE, SATO, IEMON]), Hund (IEMON) 
+Geräuschkulisse Seitenstraße: Regen laut [SATO], dumpfe Ferne Geräusche des Bordellviertels [leise], Gelächter [OIWA], [OSODE], [SATO], [IEMON]), Hund [IEMON] 
  > Katze [OSODE] 
  > Winseln [IEMON])
-(Meister wird erstochen: Eine Klinge (Tanto: NAOSUKE) wird gezogen [OSODE] 
+[IEMON] Mikrofon auf Kies
+(Meister wird erstochen: Eine Klinge (Tanto: [NAOSUKE]) wird gezogen [OSODE] 
  > 4 rasche Schritte auf Kies [IEMON] 
  > Stoff reißen [TAKUETSU] und gleichzeitiger Aufprall [NAOSUKE] 
  > Aufschrei 
@@ -5412,11 +5431,12 @@ Geräuschkulisse Seitenstraße: Regen laut [SATO], dumpfe Ferne Geräusche des B
 (Meister fällt um [IEMON] 
  > Zwei Schritte. [IEMON])
 (Todes Thema [Musik])
-(Ein entferntes Hundegebell. [IEMON] Schritte auf Kies [OSODE; IEMON] und Rufe 
-Passanten rufen (Da hat jemand geschrien! [SATO]
+(Ein entferntes Hundegebell. [IEMON] Schritte auf Kies [OSODE]; [IEMON] und Rufe 
+(Da hat jemand geschrien! [SATO]
 Liegt da einer? [OIWA]
 Stehenbleiben![OSODE] 
 (Schnelle Schritte auf Kies [IEMON])
+[Musik untermalt die Flucht]
 
 
 Szene 5: Eine Verschwörung
@@ -5428,17 +5448,19 @@ Geräuschkulisse Haus Samon: Schwerer Regen [SATO] ab Tür zu: Leichter Regen [O
  > Klopfen an einer Tür [OSODE])
 (Tür wird langsam geöffnet [OSODE])
 (Schritte auf Holz [OIWA], Tür schließt [OSODE], Starker Regen stopp [SATO], leichter Regen [OIWA], Feuer [TAKUETSU])
+([OIWA]: REGENTROMMEL ZU [SATO])
 (Donner grollt in der Ferne. [OIWA])
 
 
 Szene 6: Ein Schwur
 
 
-Geräuschkulisse Haus Samon: Donner [Oiwa]; Leichter Regen [SATO] Knistern von Feuer [TAKUETSU]
+Geräuschkulisse Haus Samon: Donner [OIWA]; Leichter Regen [SATO] Knistern von Feuer [TAKUETSU]
 Öffnen einer Tür [OSODE] –
- > Schritte [OIWA und OSODE] c 
+ > Schritte [OIWA] und [OSODE]
 (Laken wird umgeschlagen [NAOSUKE] –
  > Donner [OIWA], Aufschrei mit Donner von Oiwa und Osode)
+Oiwa-san. ([OIWA]: Keine Reaktion) Oiwa-San ([OIWA]: Ja?), weise die Diener an, sich um deinen Vater zu kümmern. ([OIWA]: Jawohl) Der Rest von euch kann nun gehen. Naosuke-san, wir besprechen unser weiteres Vorgehen morgen.
 [Übergangsmusik]
 
 
@@ -5463,8 +5485,8 @@ Geräuschkulisse Haus Iemon: Knistern von Feuer [TAKUETSU], Windspiel [SATO]
 (Eincremegeräusch, Eincremen vorm Mikrofon, [IEMON])
 (Wasser wird hektisch aus einer Schüssel geschöpft [TAKUETSU])
 (Hastiges Reiben mit Stoff und Creme) [IEMON]
- (Haut reißt ein Stück [SATO], Schrei [OIWA], Stoff reiben hört auf [AKI])
-Aber… ich… (Ohrfeigengeräusch [AKI] 
+ (Haut reißt ein Stück [SATO], Schrei [OIWA], Stoff reiben hört auf [NAOSUKE], Musik stoppt)
+(Ohrfeigengeräusch [NAOSUKE] 
  > Schmerzensschrei Aki)
 (Stolpernde Schritte [OSODE])
 (Schnelle Schritte [OSODE] –
@@ -5483,49 +5505,51 @@ Aber… ich… (Ohrfeigengeräusch [AKI]
 Szene 9: Hat deine Braut…
 
 
-Geräuschkulisse Bordell: Shamisenmusik (MUSIK), gedämpftes Gelächter und leichte Sake-Trunkenheit im Hintergrund (Go wird gespielt, gelalle, lachen, anstoßen) [ALLE]
+Geräuschkulisse Bordell: Shamisenmusik (upbeat MUSIK), gedämpftes Gelächter und leichte Sake-Trunkenheit im Hintergrund (Go wird gespielt, gelalle, lachen, anstoßen) [ALLE]
 ( 2 Schritte auf Tatami [OSODE])
 (2 Schritte auf Tatami [OSODE]. Geräusche und Musik wird leiser. Ein Tanto wird auf den Tisch gelegt. [IEMON])
 ([TAKUETSU] macht Schockgeräusch)
  (Schenkt sich und Takuetsu einen Sake aus [TAKUETSU] –
- > trinkt(IEMON))
+ > trinkt [IEMON])
 (Schritte Tatami [OSODE] –
  > Schiebetür auf und zu [OSODE] 
- > Musik endet mit Schließen der Schiebetür)
+ > Musik wird düsterer, um die Nacht einzuleiten)
 
 
 Szene 10: Eine gute Nacht zum sterben
 
 
-Geräuschkulisse Haus Iemon: Windspiel [SATO] mit Wind [Takuetsu]
-(Ein fernes Hundegebell [IEMON der Hund], Schritte auf Kies [IEMON], Schritte auf Holz [IEMON] –
+Geräuschkulisse Haus Iemon: Windspiel [SATO] mit Wind [TAKUETSU]
+(Ein fernes Hundegebell [IEMON] der Hund, Schritte auf Kies [IEMON], Schritte auf Holz [IEMON] –
  >
 Schiebetür auf und zu. [OSODE] Wind aus [TAKUETSU], Schritte auf Tatami-Matte [OSODE])
-Oiwa-sama…? [Sie wacht auf OIWA] Bitte erschreckt euch nicht. Ich… ich muss mit euch sprechen.
+Oiwa-sama…? ([OIWA] wacht auf) Bitte erschreckt euch nicht. Ich… ich muss mit euch sprechen.
 (Oiwa greift hinter sich und stößt an einen Schwertständer. Greift sich eines der Schwerter.) [OIWA]
-(Oiwa reißt eines von Iemons Schwertern aus der Scheide.) [OIWA und OSODE]
-(Im Rhythmus 1-2-3: Zwei stolpernde Schritte auf Tatami [OSODE] 
+(Oiwa reißt eines von Iemons Schwertern aus der Scheide.) [OIWA] und [OSODE]
+(Im Rhythmus 1-2-3: Zwei stolpernde Schritte auf Tatami (Faustschläge gegen Tatamimatte) [OSODE] 
  > Takuetsu fällt nach hinten durch die Tür,reißen von Papier [NAOSUKE] und brechen von Holz [IEMON] 
  > Zwei Schritte auf Tatami [OSODE])
-(Ein Handspiegel wird auf den Boden gelegt, Ein kurzer Moment des Schweigens, Oiwa sieht ihr Gesicht (OIWA) und der Spiegel wird fallen gelassen.) [TAKUETSU]
+(Ein Handspiegel wird auf den Boden gelegt, Ein kurzer Moment des Schweigens (musik kurz innehalten, bis der Spiegel fällt), Oiwa sieht ihr Gesicht [OIWA] und der Spiegel wird fallen gelassen.) [TAKUETSU]
 (Er versucht, ihr das Schwert zu entreißen. 
  > Stichgeräusch [SATO]
 (Das Schwert fällt [OIWA])
 (Schnelle Schritte auf Holz die leiser werden [IEMON]
-(Todes Thema [Musik])
+(Intro Thema mit Gesang [Musik])
 
 
 Szene 11: Bluthochzeit
 
 
-Geräuschkulisse Garten: Vogelgezwitscher [OIWA], Frosch/Zikaden [OIWA], ein sanfter Wind bewegt Bambus [SATO und OSODE], Klockbambus [NAOSUKE], Schritte auf Kies [??TAKU??]]
+Geräuschkulisse Garten: Vogelgezwitscher [OIWA], Frosch/Zikaden [OIWA], ein sanfter Wind bewegt Bambus [SATO] und [OSODE], Klockbambus [NAOSUKE], Schritte auf Kies ??[TAKUETSU]??]
 (Kurze Stille. Ein Windstoß im Bambus [OIWA].)
-(Der Wind rauscht durch den Bambus [SATO und OIWA])
-(Papier rascheln (TAKUETSU), Feuerstein schlägt [IEMON]
+(Der Wind rauscht durch den Bambus [SATO] und [OIWA])
+(Papier rascheln [TAKUETSU], Feuerstein schlägt [IEMON]
+-
+ > Eine Laterne wird entzündet (TECHNIK? [TAKUETSU]?)
 (Papier rascheln [TAKUETSU], Feuerstein schlägt [IEMON]
 (Papier raschelt [TAKUETSU], Feuerstein schlägt [IEMON]
 (Schwertziehgräusch[OSODE] visuell [IEMON])
-[Reißender Stoff (SATO)]
+[Reißender Stoff [SATO]
 (Todes Thema [Musik])
 (Kopf und Körper fallen auf Boden (Sellerie, [NAOSUKE])
 Klockbambus [NAOSUKE])
@@ -5537,7 +5561,7 @@ Szene 12: MorgenGrauen
 
 
 Geräuschkulisse: Hahnenschrei [IEMON] –
- > Wind in Bambus [SATO, OSODE], Vogelgezwitscher [OIWA]
+ > Wind in Bambus [SATO], [OSODE], Vogelgezwitscher [OIWA]
 (Stille 
  > Ein Vogel flattert auf) [OIWA]
 (Ein Vogel flattert auf) [OIWA]
@@ -5547,7 +5571,9 @@ Szene 13: Geister im Bordell
 
 
 Geräuschkulisse Bordell: Shamisenmusik (MUSIK), gedämpftes Gelächter [ALLE], mittelschwere Sake-Trunkenheit im Hintergrund. [ALLE]
-(Beide lachen. Die Tür [OSODE+OIWA] wird hastig aufgeschoben. Kurzes Atmen von Iemon, Iemon tritt ein, Schritte auf Holz [OIWA] – ungepflegt, atemlos, Gelächter hört auf, erschrockenes Tuscheln)
+(Beide lachen. Die Tür [OSODE] & [OIWA] wird hastig aufgeschoben. Kurzes Atmen von Iemon, Iemon tritt ein, Schritte auf Holz [OIWA] – ungepflegt, atemlos, Gelächter hört auf, erschrockenes Tuscheln)
+(Gesicht-Lampe geht an [TAKUETSU] 
+ > [OIWA]: LÜGNER!)
 (Schritte auf Holz, Gemeinsam mit Sprechen- [OIWA])
 
 
@@ -5564,15 +5590,19 @@ Geräuschkulisse Tempel: Leiser Regen [SATO], –
 Mittelmächtiger Gong [OSODE])
 (Klopfen eines Priesterstabes [NAOSUKE].
  Das Rascheln von Papierstreifen (Shide) im Wind.[OIWA]
-Wind und Regen ([TAKUETSU und SATO], zusätzlicher Wind - [OSODE]) werden dabei immer lauter.)
-(Alle Geräusche hören schlagartig auf.)[TAKUETSU, SATO, OSODE, OIWA]
-(Ein heftiger Donner [OIWA], Regen und Wind setzen ein.[TAKUETSU und SATO])
+Wind und Regen ([TAKUETSU] und [SATO], zusätzlicher Wind - [OSODE]) werden dabei immer lauter.)
+(Alle Geräusche hören schlagartig auf.)[TAKUETSU], [SATO], [OSODE], [OIWA]
+(Ein heftiger Donner [OIWA], Regen und Wind setzen ein.[TAKUETSU] und [SATO])
 (Das Holz des Bodens knarzt.[OSODE] –
  >
+ Dann steh zu deinem Schwur und bleib bei mir ([OSODE]: Gong vorbereiten)
  (Ein heftiger Windstoß [TAKUETSU] 
- > Papier reißt (Shide reißen) [NAOSKE],
+ > Papier reißt (Shide reißen) [NAOSUKE],
 Der Gong fällt klirrend zu Boden [OSODE])
+[ALLE] GERÄUSCHE PAUSIEREN
 (Ein ohrenbetäubender Donnerschlag) [OIWA] → Geräusche wieder an
+ (Hastige Schritte auf Holz, werden leiser!) [TAKUETSU] –
+ > 
 Reißt eine Tür auf [OSODE] 
  > Starker Regen [SATO]; Starker Wind [TAKUETSU], Donner [OIWA]
 
@@ -5581,14 +5611,14 @@ Szene 15: Hafen des Todes
 
 
 Geräuschkulisse Hafen: Möwen [OSODE], Wellen (Kies 
- > [NAOSUKE, später OSODE] Brandung (durch Atem 
+ > [NAOSUKE], später [OSODE] Brandung (durch Atem 
  > [SATO])
 (Gerangel von Iemon und Oyumi 
  > Oyumi schreit 
- > Aufprall Körper auf Tisch, Knochenbrechen (IEMON) 
+ > Aufprall Körper auf Tisch, Knochenbrechen [IEMON] 
  > ein letztes Röcheln) (Wellen (Kies - [OSODE], [NAOSUKE] klappt Mikro hoch))
 (Todes Thema [Musik])
-(Schritte(Kies): Naosuke und Takuetsu kommen angelaufen [TAKUETSU])
+(Schritte (Kies): Naosuke und Takuetsu kommen angelaufen [TAKUETSU])
 (Laufschritte auf Kies (Iemon geht ab) - [OSODE])
 Schritte auf Kies (Naosuke geht ab) [OSODE]
 
@@ -5597,7 +5627,7 @@ Szene 16: Hochzeit Osode
 
 
 Klangkulisse Shinto-Tempel: ferne Glocke (leise Gong schlagen 
- > [OSODE], leises Plätschern eines Wasserbeckens [TAKUETSU], Wind im Bambus [SATO+ OSODE]
+ > [OSODE], leises Plätschern eines Wasserbeckens [TAKUETSU], Wind im Bambus [SATO] + [OSODE]
 (Wasser schöpfen 
  > Tropfen in Wasser [TAKUETSU] 
  > Papierstreifen rascheln [OIWA])
@@ -5605,15 +5635,16 @@ Klangkulisse Shinto-Tempel: ferne Glocke (leise Gong schlagen
 (Wind wird kurz lauter [SATO])
 (Keramik. Eingießen von Sake) [TAKUETSU]
 (Hastige Schritte auf Kies [OIWA] Atemloses Einatmen [SATO]
+(Schritte auf Kiesboden [OIWA])
 
 
 Szene 17: Dreiecksmord
 
 
-Geräuschkulisse Tempelvorhof: gelegentliches Krähen von Krähen [WIEBKE], Wind der durch Bambus rauscht [TAKUETSU, OSODE]
+Geräuschkulisse Tempelvorhof: gelegentliches Krähen von Krähen [WIEBKE], Wind der durch Bambus rauscht [TAKUETSU], [OSODE]
 (Schritte auf Kies [IEMON])
 (Brief raschelt [OSODE])
-(Schwert wird gezogen [SATO] → Sound [Osode])
+(Schwert wird gezogen [SATO] → Sound [OSODE])
 ([IEMON] mehrer kurze zarte Schritte)
 (Mehrere schnelle Schritte auf Kies [IEMON] -
  > Aufstöhnen und röcheln Osode. Erschrecken von Sato und Naosuke) (Reißender Stoff [OIWA])
@@ -5631,8 +5662,8 @@ Geräuschkulisse Naosukes Haus: Feuerschale [TAKUETSU]
  (Brief wird langsam entfaltet [NAOSUKE])
 (Papier raschelt [NAOSUKE])
 (STILLE -
- > Zwitschern von Vögeln [OIWA], leise rauschender Wind [TAKUETSU und IEMON])
-(Ein Schreibpinsel wird abgelegt [SAMON])
+ > Zwitschern von Vögeln [OIWA], leise rauschender Wind [TAKUETSU] und [IEMON])
+(Ein Schreibpinsel wird abgelegt [SATO])
 (zögerliche Schritte auf Kies [IEMON])
 (In der Ferne eine Tempelglocke [IEMON])
 (Rascheln von Papier [NAOSUKE] -
@@ -5642,7 +5673,7 @@ Geräuschkulisse Naosukes Haus: Feuerschale [TAKUETSU]
 (Papier rascheln [NAOSUKE])
 (Ein Messer wird langsam aus der Scheide gezogen [NAOSUKE] Sound [IEMON] )
 (Ein dumpfer Stich -
- > reißender Stoff [Oiwa]
+ > reißender Stoff [OIWA]
  -
  > Ein Körper sackt zusammen [NAOSUKE] -
  > Stille)
@@ -5654,7 +5685,7 @@ Szene 19: Sato Holmes und Takuetsu Watson
 
 Geräuschkulisse Bordell: Gespräche im Hintergrund, Lachen, Shamisen [MUSIK], Schritte auf Holz [OIWA],
 (Sake wird ausgeschenkt [TAKUETSU]-
- > Trinkgeräusch x2 [TAKUETSU, SATO])
+ > Trinkgeräusch x2 $], [SATO])
 (Schritte auf Holz [OIWA] -
  > Schiebetür auf und zu [OSODE])
 
@@ -5667,10 +5698,11 @@ Geräuschkulisse Verfallener Tempel: Wind pfeift [MUSIK], altes Holz knarzt [OSO
  (lauter Windstoß [NAOSUKE] -
  > Tempelglocke(Gong) [OSODE]) 
 (Langsames, schleppendes Näherkommen [OIWA]. Atem direkt am Mikrofon)
-(Gedämpfte Schritte x2(Kies?) [NAOSUKE und IEMON] im gleichen Becken)
- (Iemon zieht sein Schwert aus der Scheide: ein schabendes Kreischen [IEMON (optisch)], [OSODE (akkustisch)])
+(Gedämpfte Schritte x2(Kies?) [NAOSUKE] und [IEMON] im gleichen Becken)
+ (Iemon zieht sein Schwert aus der Scheide: ein schabendes Kreischen [IEMON] (optisch), [OSODE] (akkustisch))
+([OIWA]/[OSODE] als Oume beginnt zu lachen)
 (zwei Schritte (Kies?) [NAOSUKE])
-(Schwert wird gezogen [OSODE+SATO])
+(Schwert wird gezogen [OSODE] & [SATO])
 (Ein einziger Schwertschlag (Sellerieköpfen[NAOSUKE]) -
  > Sterbegeräusch, Kopf -
  > Tisch)
