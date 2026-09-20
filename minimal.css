@@ -14,6 +14,13 @@
   box-sizing: border-box;
 }
 
+input {
+  max-height: 0.9rem;
+  vertical-align: center;
+  max-width: 0.9rem;
+  padding: 0;
+}
+
 mark {
   display:block;
   background-color: var(--color-highlights);

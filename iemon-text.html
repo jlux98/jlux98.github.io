@@ -23,6 +23,11 @@ with class="no-print" when used for printing. -->
       kleiner
     </span>]
   </span>
+
+  <label style="margin-left:1rem;">
+    <span style="font-size:0.9rem;">Akzent</span>
+    <input id="highlightPicker" class"highlightPicker" type="color" value="#573875" aria-label="Highlight color">
+  </label>
 </p>
 </header>
 <script>
@@ -53,6 +58,15 @@ with class="no-print" when used for printing. -->
    * be executed until here, so the text size tools will not be made
    * visible. */
   document.getElementById("textSizeTools").style.display = 'initial';
+</script>
+
+<script>
+  const root = document.documentElement;
+  const picker = document.getElementById("highlightPicker");
+
+  picker.addEventListener("input", function () {
+    root.style.setProperty("--color-highlights", picker.value);
+  });
 </script>
 <body>
 <h1 id="iemon">IEMON</h1>
