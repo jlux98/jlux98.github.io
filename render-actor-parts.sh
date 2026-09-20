@@ -1,32 +1,65 @@
 #! /usr/bin/env bash
+set -euo pipefail
+# set -x
 
 source ./convert_with_css.sh
 
 FULL_TEXT_PATH="$1"
 
 render_actor_part() {
-    local markdown_text
     markdown_text="$(cat "$FULL_TEXT_PATH")"
-    SPEAKING_EXPRESSION="$1"
-    ROLE_NAME="$2"
-    SOUND_EFFECT_EXPRESSION="($2|ALLE)"
-    OUTPUT_FILE_NAME=$3
-    # ACTOR_TEXT="$(echo "$markdown_text" | sed -E 's/^# Text/# '"$ROLE_NAME"'/;s/([^ ]) +\]\(\)/\1]()/g' )"
-    ACTOR_TEXT="$(echo "$markdown_text" | sed -E 's/^# Text/# '"$ROLE_NAME"'/' )"
-    ACTOR_TEXT="$(echo "$ACTOR_TEXT" | tr '\n' '|' |
-        sed -E 's/(\*\*('"$SPEAKING_EXPRESSION"')[^*]*\*\* *(\|[^|]+)*)\|\|/==\1==\|\|/g' |
-        # sed -E 's/([^|]*\\'"$SOUND_EFFECT_EXPRESSION"'\\\][^|]*) *\(\)((\|)|([^ ] *\|))\|/==\1\(\)==  \|\|/g' |
-        sed -z -E 's/\|\|([^=][^|]*\\\['"$SOUND_EFFECT_EXPRESSION"'\\\][^|]*) *\(\)(  )?(\|)?\|/\|\|==\1\(\)==  \|\4/g' |
-        tr '|' '\n')"
-    echo "$ACTOR_TEXT" > "$OUTPUT_FILE_NAME.md"
-    sed -i -E 's/([^ ]) +==/\1==/g' "$OUTPUT_FILE_NAME.md"
+    ROLE_NAME="$1"
+    OUTPUT_FILE_NAME=$2
+    echo "rendering part for $ROLE_NAME in ./$OUTPUT_FILE_NAME.md..."
+    TEXT_PROCESSED="$(
+        printf '%s\n' "$markdown_text" |
+        sed -E 's/^# Text/# '"$ROLE_NAME"'/' |
+        awk -v role="$ROLE_NAME" '
+    BEGIN {
+      in_block = 0
+      last = ""
+      out = ""
+    }
+
+    {
+      line = $0
+      sub(/^[[:space:]]+/, "", line)
+      sub(/[[:space:]]+$/, "", line)
+
+      if (line == "") {
+        if (in_block) {
+          last = last "=="
+        }
+        in_block = 0
+      }
+
+      if (line ~ ("^\\*\\*+[^*]*" role)) {
+        in_block = 1
+        line = "==" line
+      }
+
+      if (((index(line, "[" role "]") > 0) || (index(line, "\\[" role "\\]") > 0)) && !in_block) {
+        line = "==" line "=="
+      }
+
+      out = out last "  \n"
+      last = line
+    }
+
+    END {
+      print out last "  "
+    }
+        '
+    )"
+    TEXT_PROCESSED="$(echo "$TEXT_PROCESSED" | sed -E 's/==+/==/g;s/ *==$/==  /g;s/  \]\(\)/]()/g')"
+    echo "$TEXT_PROCESSED" > "$OUTPUT_FILE_NAME.md"
     convert_with_css "$OUTPUT_FILE_NAME"
     # rm "$OUTPUT_FILE_NAME.md"
 }
 
-render_actor_part "IEMON|PRIESTER" "IEMON" "iemon-text"
-render_actor_part "NAOSUKE|AKI" "NAOSUKE" "naosuke-text"
-render_actor_part "OSODE|OUME|OYUMI" "OSODE" "osode-text"
-render_actor_part "SATO|SAMON" "SATO" "sato-text"
-render_actor_part "OIWA" "OIWA" "oiwa-text"
-render_actor_part "TAKUETSU|ITO KIHEI|MEISTER" "TAKUETSU" "takuetsu-text"
+render_actor_part "OIWA" "oiwa-text"
+render_actor_part "IEMON" "iemon-text"
+render_actor_part "NAOSUKE" "naosuke-text"
+render_actor_part "OSODE" "osode-text"
+render_actor_part "SATO" "sato-text"
+render_actor_part "TAKUETSU" "takuetsu-text"

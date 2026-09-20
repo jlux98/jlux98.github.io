@@ -935,7 +935,7 @@ Wie könnt ihr nur? Warum solltet ihr wollen, dass ich…
 
 [(Schritte Tatami \[OSODE\] –\> Schiebetür auf und zu \[OSODE\] \> Musik wird düsterer, um die Nacht einzuleiten)]()  
 
-(Holzschritte (Sandale) von OSODE an IEMON)
+[(Holzschritte (Sandale) von \[OSODE\] an \[IEMON\])]()  
 
 ### Szene 10: Eine gute Nacht zum sterben
 
@@ -1759,7 +1759,7 @@ ko-no mo-no ni fu-re-ta
  Schau sie nicht an\!
 
 [(Das Holz des Bodens knarzt.\[OSODE\] –\>  ]()  
- Langer gequälter Atem direkt am Mikrofon. (OIWA)
+[ Langer gequälter Atem direkt am Mikrofon. \[OIWA\]]()  
 
 **OIWA/OUME**  
  Du hast mich verraten.  
@@ -1885,7 +1885,8 @@ Feige und ehrenlos?
 
 **IEMON**  
 (kalt)  
-Nein.  
+Nein. 
+
 [(Gerangel von Iemon und Oyumi \> Oyumi schreit \> Aufprall Körper auf Tisch, Knochenbrechen \[IEMON\] \> ein letztes Röcheln) (Aufschlag: Schlag auf Kies \[NAOSUKE\], (Wellen (Kies \- \[OSODE\], \[NAOSUKE\] klappt Mikro hoch))  ]()  
 [**(Todes Thema \[Musik\])**]()  
 

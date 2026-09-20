@@ -2355,7 +2355,7 @@ Bleib im Kreis!
 Schau sie nicht an!
 
 (Das Holz des Bodens knarzt.[OSODE] –>
- Langer gequälter Atem direkt am Mikrofon. (OIWA)
+ Langer gequälter Atem direkt am Mikrofon. [OIWA]
 
 
 OIWA/OUME 
