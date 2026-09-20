@@ -5,32 +5,43 @@ Posted by Lukas Sommer, modified by community. See post 'Timeline' for change hi
 Retrieved 2026-09-20, License - CC BY-SA 3.0
 -->
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/mdbassit/Coloris@latest/dist/coloris.min.css"/>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/mdbassit/Coloris@latest/dist/coloris.min.css" />
 <script src="https://cdn.jsdelivr.net/gh/mdbassit/Coloris@latest/dist/coloris.min.js"></script>
 
 <!-- The CSS is assumed to apply “display=none” to the elements
 with class="no-print" when used for printing. -->
 <header class="zoom-header">
-<p class="no-print">
-  <!-- Some text size tools.
+  <p class="no-print">
+    <!-- Some text size tools.
   The CSS is assumed to apply “display=none” to the elements
   with id="textSizeTools". So the text size tools are
   by default invisible and do not take any space in the default
   rendering. -->
-  <span id="textSizeTools">
-    [<span class="linkStyle zoomInCursor" onclick="javascript:resizeText(true)">
-      größer
-    </span>]
-    –
-    [<span class="linkStyle zoomOutCursor" onclick="javascript:resizeText(false)">
-      kleiner
-    </span>]
-  </span>
+    <span id="textSizeTools">
+      [<span class="linkStyle zoomInCursor" onclick="javascript:resizeText(true)">
+        größer
+      </span>]
+      –
+      [<span class="linkStyle zoomOutCursor" onclick="javascript:resizeText(false)">
+        kleiner
+      </span>]
+    </span>
 
-<label class="color-label">
-  <span>Accent</span>
-  <input type="text" class="coloris" value="#573875">
-</label></p>
+    <label class="color-label">
+      <span>Geräusche</span>
+      <input type="text" class="coloris" id="soundsPicker" value="#79A6D8">
+    </label>
+
+    <label class="color-label">
+      <span>Einsätze</span>
+      <input type="text" class="coloris" id="markPicker" value="#573875">
+    </label>
+
+
+    <button id="themeToggle" type="button" aria-label="Switch to light mode">
+      ☀️
+    </button>
+  </p>
 </header>
 <script>
   /* document.body.style.fontSize is empty – though “font-size=100%” is set in
@@ -39,16 +50,16 @@ with class="no-print" when used for printing. -->
    * now on, the value is available in ECMAScript. */
   document.body.style.fontSize = "100%";
   var resizeText = (function () {
-      'use strict';
-      var step = 0;
-      return function (bigger) {
-          if (bigger !== true) {
-              step -= 1;
-          } else {
-              step += 1;
-          }
-          document.body.style.fontSize = 100 * Math.pow(1.2, step) + "%";
-      };
+    'use strict';
+    var step = 0;
+    return function (bigger) {
+      if (bigger !== true) {
+        step -= 1;
+      } else {
+        step += 1;
+      }
+      document.body.style.fontSize = 100 * Math.pow(1.2, step) + "%";
+    };
   }());
   /* If the browser is scripting-enabled, than this script will be executed
    * and the text size tools will become visible. If the browser is not scripting-enabled,
@@ -64,7 +75,7 @@ with class="no-print" when used for printing. -->
 
 <script>
   Coloris({
-    el: '.coloris',
+    el: '#soundsPicker',
     theme: 'dark',
     themeInline: false,
     alpha: false,
@@ -72,8 +83,44 @@ with class="no-print" when used for printing. -->
     swatches: ['#573875', '#79A6D8', '#0d1109', '#F5E8B7', '#ffffff']
   });
 
-  document.querySelector('.coloris').addEventListener('input', (e) => {
+  document.querySelector('#soundsPicker').addEventListener('input', (e) => {
+    document.documentElement.style.setProperty('--color-links', e.target.value);
+  });
+</script>
+<script>
+  Coloris({
+    el: '#markPicker',
+    theme: 'dark',
+    themeInline: false,
+    alpha: false,
+    format: 'hex',
+    swatches: ['#573875', '#79A6D8', '#0d1109', '#F5E8B7', '#ffffff']
+  });
+
+  document.querySelector('#markPicker').addEventListener('input', (e) => {
     document.documentElement.style.setProperty('--color-highlights', e.target.value);
+  });
+</script>
+<script>
+  const root = document.documentElement;
+  const toggle = document.getElementById("themeToggle");
+
+  function applyTheme(mode) {
+    root.dataset.theme = mode;
+    toggle.textContent = mode === "dark" ? "☀️" : "🌙";
+    toggle.setAttribute(
+      "aria-label",
+      mode === "dark" ? "Switch to light mode" : "Switch to dark mode"
+    );
+    localStorage.setItem("theme", mode);
+  }
+
+  const savedTheme = localStorage.getItem("theme") || "dark";
+  applyTheme(savedTheme);
+
+  toggle.addEventListener("click", () => {
+    const next = root.dataset.theme === "dark" ? "light" : "dark";
+    applyTheme(next);
   });
 </script>
 <body>
