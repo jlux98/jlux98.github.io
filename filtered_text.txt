@@ -161,16 +161,18 @@ Geräuschkulisse Garten: Vogelgezwitscher [OIWA], Frosch/Zikaden [OIWA], ein san
 (Papier rascheln [TAKUETSU], Feuerstein schlägt [IEMON]
 (Papier raschelt [TAKUETSU], Feuerstein schlägt [IEMON]
 [MUSIK: einzelner Shamisen-Ton]
+[MUSIK Spannungsaufbau]
 (Schwertziehgräusch[OSODE] visuell [IEMON])
 [Reißender Stoff [SATO]
 (Todes Thema [Musik])
 (Kopf und Körper fallen auf Boden (Sellerie, [NAOSUKE])
 Klockbambus [NAOSUKE])
-(Todes Thema [Musik])
+(Todes Thema [Musik], dann STILLE)
 (Ein Windstoß [SATO] löscht die Laternen.)
 
 Szene 12: MorgenGrauen
 
+[MUSIK ganz kurzer Übergang]
 Geräuschkulisse: Hahnenschrei [IEMON] –
  > Wind in Bambus [SATO], [OSODE], Vogelgezwitscher [OIWA]
 (Stille 
@@ -181,8 +183,10 @@ Szene 13: Geister im Bordell
 
 Geräuschkulisse Bordell: Shamisenmusik (MUSIK), gedämpftes Gelächter [ALLE], mittelschwere Sake-Trunkenheit im Hintergrund. [ALLE]
 (Beide lachen. Die Tür [OSODE] & [OIWA] wird hastig aufgeschoben. Kurzes Atmen von Iemon, Iemon tritt ein, Schritte auf Holz [OIWA] – ungepflegt, atemlos, Gelächter hört auf, erschrockenes Tuscheln)
+[Shamisenmusik stops] (Kurze Stille.)
 (Gesicht-Lampe geht an [TAKUETSU] 
  > [OIWA]: LÜGNER!)
+[Klagethema MUSIK]
 (Schritte auf Holz, Gemeinsam mit Sprechen- [OIWA])
 
 Szene 14: Iemon im Tempel
@@ -195,7 +199,7 @@ Geräuschkulisse Tempel: Leiser Regen [SATO], –
  (Papier raschelt [OIWA] –
  >
 Mittelmächtiger Gong [OSODE])
-(Klopfen eines Priesterstabes [NAOSUKE].
+(Klopfen eines Priesterstabes [NAOSUKE]. [MUSIK mit Beat unterstützen]
  Das Rascheln von Papierstreifen (Shide) im Wind.[OIWA]
 Wind und Regen ([TAKUETSU] und [SATO], zusätzlicher Wind - [OSODE]) werden dabei immer lauter.)
 (Alle Geräusche hören schlagartig auf.)[TAKUETSU], [SATO], [OSODE], [OIWA]
@@ -208,6 +212,7 @@ Wind und Regen ([TAKUETSU] und [SATO], zusätzlicher Wind - [OSODE]) werden dabe
 Der Gong fällt klirrend zu Boden [OSODE])
 [ALLE] GERÄUSCHE PAUSIEREN
 (Ein ohrenbetäubender Donnerschlag) [OIWA] → Geräusche wieder an
+[MUSIK endet]
  (Hastige Schritte auf Holz, werden leiser!) [TAKUETSU] –
  > 
 Reißt eine Tür auf [OSODE] 
@@ -221,7 +226,7 @@ Geräuschkulisse Hafen: Möwen [OSODE], Wellen (Kies
 (Gerangel von Iemon und Oyumi 
  > Oyumi schreit 
  > Aufprall Körper auf Tisch, Knochenbrechen [IEMON] 
- > ein letztes Röcheln) (Wellen (Kies - [OSODE], [NAOSUKE] klappt Mikro hoch))
+ > ein letztes Röcheln) (Aufschlag: Schlag auf Kies [NAOSUKE], (Wellen (Kies - [OSODE], [NAOSUKE] klappt Mikro hoch))
 (Todes Thema [Musik])
 (Schritte (Kies): Naosuke und Takuetsu kommen angelaufen [TAKUETSU])
 (Laufschritte auf Kies (Iemon geht ab) - [OSODE])
@@ -252,6 +257,7 @@ Geräuschkulisse Tempelvorhof: gelegentliches Krähen von Krähen [WIEBKE], Wind
 (Körper fällt auf Kies [IEMON])
 (Todes Thema [Musik])
 (Schnelle Schritte auf Kies, die sich langsam entfernen [IEMON])
+[MUSIK untermalt die Flucht]
 
 Szene 18: Sweet Home Alabama
 
@@ -270,25 +276,26 @@ Geräuschkulisse Naosukes Haus: Feuerschale [TAKUETSU]
  > Feuerschale [TAKUETSU])
 (Papier wird zusammengeknüllt [NAOSUKE])
 (Papier rascheln [NAOSUKE])
-(Ein Messer wird langsam aus der Scheide gezogen [NAOSUKE] Sound [IEMON] )
+(Ein Messer wird langsam aus der Scheide gezogen [NAOSUKE] Sound [OSODE] )
 (Ein dumpfer Stich -
  > reißender Stoff [OIWA]
  -
  > Ein Körper sackt zusammen [NAOSUKE] -
  > Stille)
-(Todes Thema [Musik])
+(Todes Thema [Musik] geht über zu Bordell)
 
 Szene 19: Sato Holmes und Takuetsu Watson
 
 Geräuschkulisse Bordell: Gespräche im Hintergrund, Lachen, Shamisen [MUSIK], Schritte auf Holz [OIWA],
 (Sake wird ausgeschenkt [TAKUETSU]-
- > Trinkgeräusch x2 $], [SATO])
+ > Trinkgeräusch x2 [SATO])
 (Schritte auf Holz [OIWA] -
  > Schiebetür auf und zu [OSODE])
+[Bordellmusik klingt aus]
 
 Szene 20: High noon im Tempel
 
-Geräuschkulisse Verfallener Tempel: Wind pfeift [MUSIK], altes Holz knarzt [OSODE], ein einzelnes Tempelglöckchen klirrt unregelmässig im Wind [NAOSUKE], Wasser tropft [TAKUETSU]
+Geräuschkulisse Verfallener Tempel: Wind pfeift [MUSIK], altes Holz knarzt [OSODE], ein einzelnes Tempelglöckchen klirrt unregelmässig im Wind ([NAOSUKE] über Kiesbecken), Wasser tropft [TAKUETSU]
 (Nasses Reißen [SATO])
  (lauter Windstoß [NAOSUKE] -
  > Tempelglocke(Gong) [OSODE]) 

@@ -2,6 +2,8 @@
 set -eu
 # set -x
 
+source ./convert_with_css.sh
+
 if [ -z $(type -P curl) ]; then
     echo "This script requires curl. Please install curl and try again."
     exit
@@ -52,42 +54,10 @@ MARKDOWN_TEXT="$(echo "$MARKDOWN_TEXT" | sed -E 's/  +/  /g')"
 echo "$MARKDOWN_TEXT" > full-text.md
 # MARKDOWN_TEXT="$(echo "$MARKDOWN_TEXT" | tr '\n' '|')"
 
-convert_with_css() {
-    INPUT_FILE_NAME="$1"
-    OUTPUT_FILE_NAME="${2:-${INPUT_FILE_NAME}}"
-    pandoc "$INPUT_FILE_NAME.md" -f markdown+smart+yaml_metadata_block+mark -t html -o "$OUTPUT_FILE_NAME.html.tmp"
-    sed -i -E 's/[^ ] +==/==/g' "$OUTPUT_FILE_NAME.html.tmp"
-    echo '<link rel="stylesheet" type="text/css" href="minimal.css">' > "$OUTPUT_FILE_NAME.html"
-    cat zoom-buttons.html >> "$OUTPUT_FILE_NAME.html"
-    echo '<body>' >> "$OUTPUT_FILE_NAME.html"
-    cat "$OUTPUT_FILE_NAME.html.tmp" >> "$OUTPUT_FILE_NAME.html"
-    echo '</body>' >> "$OUTPUT_FILE_NAME.html"
-    rm "$OUTPUT_FILE_NAME.html.tmp"
-}
-
 convert_with_css "README" "index"
 convert_with_css "full-text"
 
-render_actor_part() {
-    SPEAKING_EXPRESSION="$1"
-    SOUNDEFFECT_EXPRESSION="$2|ALLE"
-    OUTPUT_FILE_NAME=$3
-    ACTOR_TEXT="$(echo "$MARKDOWN_TEXT" | sed -E 's/^# Text/# '"$SOUNDEFFECT_EXPRESSION"'/' )"
-    ACTOR_TEXT="$(echo "$ACTOR_TEXT" | tr '\n' '|' |
-        sed -z -E 's/(\*\*('"$SPEAKING_EXPRESSION"')[^*]*\*\* *(\|[^|]+)*)\|\|/==\1==\|\|/g' |
-        sed -z -E 's/([^|]*\\\[[a-zA-Z, ]*'"$SOUNDEFFECT_EXPRESSION"'[a-zA-Z, ]*\\\][^|]*) *\(\)((\|)|([^ ] *\|))\|/==\1\(\)==  \|\|/g' |
-        tr '|' '\n')"
-    echo "$ACTOR_TEXT" > "$OUTPUT_FILE_NAME.md"
-    convert_with_css "$OUTPUT_FILE_NAME"
-    rm "$OUTPUT_FILE_NAME.md"
-}
-
-render_actor_part "IEMON|PRIESTER" "IEMON" "iemon-text"
-render_actor_part "NAOSUKE|AKI" "NAOSUKE" "naosuke-text"
-render_actor_part "OSODE|OUME|OYUMI" "OSODE" "osode-text"
-render_actor_part "SATO|SAMON" "SATO" "sato-text"
-render_actor_part "OIWA" "OIWA" "oiwa-text"
-render_actor_part "TAKUETSU|ITO KIHEI|MEISTER" "TAKUETSU" "takuetsu-text"
+source ./render-actor-parts.sh "full-text.md"
 
 LINE_TEXT_END="$(($(echo "$TEXT" | grep -n '^Geräusche$' | cut -d ':' -f 1 | head -n 1) - 1))"
 SHORTENED_TEXT="$(echo "$TEXT" | head -n "$LINE_TEXT_END")"
@@ -106,9 +76,9 @@ CURRENT_FILTERED_TEXT=${CURRENT_FILTERED_TEXT//$'\n'$'\n'/$'\n'}
 echo "$CURRENT_FILTERED_TEXT" > current_filtered_text.txt
 echo "$FILTERED_TEXT" > filtered_text.txt
 
-git add .
-git commit -m "$(date)"
-git push
+# git add .
+# git commit -m "$(date)"
+# git push
 
 if diff current_filtered_text.txt filtered_text.txt; then
     echo "No differences found between current and filtered text."

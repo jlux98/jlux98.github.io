@@ -1,4 +1,6 @@
-# Text
+# OSODE
+ALLE
+ALLE
 
  **Legende:**
 
@@ -154,8 +156,8 @@ Er erwartet mich morgen Abend. Ich ahne nichts Gutes.
 **SATO**  
  Naosuke, du solltest lieber jemand anderen anhimmeln. Meine Frau ist nicht für dich zu haben. Sie hat Geschmack.
 
-**OSODE**  
- Naosuke-san... Ich habe dir oft gesagt: Ich bin verheiratet. Und ich wähle aus, wem ich Gesellschaft leiste.
+==**OSODE**  
+ Naosuke-san... Ich habe dir oft gesagt: Ich bin verheiratet. Und ich wähle aus, wem ich Gesellschaft leiste.==
 
 **NAOSUKE**  
  Ich verlange keine Gesellschaft... nur, dass du mich ansiehst, wie früher.
@@ -169,9 +171,9 @@ Er erwartet mich morgen Abend. Ich ahne nichts Gutes.
 [ *(lacht mit, schlägt leicht auf den Tisch \[SATO\])*  ]()  
  Oder nüchterner\!
 
-**OSODE**  
+==**OSODE**  
  *(tadelnd, leise)*  
- Genug, Takuetsu. Sato\!
+ Genug, Takuetsu. Sato\!==
 
 **TAKUETSU**  
  Ach was\! Wir scherzen nur.  
@@ -184,8 +186,8 @@ Er erwartet mich morgen Abend. Ich ahne nichts Gutes.
 
 [*(Er stößt den Sakebecher fest auf den Tisch \[NAOSUKE\] – dumpfer Klang \> Geräuschkulisse verstummt kurz \[ALLE\]/\[MUSIK hält inne\] \> Laute Schritte auf Holz \[OIWA\] \> Tür \[OSODE\])*]()  
 
-**OSODE**  
- Naosuke…
+==**OSODE**  
+ Naosuke…==
 
 **TAKUETSU**  
  Was für ein armseliger Hund. Immer winselt er, beißt nie.
@@ -193,8 +195,8 @@ Er erwartet mich morgen Abend. Ich ahne nichts Gutes.
 **SATO**  
  Vergiss ihn, Osode. Ein Mann, der sich nicht traut, ist kein Mann.
 
-**OSODE**  
- Dann gibt es in dieser Stadt keine Männer mehr.
+==**OSODE**  
+ Dann gibt es in dieser Stadt keine Männer mehr.==
 
 ***(Musik klingt aus)***
 
@@ -478,8 +480,8 @@ Oiwa. Osode. Da seid ihr endlich.
 **OIWA**  
 Iemon-san? Du hast nach meiner Schwester und mir schicken lassen? Was ist geschehen?
 
-**OSODE**  
-Und warum ist Naosuke hier?
+==**OSODE**  
+Und warum ist Naosuke hier?==
 
 **IEMON**  
 Er ist ein Zeuge.
@@ -498,8 +500,8 @@ Naosuke-san und ich betraten gerade den Garten, als wir jemanden über die Mauer
 **NAOSUKE**  
 Ja, genau so war es. Ich habe den Mörder genau gesehen, ein grobschlächtiger Mann. Ich würde ihn sicher wiedererkennen.
 
-**OSODE**  
-Vater, das kann nicht sein. Das darf nicht. 
+==**OSODE**  
+Vater, das kann nicht sein. Das darf nicht.==
 
 **IEMON**  
 Osode-sama. Oiwa-sama. Es ist meine Schuld. Wäre ich nur ein paar Minuten früher hier gewesen, hätte ich es verhindern können.
@@ -515,21 +517,21 @@ Da dies aber eine Angelegenheit unserer Familie ist, kann ich ihn nicht einfach 
 **NAOSUKE**  
 Nun, werter Iemon-sama. Ich bin bereit, mich an eure Familie zu binden und dann gemeinsam mit euch den Mörder zu stellen.
 
-**OSODE**  
-Was meint ihr? An uns binden?
+==**OSODE**  
+Was meint ihr? An uns binden?==
 
 **IEMON**  
 Ich danke dir, Naosuke-san. Osode, du hast es gehört und sicher auch verstanden. Du wirst die Ehe mit deinem Mann aufknüpfen und dann Naosuke-san heiraten. 
 
-**OSODE**  
+==**OSODE**  
 *(Erschüttert und panisch)*  
-Was? Nein. Ich kann doch nicht....
+Was? Nein. Ich kann doch nicht....==
 
 **IEMON**  
 Und ob du das kannst. Du wirst es für deinen Vater tun und als neues Oberhaupt der Familie hast du mir gegenüber keine Widerworte zu geben.
 
-**OSODE**  
-Ja, Iemon-dono.
+==**OSODE**  
+Ja, Iemon-dono.==
 
 **NAOSUKE**  
 Ich danke dir, Iemon-dono.
@@ -546,32 +548,32 @@ Ich danke dir, Iemon-dono.
 
 [(Aufschieben einer Tür *\[OSODE\]* –\> Schritte *\[OIWA\]*)]()  
 
-**OUME**  
-Großvater, ich muss einfach mit dir sprechen.
+==**OUME**  
+Großvater, ich muss einfach mit dir sprechen.==
 
 **ITO KIHEI**  
 Oume-chan, was möchtest du? Wie kann ich dir helfen?
 
-**OUME**  
-Ich habe mich verliebt und er wird dir gefallen, aber es gibt da ein Problem. Du kennst doch deinen Nachbarn Iemon, als ich ihn bei meinem letzten Besuch bei dir zufällig sah, war's um mich geschehen. Aber er ist verheiratet. Mit der wunderschönen Oiwa und gegen sie bin ich nichts als eine Kröte. Er würde sie nie für mich aufgeben.
+==**OUME**  
+Ich habe mich verliebt und er wird dir gefallen, aber es gibt da ein Problem. Du kennst doch deinen Nachbarn Iemon, als ich ihn bei meinem letzten Besuch bei dir zufällig sah, war's um mich geschehen. Aber er ist verheiratet. Mit der wunderschönen Oiwa und gegen sie bin ich nichts als eine Kröte. Er würde sie nie für mich aufgeben.==
 
 **ITO KIHEI**  
 Iemon ist kürzlich zu einem großen Vermögen gekommen und in eine gute Position gelangt, nachdem er seinen Schwiegervater als Familienoberhaupt beerbt hat. Er wäre wirklich eine gute Partie und ein angemessener Mann für dich.
 
-**OUME**  
-Aber er steht treu zu Oiwa. Ich kann ihm nichts bieten, was er nicht schon hat.
+==**OUME**  
+Aber er steht treu zu Oiwa. Ich kann ihm nichts bieten, was er nicht schon hat.==
 
 **ITO KIHEI**  
 Schönheit ist vergänglich, Oume-chan. Und manchmal kann man dieser Vergänglichkeit nachhelfen. Als Arzt kenne ich so manches Mittel, dass aus einer Schönheit ein Ungeheuer macht.
 
-**OUME**  
-Könntest du das tun, Großvater? Für mich?
+==**OUME**  
+Könntest du das tun, Großvater? Für mich?==
 
 **ITO KIHEI**  
 Sicherlich. Ich werde eine Salbe anrühren und du wirst sie Oiwa bringen. Als ein Geschenk für eine trauernde Frau. Die Gesichtssalbe wird dafür sorgen, dass Iemon seine Oiwa schon bald nicht mehr sehen möchte.
 
-**OUME**  
-Danke Großvater. Ich werde die Salbe Oiwa bringen, sobald du sie fertig hast.
+==**OUME**  
+Danke Großvater. Ich werde die Salbe Oiwa bringen, sobald du sie fertig hast.==
 
 [**\[MUSIK: Übergang\]**]()  
 
@@ -581,9 +583,9 @@ Danke Großvater. Ich werde die Salbe Oiwa bringen, sobald du sie fertig hast.
 
 [***Geräuschkulisse Haus Iemon**: Knistern von Feuer \[TAKUETSU\], Windspiel \[SATO\]*]()  
 
-**OUME**  
+==**OUME**  
 (gedämpft)  
-Oiwa-sama? Darf ich euch kurz stören? Eure Dienerin hat mich ins Haus gelassen.
+Oiwa-sama? Darf ich euch kurz stören? Eure Dienerin hat mich ins Haus gelassen.==
 
 **OIWA**  
 Oh. Oume-chan. Komm nur herein.
@@ -592,20 +594,20 @@ Oh. Oume-chan. Komm nur herein.
 
 Ich habe dich ja ewig nicht gesehen. Du bist groß geworden. Eine wahre Schönheit.
 
-**OUME**  
-Ich danke euch, Oiwa-sama.
+==**OUME**  
+Ich danke euch, Oiwa-sama.==
 
 **OIWA**  
 Aber was bringt dich nun her?
 
-**OUME**  
-Mein Großvater schickt mich. Ich soll euch eine Gesichtssalbe bringen. Sie soll euch stärken und beruhigen, wo ihr doch in Trauer seid.
+==**OUME**  
+Mein Großvater schickt mich. Ich soll euch eine Gesichtssalbe bringen. Sie soll euch stärken und beruhigen, wo ihr doch in Trauer seid.==
 
 **OIWA**  
 Oh, richte deinem Großvater doch bitte meinen Dank aus.
 
-**OUME**  
-Das werde ich. Ich hoffe, wir sehen uns bald wieder, Oiwa-sama.
+==**OUME**  
+Das werde ich. Ich hoffe, wir sehen uns bald wieder, Oiwa-sama.==
 
 [*(Schritte \[OIWA\] –\> Öffnen Schiebetür \[OSODE\])*]()  
 
@@ -1101,14 +1103,14 @@ Warum solltet ihr auch? Nach so einer schönen Hochzeit.
 Und dieser Shiromuku Kimono. Ein wundervolles weiß. Du hast einfach  
 wunderschön ausgesehen, Oume.
 
-**OUME**  
-Ja, ich habe ihn von meinem lieben Iemon geschenkt bekommen. Er sagte, es sei ein Familienerbstück und eine große Ehre.
+==**OUME**  
+Ja, ich habe ihn von meinem lieben Iemon geschenkt bekommen. Er sagte, es sei ein Familienerbstück und eine große Ehre.==
 
 **IEMON**  
 Ja, ein Erbstück der Familie meiner ersten Frau.
 
-**OUME**  
-Oh, Oiwa trug ihn also auch?
+==**OUME**  
+Oh, Oiwa trug ihn also auch?==
 
 **ITO KIHEI**  
 Nun, ich denke, ein solch schönes Stück sollte nicht vergessen werden.  
@@ -1140,9 +1142,9 @@ Ich werde mich dann mal langsam auf den Weg machen und wünsche euch beiden eine
  Und davon,  
  dass sie genau so wirken sollte.
 
-**OUME**  
+==**OUME**  
  (verunsichert)  
- Iemon-sama…? Großvater…?
+ Iemon-sama…? Großvater…?==
 
 **IEMON**  
 Ich spreche davon, dass Eure Salbe  
@@ -1172,9 +1174,9 @@ Nicht Oumes Vater.
  Zu vorsichtig.  
 Ein Nichts.
 
-**OUME**  
+==**OUME**  
  Großvater?  
-Iemon?
+Iemon?==
 
 **ITO KIHEI**  
  Ihr würdet die Familie spalten.  
@@ -1207,10 +1209,10 @@ Nun, ich… Ich werde euch zum nächsten Oberhaupt machen.
 **IEMON**  
  Gut.
 
-**OUME**  
+==**OUME**  
  Dann… dann werde ich jetzt die Laternen entzünden.  
  Es wird… heller sein und wir sprechen einfach nie mehr davon.  
-Bitte.
+Bitte.==
 
 ( Beleuchtung dunkel\!)  
 [(Papier rascheln \[TAKUETSU\], Feuerstein schlägt \[IEMON\]  ]()  
@@ -1260,26 +1262,26 @@ Bitte.
  (flüsternd, panisch beherrscht)  
 Das ist unmöglich.
 
-**OUME**  
+==**OUME**  
  Iemon-sama?  
- Warum zittert ihr?
+ Warum zittert ihr?==
 
 **OIWA**  
  Dreh dich um.  
 [**\[MUSIK: einzelner Shamisen-Ton\]**]()  
 
-**OUME**  
+==**OUME**  
  (ruhig, freundlich)  
  Iemon-sama?  
  Ihr seid ganz bleich.  
- Ist euch nicht wohl?
+ Ist euch nicht wohl?==
 
 **IEMON**  
  Oiwa?
 
-**OUME**  
+==**OUME**  
  Ihr scherzt.  
- Ich bin es doch, eure Ehefrau Oume.
+ Ich bin es doch, eure Ehefrau Oume.==
 
 **OIWA**  
  So nennt sie sich jetzt?
@@ -1287,9 +1289,9 @@ Das ist unmöglich.
 **IEMON**  Tot. Du bist tot.  
 [**\[MUSIK Spannungsaufbau\]**]()  
 
-**OUME**  
+==**OUME**  
  (verwirrt)  
- Was… was meint ihr?
+ Was… was meint ihr?==
 
 **IEMON**  
  Hör auf. (laut)  
@@ -1303,11 +1305,11 @@ Das ist unmöglich.
  Bis du dich abgewandt hast.  
  Jetzt siehst du mich endlich wieder.
 
-**OUME**  
+==**OUME**  
  Iemon-sama, bitte…  
  Ihr müsst euch beruhigen.  
  Es ist nur die Nacht.  
- Die Aufregung wegen der Hochzeit\!
+ Die Aufregung wegen der Hochzeit\!==
 
 **IEMON**  
  Sei still\! (laut)
@@ -1326,9 +1328,9 @@ Das ist unmöglich.
 Du hast ihr mein Hochzeitsgewand geschenkt.  
 Wolltest du sie zu mir machen?
 
-**OUME**  
+==**OUME**  
  Großvater…?  
- Warum schaut er mich so an? (Geräusch „Schwert“ vorbereiten)
+ Warum schaut er mich so an? (Geräusch „Schwert“ vorbereiten)==
 
 **IEMON**  
  (zitternd, wütend)  
@@ -1346,9 +1348,9 @@ Du hast mich verkauft, Iemon.
 Für eine junge Braut und ein wenig mehr Macht,  
 verschwörst du dich gegen mich?
 
-**OUME**  
+==**OUME**  
  (aufschreiend)  
- Iemon-sama\!
+ Iemon-sama\!==
 
 **OIWA**  
 Ist das deine Ehre, Samurai?  
@@ -1364,9 +1366,9 @@ Ist das deine Treue?
 Ich habe nur getan, was ich tun musste.  
  Verschwinde\!
 
-**OUME**  
+==**OUME**  
  (weint)  
- Bitte\! Ich verstehe nicht\!
+ Bitte\! Ich verstehe nicht\!==
 
 **OIWA**  
  Du hast Schuld an meinem Tod.  
@@ -1387,8 +1389,8 @@ Iemon, gebt mir das Schwert.
 Stille.  
 [**(Todes Thema \[Musik\])**]()  
 
-**OUME**  
- Großvater?\!
+==**OUME**  
+ Großvater?\!==
 
 **IEMON**  
 Warum bist du hier?
@@ -1396,9 +1398,9 @@ Warum bist du hier?
 **OIWA**  
  Ich versprach dir die Treue. Und bleibe dir treu.
 
-**OUME**  
+==**OUME**  
  (beginnt zu schreien)  
- Hilfe\! Bitte\!
+ Hilfe\! Bitte\!==
 
 **IEMON**  
  Du wirst mich nicht mehr verfolgen\!
@@ -1409,7 +1411,7 @@ Warum bist du hier?
 **IEMON**  
 Glaubst du, ich würde mein Schwert nicht gegen dich richten, böser Geist?
 
-**OUME**  
+==**OUME**  
 Iemon? Warum habt ihr? Was ist mit euch?  
 Nein, legt das Schwert weg, ich bin doch eure…  
 (Schrei bricht ab)  
@@ -1421,7 +1423,7 @@ Stille.
 Endlich.  
 (Atmet schwer)  
  Du…  du bist fort.  
- Nicht wahr?
+ Nicht wahr?==
 
 **Oiwa**  
  Nein.  
@@ -1826,17 +1828,17 @@ Nur noch ein Schritt und es ist vorbei.
 **OIWA**  
  Ja, Iemon, spring. Lass deinen nutzlosen Leib auf der Mole zerschellen.
 
-**OYUMI**  
+==**OYUMI**  
 (scharf und laut)  
-Iemon.
+Iemon.==
 
 **IEMON**  
  Was? Oiwa? Nein\!  
  Oyumi? Schwiegermutter?… Warum folgst du mir?
 
-**OYUMI**  
+==**OYUMI**  
 Weil ich wissen möchte, was mit meiner Tochter und meinem Vater geschehen ist\!  
-Es ist in deinem Haus passiert\! Sie wurden beide ermordet. Und du, Schwiegersohn, läufst herum wie ein Verrückter, statt denjenigen zu jagen, der das getan haben soll.
+Es ist in deinem Haus passiert\! Sie wurden beide ermordet. Und du, Schwiegersohn, läufst herum wie ein Verrückter, statt denjenigen zu jagen, der das getan haben soll.==
 
 **OIWA**  
 Den Mörder jagen? Du weißt doch, wer es war, Geliebter\!
@@ -1844,8 +1846,8 @@ Den Mörder jagen? Du weißt doch, wer es war, Geliebter\!
 **IEMON**  
 Ja. Du warst es, du bist es. Es ist deine Schuld\!
 
-**OYUMI**  
-Was? Hast du nun völlig den Verstand verloren? Sag mir, wer es war\! Ich will wissen, wer mein Mädchen auf dem Gewissen hat\! Du bist ihr Mann. Ein Samurai\! Du solltest ihn finden und ihm seine gerechte Strafe zukommen lassen\!
+==**OYUMI**  
+Was? Hast du nun völlig den Verstand verloren? Sag mir, wer es war\! Ich will wissen, wer mein Mädchen auf dem Gewissen hat\! Du bist ihr Mann. Ein Samurai\! Du solltest ihn finden und ihm seine gerechte Strafe zukommen lassen\!==
 
 **OIWA**  
 Ja, Geliebter, räche mich.
@@ -1856,19 +1858,19 @@ Ja, Geliebter, räche mich.
 **IEMON**  
 Ich? Ich. Nein. Verschwinde Oiwa\! Lass mich in Frieden\!
 
-**OYUMI**  
+==**OYUMI**  
 Oiwa?  
 Was spricht du nun von Oiwa?  
 Ich bin nicht deine tote erste Frau\!  
 Oder… Moment.  
-Du hast doch nicht etwa? Nein\!
+Du hast doch nicht etwa? Nein\!==
 
  **OIWA**  
 Ja.
 
-**OYUMI**  
+==**OYUMI**  
 Du warst es\! Oiwa, Oume, mein Vater\! Du bist Schuld\!  
-Ich wusste es, dass mit dir etwas nicht stimmt\! 
+Ich wusste es, dass mit dir etwas nicht stimmt\!==
 
 **OIWA**  
 Sie hat dich entlarvt, Geliebter. Was willst du nun tun?  
@@ -1971,8 +1973,8 @@ Ihr seid doch alle verrückt geworden.
 **PRIESTER**  
 Möge alles Unreine weichen. Mögen Gedanken klar werden.
 
-**OSODE**  
-So still wie dieses Wasser… so nehme ich an, was mir bleibt.
+==**OSODE**  
+So still wie dieses Wasser… so nehme ich an, was mir bleibt.==
 
 **NAOSUKE**  
 (glücklich)  
@@ -1991,9 +1993,9 @@ Sprecht eure Namen und euren Willen.
 (klar, voller Freude)  
 Ich, Naosuke, nehme Osode zu meiner Ehefrau und gelobe, sie zu achten und zu schützen.
 
-**OSODE**  
+==**OSODE**  
 (beherrscht, sanft)  
-Ich, Osode, nehme Naosuke zu meinem Ehemann.
+Ich, Osode, nehme Naosuke zu meinem Ehemann.==
 
 *(Ein kurzer Moment Stille.)*
 
@@ -2009,8 +2011,8 @@ Drei Schlucke, dreimal ein Band von Himmel, Erde und Mensch.
 **NAOSUKE**  
 Mit jedem Schluck… näher bei dir. (Windübergabe an Takuetsu)
 
-**OSODE**  
- Ja.
+==**OSODE**  
+ Ja.==
 
 **PRIESTER**  
 Die Kami nehmen euer Opfer an.
@@ -2034,9 +2036,9 @@ Halt\! Dies ist heiliger Boden.
 **SATO**  
  Takuetsu. Er dachte, ich sollte es wissen.
 
-**OSODE**  
+==**OSODE**  
  (zitternd, gefasst)  
-Sato… es ist geschehen. Die Götter haben es gehört.
+Sato… es ist geschehen. Die Götter haben es gehört.==
 
 **SATO**  
 Und was ist mit deinem Schwur mir gegenüber?
@@ -2058,14 +2060,14 @@ Dann komm, du Hund\!
 [(Schritte auf Kies \[IEMON\])  ]()  
 [(Brief raschelt \[OSODE\])]()  
 
-**OSODE**  
-Naosuke… nimm dies.
+==**OSODE**  
+Naosuke… nimm dies.==
 
 **NAOSUKE**  
 Was?
 
-**OSODE**  
-Ein Brief. Lies ihn nicht hier. Nicht jetzt.
+==**OSODE**  
+Ein Brief. Lies ihn nicht hier. Nicht jetzt.==
 
 **NAOSUKE**  
 Osode?
@@ -2074,8 +2076,8 @@ Osode?
  Flüstern, Geschenke, heimliche Worte\! Selbst jetzt noch\!  
 Was hast du ihm da gegeben?
 
-**OSODE**  
-Nichts, was dich betrifft\!
+==**OSODE**  
+Nichts, was dich betrifft\!==
 
 **SATO**  
 Was dich betrifft, betrifft mich.
@@ -2091,9 +2093,9 @@ Der wie ein räudiger, liebestoller Hund um dich herumgeschlichen ist?
 **NAOSUKE**  
 Mäßige dich, Sato\! Es ist entschieden. Geh deiner Wege\!
 
-**OSODE**  
+==**OSODE**  
 (weinend)  
-Sato.
+Sato.==
 
 **SATO**  
 Wie lange geht dieses Spiel schon?
@@ -2105,8 +2107,8 @@ Und ihre Familie unterstützt mich.
 **SATO**  
 Ihre Familie? Iemon\! Was mischt der sich ein? Was ist er dir schuldig?
 
-**OSODE**  
-Sato\! Es wurde so bestimmt. Ich kann nichts mehr tun. Ich muss mich meiner Familie fügen.
+==**OSODE**  
+Sato\! Es wurde so bestimmt. Ich kann nichts mehr tun. Ich muss mich meiner Familie fügen.==
 
 **NAOSUKE**  
 Siehst du, Sato: Meine Frau hat Verstand. Und wenn sie dich erst einmal vergessen hat, kann sie mit mir endlich glücklich sein.
@@ -2122,23 +2124,23 @@ Sato\! Du wirst doch nicht?\!
 
 [(\[IEMON\] mehrer kurze zarte Schritte)]()  
 
-**OSODE**  
-Nein. Du wirst ihm nichts tun.
+==**OSODE**  
+Nein. Du wirst ihm nichts tun.==
 
 **SATO**  
 Osode? Aus dem Weg\!
 
-**OSODE**  
+==**OSODE**  
 Ich bin es, die unseren Schwur brach. Ich bringe dir die Schande\!  
 [(Mehrere schnelle Schritte auf Kies \[IEMON\] \-\> Aufstöhnen und röcheln Osode. Erschrecken von Sato und Naosuke) (Reißender Stoff \[OIWA\])  ]()  
-Diese Klinge gebührt mir.
+Diese Klinge gebührt mir.==
 
 **SATO**  
 Osode. Nein.
 
-**OSODE**  
+==**OSODE**  
 Das ist der einzige Weg…  
-\*leise röchelnd\* Geliebter.
+\*leise röchelnd\* Geliebter.==
 
 [(Körper fällt auf Kies \[IEMON\])  ]()  
 [(Todes Thema \[Musik\])]()  
@@ -2178,10 +2180,10 @@ Du dachtest nur an dich. Lauf, Priester, lauf. Oder ich werde Osodes Wunsch nich
 **NAOSUKE**  
 (schmerzlich) Osode…
 
-**OSODE**  
+==**OSODE**  
 „Ich schreibe dir diese Worte, weil ich dir nie sagen konnte, was wirklich war.  
 Nicht aus Mangel an Gefühlen.  
-Sondern aus Angst vor der Wahrheit.“
+Sondern aus Angst vor der Wahrheit.“==
 
 [(Papier raschelt \[NAOSUKE\])]()  
 
@@ -2193,9 +2195,9 @@ So sehr, dass ich glaubte, mein Herz würde zerbrechen, als ich dich zurückweis
 (schmerzlich)  
 Warum…?
 
-**OSODE**  
+==**OSODE**  
 „Du hast dich gefragt, weshalb ich plötzlich kalt wurde.  
-Warum ich dich von mir stieß, obwohl ich noch am Tag davor mit dir lachte.“
+Warum ich dich von mir stieß, obwohl ich noch am Tag davor mit dir lachte.“==
 
 (Kurze Stille)
 
@@ -2206,25 +2208,25 @@ Ich bat ihn um seine Erlaubnis, dich zu heiraten.“
 **NAOSUKE**  
 Zu… Samon? Warum lehnte er mich ab?
 
-**OSODE**  
+==**OSODE**  
 „Er ließ mich schwören.  
 Auf mein Leben.  
-Dass ich niemals jemandem erzählen würde, was er mir offenbarte.“
+Dass ich niemals jemandem erzählen würde, was er mir offenbarte.“==
 
 [(STILLE \-\> Zwitschern von Vögeln \[OIWA\], leise rauschender Wind \[TAKUETSU\] und \[IEMON\])]()  
 
-**OSODE**  
+==**OSODE**  
 Vater?  
-Hast du einen Moment?
+Hast du einen Moment?==
 
 **SAMON**  
 *(abwesend, aber nicht unfreundlich)*  
 Sprich, Osode.
 
-**OSODE**  
+==**OSODE**  
 *(zögernd, dann freudig)*  
 Ich… ich habe lange darüber nachgedacht.  
-Und mein Herz ist sich sicher.
+Und mein Herz ist sich sicher.==
 
 Vater…ich möchte Naosuke heiraten.
 
@@ -2233,19 +2235,19 @@ Vater…ich möchte Naosuke heiraten.
 **SAMON**  
 Naosuke?
 
-**OSODE**  
+==**OSODE**  
 Ja.  
 Er ist gut. Und klug.  
-Und wenn er mich ansieht, habe ich keine Angst vor der Zukunft.
+Und wenn er mich ansieht, habe ich keine Angst vor der Zukunft.==
 
 **SAMON**  
 Osode…
 
-**OSODE**  
+==**OSODE**  
 *(eifrig)*  
 Ich weiß, er ist nicht aus einer großen Familie.  
 Aber er arbeitet hart, und er hat seinen Platz im Tempel.  
-Ich glaube… wir könnten glücklich sein.
+Ich glaube… wir könnten glücklich sein.==
 
 *(kurze Stille)*
 
@@ -2254,30 +2256,30 @@ Steh auf und komm zu mir.
 
 [*(zögerliche Schritte auf Kies \[IEMON\])*]()  
 
-**OSODE**  
-Ja, Vater?
+==**OSODE**  
+Ja, Vater?==
 
 **SAMON**  
 Bevor ich antworte, schwör mir etwas.
 
-**OSODE**  
+==**OSODE**  
 *(lacht unsicher)*  
-Ein Schwur?
+Ein Schwur?==
 
 **SAMON**  
 Schwör mir auf dein Leben,  
 dass du niemandem erzählst, was ich dir jetzt sage.
 
-**OSODE**  
+==**OSODE**  
 *(zögert)*  
-Vater… du machst mir Angst.
+Vater… du machst mir Angst.==
 
 **SAMON**  
 Schwöre es.
 
-**OSODE**  
+==**OSODE**  
 (leise)  
-Ich schwöre es.
+Ich schwöre es.==
 
 [(In der Ferne eine Tempelglocke \[IEMON\])]()  
 
@@ -2285,32 +2287,32 @@ Ich schwöre es.
 (leise, aber bestimmt)  
 Naosuke ist mein Sohn.
 
-**OSODE**  
-Dein… Sohn?
+==**OSODE**  
+Dein… Sohn?==
 
 **SAMON**  
 Er ist dein Halbbruder.
 
-**OSODE**  
+==**OSODE**  
  (Scharfer Atemzug, fast ein Schluchzen)  
 Nein…  
 Das… das ist grausam.  
-Du lügst.
+Du lügst.==
 
 **SAMON**  
 Ich habe ihn nie anerkannt, aber ich habe meine Beziehungen genutzt, um ihm einen Weg zu ebnen.  
 Mehr durfte ich nicht tun.
 
-**OSODE**  
+==**OSODE**  
 (bricht langsam)  
-Und er… er weiß nichts davon?
+Und er… er weiß nichts davon?==
 
 **SAMON**  
 Nein.  
 Und er darf es niemals erfahren.
 
-**OSODE**  
-Ich liebe ihn.
+==**OSODE**  
+Ich liebe ihn.==
 
 **SAMON**  
 Dann vergrabe diese Liebe.  
@@ -2318,9 +2320,9 @@ So tief, dass sie niemand je findet.
 
 (Lange Stille)
 
-**OSODE**  
+==**OSODE**  
 (gebrochen)  
-…Ja, Vater.
+…Ja, Vater.==
 
 [(Rascheln von Papier \[NAOSUKE\] \-\> STILLE \-\> Feuerschale \[TAKUETSU\])]()  
 
@@ -2331,9 +2333,9 @@ So tief, dass sie niemand je findet.
 (leise)  
 Osode.
 
-**OSODE**  
+==**OSODE**  
 „Ich habe dich zurückgewiesen, ohne dir den Grund zu nennen.  
-Ich weiß, wie sehr dich das verletzt hat.“
+Ich weiß, wie sehr dich das verletzt hat.“==
 
 „Doch mit der Zeit begann ich mich vor dir zu fürchten.  
 Deine Nähe war kein Trost mehr, sondern eine Last.“
@@ -2342,10 +2344,10 @@ Deine Nähe war kein Trost mehr, sondern eine Last.“
 (verzweifelt)  
 Ich wollte nur bei dir sein…
 
-**OSODE**  
+==**OSODE**  
 „Du hast nicht gemerkt, wie sehr sich etwas in dir veränderte.  
 Wie dein Blick dunkler wurde.  
-Wie deine Worte mir die Luft nahmen.“
+Wie deine Worte mir die Luft nahmen.“==
 
 „Ich habe gelitten, Naosuke.  
 Mehr, als ich dir je zeigen konnte.“
@@ -2360,9 +2362,9 @@ Er war sanft zu mir.“
 (heiser)  
 Sato…
 
-**OSODE**  
+==**OSODE**  
 „Ich hoffte, du würdest mich loslassen.  
-"Dass mein großer Bruder endlich Frieden findet.“
+"Dass mein großer Bruder endlich Frieden findet.“==
 
 (Lange Stille)
 
@@ -2676,9 +2678,9 @@ Niemand wird mich holen.
 
 (Stille)
 
-**OSODE**  
+==**OSODE**  
 (geisterhaft flüsternd)  
-Sato.
+Sato.==
 
 **ENDE.**
 

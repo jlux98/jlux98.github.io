@@ -1,4 +1,6 @@
-# Text
+# SATO
+ALLE
+ALLE
 
  **Legende:**
 
@@ -151,8 +153,8 @@ Er erwartet mich morgen Abend. Ich ahne nichts Gutes.
  *(lacht)*  
  Seltsam, nicht? In meinem Haus weist man selten einen zahlenden Gast ab.
 
-**SATO**  
- Naosuke, du solltest lieber jemand anderen anhimmeln. Meine Frau ist nicht für dich zu haben. Sie hat Geschmack.
+==**SATO**  
+ Naosuke, du solltest lieber jemand anderen anhimmeln. Meine Frau ist nicht für dich zu haben. Sie hat Geschmack.==
 
 **OSODE**  
  Naosuke-san... Ich habe dir oft gesagt: Ich bin verheiratet. Und ich wähle aus, wem ich Gesellschaft leiste.
@@ -165,9 +167,9 @@ Er erwartet mich morgen Abend. Ich ahne nichts Gutes.
  *(lacht)*  
  Hörst du das, Sato? Unser Naosuke-san träumt von alten Tagen\! Vielleicht war er damals weniger hässlich?
 
-**SATO**  
+==**SATO**  
 [ *(lacht mit, schlägt leicht auf den Tisch \[SATO\])*  ]()  
- Oder nüchterner\!
+ Oder nüchterner\!==
 
 **OSODE**  
  *(tadelnd, leise)*  
@@ -190,8 +192,8 @@ Er erwartet mich morgen Abend. Ich ahne nichts Gutes.
 **TAKUETSU**  
  Was für ein armseliger Hund. Immer winselt er, beißt nie.
 
-**SATO**  
- Vergiss ihn, Osode. Ein Mann, der sich nicht traut, ist kein Mann.
+==**SATO**  
+ Vergiss ihn, Osode. Ein Mann, der sich nicht traut, ist kein Mann.==
 
 **OSODE**  
  Dann gibt es in dieser Stadt keine Männer mehr.
@@ -208,31 +210,31 @@ Er erwartet mich morgen Abend. Ich ahne nichts Gutes.
 
 [*(Öffnen Tür \[OSODE\] \> Schritte auf Holz \[OSODE\])*]()  
 
-**SAMON**  
- Setz dich, Iemon-san.
+==**SAMON**  
+ Setz dich, Iemon-san.==
 
 **IEMON**  
 Ja, Schwiegervater.  
 *(Stille)*
 
-**SAMON**  
- Ich habe dich rufen lassen, weil es Dinge gibt, die nicht länger unausgesprochen bleiben dürfen.
+==**SAMON**  
+ Ich habe dich rufen lassen, weil es Dinge gibt, die nicht länger unausgesprochen bleiben dürfen.==
 
 **IEMON**  
  Ich höre.
 
-**SAMON**  
+==**SAMON**  
  Seit Monaten wartest du auf ein neues Amt.  
  Kein Fürst hat dich gerufen, kein Haus dich aufgenommen.  
- Ein Rōnin ohne Empfehlung ist ein Mann ohne Zukunft.
+ Ein Rōnin ohne Empfehlung ist ein Mann ohne Zukunft.==
 
 **IEMON**  
  Ich suche. Es gibt kaum offene Stellen. Die Kriege sind vorbei, und…
 
-**SAMON**  
+==**SAMON**  
  *(unterbricht ruhig, aber bestimmt)*  
  Und du hast keine Verbündeten mehr.  
- Einen Mann ohne Rang, ohne Ehre – den kann ich meiner Familie nicht zumuten.
+ Einen Mann ohne Rang, ohne Ehre – den kann ich meiner Familie nicht zumuten.==
 
 *(kurze Pause)*
 
@@ -240,54 +242,54 @@ Ja, Schwiegervater.
  Ihr sprecht von Ehre, als wäre sie etwas, das man erbt wie Land.  
  Aber was ist mit Pflicht? Mit Treue? Ich habe Oiwa-san geheiratet, ich stehe zu ihr…
 
-**SAMON**  
+==**SAMON**  
  Oiwa-chan ist meine Tochter.  
  Und ich sehe, was aus ihr geworden ist:  
  Eine Frau, die hungert, weil ihr Mann keinen Lohn bringt.  
 *(Kurze Pause)*  
- Ich habe schon eine Tochter verloren.
+ Ich habe schon eine Tochter verloren.==
 
 **IEMON**  
  Sie lebt noch.
 
-**SAMON**  
+==**SAMON**  
  Lebt?  
  Sie verkauft sich.  
  Was meinst du, wie es sich für einen Vater anfühlt, das zu wissen?  
 *(kurze Pause)*  
- Ich werde nicht zusehen, wie Oiwa denselben Weg geht.
+ Ich werde nicht zusehen, wie Oiwa denselben Weg geht.==
 
 **IEMON**  
  *(aufgebracht)*  
  Ihr  wagt es, meine Frau mit einer Hure zu vergleichen?
 
-**SAMON**  
+==**SAMON**  
  Ich sage nur, dass das der Weg ist, auf den du sie führst.  
  Armut, Abhängigkeit, Spott.  
- Und am Ende... ein ehrloser Tod.
+ Und am Ende... ein ehrloser Tod.==
 
 **IEMON**  
  Ich tue, was ich kann\! Ich habe nicht aufgegeben\!
 
-**SAMON**  
+==**SAMON**  
  Nein. Du wurdest aufgegeben.  
  Darum beende ich, was du nicht kannst.  
  Du wirst Oiwa verlassen. Morgen bringst du die Scheidungsschrift.  
-(Stille)
+(Stille)==
 
 **IEMON**  
  Ihr wollt, dass ich sie verlasse.  
  Damit Ihr den Namen eurer Familie rein haltet und meine Schande nicht eure wird.
 
-**SAMON**  
- Damit sie überlebt.
+==**SAMON**  
+ Damit sie überlebt.==
 
 **IEMON**  
  Und was bleibt mir?
 
-**SAMON**  
+==**SAMON**  
  Ein Mann ohne Rang kann neu anfangen.  
- Aber eine Frau, die mit ihm fällt, steht nie wieder auf.
+ Aber eine Frau, die mit ihm fällt, steht nie wieder auf.==
 
 [*(lange Pause; Iemon geht langsam im Raum umher \= Schritte auf Holz \[OSODE\])*]()  
 
@@ -297,17 +299,17 @@ Euch ist die Ehre eurer Familie wichtiger als alles andere.
  Aber ihr habt keine Ahnung, was es heißt, in dieser neuen Welt zu leben.  
 [*\[Schritte auf Holz bis hier hin\]*]()  
 
-**SAMON**  
+==**SAMON**  
  Ich kenne die Bedeutung von Ehre.  
- Und ich weiß, was geschieht, wenn man sie verliert.
+ Und ich weiß, was geschieht, wenn man sie verliert.==
 
 **IEMON**  
  Dann wisst ihr, was nun kommt.
 
 [*(Geräuschkulisse stoppt \[ALLE\] \> Schwert wird gezogen (Sound \[OSODE\], Visual \[IEMON\]) \> Stoffgeräusch \[SATO\] \> Keuchen von Samon)*]()  
 
-**SAMON**  
- Iemon... du…
+==**SAMON**  
+ Iemon... du…==
 
 **IEMON**  
  Ihr hättet mich unterstützen und nicht verurteilen sollen.  
@@ -1526,18 +1528,18 @@ Es muss ein Fluch sein.
 **Ort: Bordell; Figuren: Iemon, Sato, Takuetsu, Oiwa**  
 [***Geräuschkulisse Bordell:** **Shamisenmusik (MUSIK),** gedämpftes Gelächter \[ALLE\], mittelschwere Sake-Trunkenheit im Hintergrund. \[ALLE\]*]()  
 
-**SATO**  
+==**SATO**  
  (lachend)  
  Wenn das so weitergeht, Takuetsu, brauchst du bald ein zweites Haus.  
- Dein Bordell ist berühmter als der Tempel.
+ Dein Bordell ist berühmter als der Tempel.==
 
 **TAKUETSU**  
  Die Leute kommen aber nicht wegen der Gebete.  
 [*(Beide lachen. Die Tür* \[OSODE\] & \[OIWA\] *wird hastig aufgeschoben. Kurzes Atmen von Iemon, Iemon tritt ein, Schritte auf Holz \[OIWA\] – ungepflegt, atemlos, Gelächter hört auf, erschrockenes Tuscheln)*  ]()  
   
-**SATO**  
+==**SATO**  
  Welch Überraschung\!  
- Iemon, du siehst aus, als kämst du gerade aus einer Schlacht.
+ Iemon, du siehst aus, als kämst du gerade aus einer Schlacht.==
 
 **TAKUETSU**  
  Wohl aus einer verlorenen.  
@@ -1547,9 +1549,9 @@ Es muss ein Fluch sein.
  …sie ist tot.  
 [*\[Shamisenmusik stops\] (Kurze Stille.)*]()  
 
-**SATO**  
+==**SATO**  
  (unsicher lachend)  
- Das ist kein guter Einstieg in einen Abend.
+ Das ist kein guter Einstieg in einen Abend.==
 
 **IEMON**  
  Meine Braut und ihr Großvater.  
@@ -1566,8 +1568,8 @@ Es muss ein Fluch sein.
  Habt ihr das gehört?  
 [\[Klagethema MUSIK\]]()  
 
-**SATO**  
- Was denn?
+==**SATO**  
+ Was denn?==
 
 **OIWA**  
 *(Leises Lachen)*  
@@ -1583,8 +1585,8 @@ Es muss ein Fluch sein.
  Dort in der Lampe\!  
  Ihr Gesicht… in der Laterne\!
 
-**SATO**  
- Da ist nur Papier und Feuer.
+==**SATO**  
+ Da ist nur Papier und Feuer.==
 
 **OIWA/OUME (Zweistimmig mit Oume)**  
  Geliebter… warum hast du mich allein gelassen?
@@ -1607,9 +1609,9 @@ Es muss ein Fluch sein.
  Ihr müsst etwas tun\!  
  Gebete\! Räucherwerk\! Irgendetwas\!
 
-**SATO**  
+==**SATO**  
 Iemon\! Wir sehen nichts\!  
- Wir hören nichts\!
+ Wir hören nichts\!==
 
 **OIWA (alleine)**  
  Aber du hörst mich.  
@@ -1625,8 +1627,8 @@ Iemon\! Wir sehen nichts\!
  Wo du hingehst, gehe ich mit dir.  
 *(STILLE. Die Lampe wird gelöscht.)*
 
-**SATO**  
- …er ist nicht betrunken.
+==**SATO**  
+ …er ist nicht betrunken.==
 
 **TAKUETSU**  
  Nein.  
@@ -2017,35 +2019,35 @@ Die Kami nehmen euer Opfer an.
 
 [(Hastige Schritte auf Kies \[OIWA\] Atemloses Einatmen \[SATO\]]()  
 
-**SATO**  
+==**SATO**  
 (laut, zornig)  
-Osode\!
+Osode\!==
 
 **PRIESTER**  
 (erschrocken, streng)  
 Halt\! Dies ist heiliger Boden.
 
-**SATO**  
- Heilig? Während ihr meine Ehe stehlt?
+==**SATO**  
+ Heilig? Während ihr meine Ehe stehlt?==
 
 **NAOSUKE**  
  Sato… wer hat- ?
 
-**SATO**  
- Takuetsu. Er dachte, ich sollte es wissen.
+==**SATO**  
+ Takuetsu. Er dachte, ich sollte es wissen.==
 
 **OSODE**  
  (zitternd, gefasst)  
 Sato… es ist geschehen. Die Götter haben es gehört.
 
-**SATO**  
-Und was ist mit deinem Schwur mir gegenüber?
+==**SATO**  
+Und was ist mit deinem Schwur mir gegenüber?==
 
 **NAOSUKE**  
 Sato\! Achte diesen Ort\! Wir klären das draußen\!
 
-**SATO**  
-Dann komm, du Hund\!
+==**SATO**  
+Dann komm, du Hund\!==
 
 [(Schritte auf Kiesboden \[OIWA\])]()  
 
@@ -2070,23 +2072,23 @@ Ein Brief. Lies ihn nicht hier. Nicht jetzt.
 **NAOSUKE**  
 Osode?
 
-**SATO**  
+==**SATO**  
  Flüstern, Geschenke, heimliche Worte\! Selbst jetzt noch\!  
-Was hast du ihm da gegeben?
+Was hast du ihm da gegeben?==
 
 **OSODE**  
 Nichts, was dich betrifft\!
 
-**SATO**  
-Was dich betrifft, betrifft mich.
+==**SATO**  
+Was dich betrifft, betrifft mich.==
 
 **NAOSUKE**  
 Sato\! Beherrsche dich\!
 
-**SATO**  
+==**SATO**  
 Mich beherrschen? Hinter meinem Rücken wird meine Ehe aufgelöst\!  
 Und dazu schließt du eine neue mit ihm? Der, den du immer verachtet hast?  
-Der wie ein räudiger, liebestoller Hund um dich herumgeschlichen ist?
+Der wie ein räudiger, liebestoller Hund um dich herumgeschlichen ist?==
 
 **NAOSUKE**  
 Mäßige dich, Sato\! Es ist entschieden. Geh deiner Wege\!
@@ -2095,15 +2097,15 @@ Mäßige dich, Sato\! Es ist entschieden. Geh deiner Wege\!
 (weinend)  
 Sato.
 
-**SATO**  
-Wie lange geht dieses Spiel schon?
+==**SATO**  
+Wie lange geht dieses Spiel schon?==
 
 **NAOSUKE**  
 Lange genug. Osode hat erkannt, dass ich ihr ein besserer Mann sein werde als du.  
 Und ihre Familie unterstützt mich.
 
-**SATO**  
-Ihre Familie? Iemon\! Was mischt der sich ein? Was ist er dir schuldig?
+==**SATO**  
+Ihre Familie? Iemon\! Was mischt der sich ein? Was ist er dir schuldig?==
 
 **OSODE**  
 Sato\! Es wurde so bestimmt. Ich kann nichts mehr tun. Ich muss mich meiner Familie fügen.
@@ -2111,9 +2113,9 @@ Sato\! Es wurde so bestimmt. Ich kann nichts mehr tun. Ich muss mich meiner Fami
 **NAOSUKE**  
 Siehst du, Sato: Meine Frau hat Verstand. Und wenn sie dich erst einmal vergessen hat, kann sie mit mir endlich glücklich sein.
 
-**SATO**  
+==**SATO**  
 Glaubst du, dass ich mir das gefallen lasse, Priester?  
-Ich mag ein Ronin ohne Herr sein, aber diesen kleinen Rest Ehre lasse ich mir nicht nehmen.
+Ich mag ein Ronin ohne Herr sein, aber diesen kleinen Rest Ehre lasse ich mir nicht nehmen.==
 
 [(Schwert wird gezogen \[SATO\] → Sound \[OSODE\])]()  
 
@@ -2125,16 +2127,16 @@ Sato\! Du wirst doch nicht?\!
 **OSODE**  
 Nein. Du wirst ihm nichts tun.
 
-**SATO**  
-Osode? Aus dem Weg\!
+==**SATO**  
+Osode? Aus dem Weg\!==
 
 **OSODE**  
 Ich bin es, die unseren Schwur brach. Ich bringe dir die Schande\!  
 [(Mehrere schnelle Schritte auf Kies \[IEMON\] \-\> Aufstöhnen und röcheln Osode. Erschrecken von Sato und Naosuke) (Reißender Stoff \[OIWA\])  ]()  
 Diese Klinge gebührt mir.
 
-**SATO**  
-Osode. Nein.
+==**SATO**  
+Osode. Nein.==
 
 **OSODE**  
 Das ist der einzige Weg…  
@@ -2143,8 +2145,8 @@ Das ist der einzige Weg…
 [(Körper fällt auf Kies \[IEMON\])  ]()  
 [(Todes Thema \[Musik\])]()  
 
-**SATO**  
-Osode, das hätte nicht der Weg sein sollen. Warum hast du dich in meine Klinge gestürzt?
+==**SATO**  
+Osode, das hätte nicht der Weg sein sollen. Warum hast du dich in meine Klinge gestürzt?==
 
 (kurze Pause)
 
@@ -2154,8 +2156,8 @@ DU\! Dein Wahn hat sie dazu gezwungen.
 (geschockt und verwirrt)  
 Was? Nein, Osode\! Sato. Ich wollte doch nicht. Ich, ich dachte \-
 
-**SATO**  
-Du dachtest nur an dich. Lauf, Priester, lauf. Oder ich werde Osodes Wunsch nicht erfüllen können\!
+==**SATO**  
+Du dachtest nur an dich. Lauf, Priester, lauf. Oder ich werde Osodes Wunsch nicht erfüllen können\!==
 
 [(Schnelle Schritte auf Kies, die sich langsam entfernen \[IEMON\])  ]()  
 [**\[MUSIK untermalt die Flucht\]**]()  
@@ -2217,9 +2219,9 @@ Dass ich niemals jemandem erzählen würde, was er mir offenbarte.“
 Vater?  
 Hast du einen Moment?
 
-**SAMON**  
+==**SAMON**  
 *(abwesend, aber nicht unfreundlich)*  
-Sprich, Osode.
+Sprich, Osode.==
 
 **OSODE**  
 *(zögernd, dann freudig)*  
@@ -2230,16 +2232,16 @@ Vater…ich möchte Naosuke heiraten.
 
 [(Ein Schreibpinsel wird abgelegt \[SATO\])]()  
 
-**SAMON**  
-Naosuke?
+==**SAMON**  
+Naosuke?==
 
 **OSODE**  
 Ja.  
 Er ist gut. Und klug.  
 Und wenn er mich ansieht, habe ich keine Angst vor der Zukunft.
 
-**SAMON**  
-Osode…
+==**SAMON**  
+Osode…==
 
 **OSODE**  
 *(eifrig)*  
@@ -2249,31 +2251,31 @@ Ich glaube… wir könnten glücklich sein.
 
 *(kurze Stille)*
 
-**SAMON**  
-Steh auf und komm zu mir.
+==**SAMON**  
+Steh auf und komm zu mir.==
 
 [*(zögerliche Schritte auf Kies \[IEMON\])*]()  
 
 **OSODE**  
 Ja, Vater?
 
-**SAMON**  
-Bevor ich antworte, schwör mir etwas.
+==**SAMON**  
+Bevor ich antworte, schwör mir etwas.==
 
 **OSODE**  
 *(lacht unsicher)*  
 Ein Schwur?
 
-**SAMON**  
+==**SAMON**  
 Schwör mir auf dein Leben,  
-dass du niemandem erzählst, was ich dir jetzt sage.
+dass du niemandem erzählst, was ich dir jetzt sage.==
 
 **OSODE**  
 *(zögert)*  
 Vater… du machst mir Angst.
 
-**SAMON**  
-Schwöre es.
+==**SAMON**  
+Schwöre es.==
 
 **OSODE**  
 (leise)  
@@ -2281,15 +2283,15 @@ Ich schwöre es.
 
 [(In der Ferne eine Tempelglocke \[IEMON\])]()  
 
-**SAMON**  
+==**SAMON**  
 (leise, aber bestimmt)  
-Naosuke ist mein Sohn.
+Naosuke ist mein Sohn.==
 
 **OSODE**  
 Dein… Sohn?
 
-**SAMON**  
-Er ist dein Halbbruder.
+==**SAMON**  
+Er ist dein Halbbruder.==
 
 **OSODE**  
  (Scharfer Atemzug, fast ein Schluchzen)  
@@ -2297,24 +2299,24 @@ Nein…
 Das… das ist grausam.  
 Du lügst.
 
-**SAMON**  
+==**SAMON**  
 Ich habe ihn nie anerkannt, aber ich habe meine Beziehungen genutzt, um ihm einen Weg zu ebnen.  
-Mehr durfte ich nicht tun.
+Mehr durfte ich nicht tun.==
 
 **OSODE**  
 (bricht langsam)  
 Und er… er weiß nichts davon?
 
-**SAMON**  
+==**SAMON**  
 Nein.  
-Und er darf es niemals erfahren.
+Und er darf es niemals erfahren.==
 
 **OSODE**  
 Ich liebe ihn.
 
-**SAMON**  
+==**SAMON**  
 Dann vergrabe diese Liebe.  
-So tief, dass sie niemand je findet.
+So tief, dass sie niemand je findet.==
 
 (Lange Stille)
 
@@ -2412,37 +2414,37 @@ Trink erst einmal etwas, mein Freund.
 
 [(Sake wird ausgeschenkt \[TAKUETSU\]-\> Trinkgeräusch x2 \[SATO\])]()  
 
-**SATO**  
-Ich verstehe es noch immer nicht. Warum hat Osode das getan? Wir hätten etwas gegen Iemons Beschluss tun können.
+==**SATO**  
+Ich verstehe es noch immer nicht. Warum hat Osode das getan? Wir hätten etwas gegen Iemons Beschluss tun können.==
 
 **TAKUETSU**  
 Ehre? Pflichtgefühl? Schuld?  
 (nervös) Versteh einer die Frauen. Wer weiß schon, was sie bewegt?
 
-**SATO**  
+==**SATO**  
 Pass auf, was du da sagst.  
 Es ist Iemons Schuld. Er hat sie dazu gezwungen.  
   
 **TAKUETSU**  
-Sato. Er ist ihr Familienoberhaupt. Sie hat nach einem Ausweg gesucht.
+Sato. Er ist ihr Familienoberhaupt. Sie hat nach einem Ausweg gesucht.==
 
-**SATO**  
-Ein Ausweg? Vor dem verdammten Tempel zu verbluten, nennst du einen Ausweg.
+==**SATO**  
+Ein Ausweg? Vor dem verdammten Tempel zu verbluten, nennst du einen Ausweg.==
 
 **TAKUETSU**  
 Nicht für mich, aber für sie. Denselben hat auch Naosuke gewählt, er wurde gestern in seinem Haus gefunden.
 
-**SATO**  
-Wenigstens etwas.
+==**SATO**  
+Wenigstens etwas.==
 
 **TAKUETSU**  
 Und was willst du nun tun?  
 Willst du Osode folgen, dich hier vergraben oder nach was steht dir der Sinn?
 
-**SATO**  
+==**SATO**  
 (lacht)  
 Nach was mir der Sinn steht?  
-Nach Rache, mein Freund.
+Nach Rache, mein Freund.==
 
 Wo ist Iemon?  
 Du weißt es\!
@@ -2450,43 +2452,43 @@ Du weißt es\!
 **TAKUETSU**  
 Als ich ihn das letzte Mal sah, rannte er in Richtung der Berge, davor faselte er etwas von Oiwa. 
 
-**SATO**  
-Ich war dabei, als er hier seinen Wahnsinn offenbarte.
+==**SATO**  
+Ich war dabei, als er hier seinen Wahnsinn offenbarte.==
 
 **TAKUETSU**  
 Wahnsinn? Oder doch vielleicht ein Onryo?
 
-**SATO**  
-Ein Rachegeist? Warum sollte sich Oiwa an ihrem Mann rächen wollen? Er hat ihren Tod doch nicht zu verantworten.
+==**SATO**  
+Ein Rachegeist? Warum sollte sich Oiwa an ihrem Mann rächen wollen? Er hat ihren Tod doch nicht zu verantworten.==
 
 **TAKUETSU**  
 Du kennst nicht die ganze Geschichte. Er kam hierher. Er bedrohte mich und zwang mich, zu ihr zu gehen, um einen Grund zu haben, sie zu verstoßen. Dabei kam es zu ihrem Unglück.
 
-**SATO**  
+==**SATO**  
 Osode und ihre Schwester Oiwa, seine neue Braut und ihre Familie, Samon, selbst Naosuke.  
 Iemon trägt die Schuld.  
 Sprich, Takuetsu\!  
-Wo ist er?
+Wo ist er?==
 
 **TAKUETSU**  
 Die Mädchen haben mir von Gerüchten erzählt. Händler haben berichtet, dass in den Bergen neuerdings ein Oni wüten soll, der Reisende angreift und in einem verfallenen Schrein haust.
 
-**SATO**  
+==**SATO**  
 Von wegen Oni. Das ist er.  
-Iemon.
+Iemon.==
 
 **TAKUETSU**  
 Das denke ich auch. 
 
-**SATO**  
-Gut. Wir brechen morgen früh auf und beenden es.
+==**SATO**  
+Gut. Wir brechen morgen früh auf und beenden es.==
 
 **TAKUETSU**  
 Ja. Das wird wohl das beste sein, Moment, was meinst du mit wir?
 
-**SATO**  
+==**SATO**  
 Du wirst mir helfen, Takuetsu.  
-Bis morgen.
+Bis morgen.==
 
 [(Schritte auf Holz \[OIWA\] \-\> Schiebetür auf und zu \[OSODE\])]()  
 
@@ -2602,9 +2604,9 @@ Oiwa?
 (flüsternd)  
  Sato… da ist nichts. Oder?
 
-**SATO**  
+==**SATO**  
 (leise)  
- Für uns nicht.
+ Für uns nicht.==
 
 **OIWA**  
  Sie kommen. Sie kommen, dich zu holen.
@@ -2618,19 +2620,19 @@ Niemand wird mich holen.
 
 [ (Iemon zieht sein Schwert aus der Scheide: ein schabendes Kreischen \[IEMON\] (optisch), \[OSODE\] (akkustisch))]()  
 
-**SATO**  
+==**SATO**  
 (ruhig, klar)  
  Iemon.  
-(Alle Geräusche verstummen. Nur Iemons Atem. Ba)
+(Alle Geräusche verstummen. Nur Iemons Atem. Ba)==
 
 **IEMON**  
 (zitternd)  
  Du…  
  Auch du hast ihr Gesicht gesehen.
 
-**SATO**  
+==**SATO**  
  Nein.  
- Ich sehe nur einen Mann, der schon lange tot ist.
+ Ich sehe nur einen Mann, der schon lange tot ist.==
 
 **OIWA**  
 (wütend, verzerrt, überlaut)  
@@ -2644,9 +2646,9 @@ Niemand wird mich holen.
 
 [(zwei Schritte (Kies?) \[NAOSUKE\])]()  
 
-**SATO**  
+==**SATO**  
  Es reicht.  
-[(Schwert wird gezogen \[OSODE\] & \[SATO\])]()  
+[(Schwert wird gezogen \[OSODE\] & \[SATO\])]()==
 
 **IEMON**  
  Wenn ich sterbe…  
@@ -2667,8 +2669,8 @@ Niemand wird mich holen.
  *(leise)*  
  Hast du… etwas gehört?
 
-**SATO**  
- Nein.
+==**SATO**  
+ Nein.==
 
 [(Sato steckt das Schwert weg \[SATO\])]()  
 

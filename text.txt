@@ -1530,7 +1530,7 @@ Ja, ich habe ihn von meinem lieben Iemon geschenkt bekommen. Er sagte, es sei ei
 
 
 IEMON
-Ja, ein Erbstück der Familie meiner ersten Frau.ü
+Ja, ein Erbstück der Familie meiner ersten Frau.
 
 
 OUME
@@ -1753,6 +1753,7 @@ So nennt sie sich jetzt?
 
 
 IEMON                                                                                                                                                  Tot. Du bist tot.
+[MUSIK Spannungsaufbau]
 
 
 OUME
@@ -1913,7 +1914,7 @@ Nein, legt das Schwert weg, ich bin doch eure…
 (Kopf und Körper fallen auf Boden (Sellerie, [NAOSUKE])
 Stille.
 Klockbambus [NAOSUKE])
-(Todes Thema [Musik])
+(Todes Thema [Musik], dann STILLE)
 Iemon
 Endlich.
 (Atmet schwer)
@@ -1944,6 +1945,7 @@ Szene 12: MorgenGrauen
 Ort: Garten am Haus des Iemon; Figuren: Iemon, Naosuke
 
 
+[MUSIK ganz kurzer Übergang]
 Geräuschkulisse: Hahnenschrei [IEMON] –> Wind in Bambus [SATO], [OSODE], Vogelgezwitscher [OIWA]
 
 
@@ -2077,7 +2079,7 @@ Wohl aus einer verlorenen.
 
 IEMON
 …sie ist tot.
-(Kurze Stille.)
+[Shamisenmusik stops] (Kurze Stille.)
 
 
 SATO
@@ -2100,6 +2102,7 @@ IEMON
 Und dann war es zu spät.
 (Gesicht-Lampe geht an [TAKUETSU] > [OIWA]: LÜGNER!)
 Habt ihr das gehört?
+[Klagethema MUSIK]
 
 
 SATO
@@ -2283,8 +2286,8 @@ IEMON
  Dann tu es.
 Jetzt.
 NAOSUKE
-(Klopfen eines Priesterstabes [NAOSUKE].
-Naosuke murmelt kaum zu verstehen ein Norito (ritueller Singsang), ruhig, gleichmäßig.
+(Klopfen eines Priesterstabes [NAOSUKE]. [MUSIK mit Beat unterstützen]
+ Naosuke murmelt kaum zu verstehen ein Norito (ritueller Singsang), ruhig, gleichmäßig.
  Das Rascheln von Papierstreifen (Shide) im Wind.[OIWA]
 Wind und Regen ([TAKUETSU] und [SATO], zusätzlicher Wind - [OSODE]) werden dabei immer lauter.)
 Oh-ha-ra-i no ko-to-ba 
@@ -2347,7 +2350,7 @@ Bleib im Kreis!
 Schau sie nicht an!
 
 (Das Holz des Bodens knarzt.[OSODE] –>
- Langer gequälter Atem direkt am Mikrofon.)
+ Langer gequälter Atem direkt am Mikrofon. (OIWA)
 
 
 OIWA/OUME 
@@ -2391,9 +2394,10 @@ in jedem Traum.
 Du wirst mich sehen. (Atem)
 
 
-Ich werde bei dir sein. (Alles zusammen)
+Ich werde bei dir sein. (X 3, Alle zusammen)
 
 (Ein ohrenbetäubender Donnerschlag) [OIWA] → Geräusche wieder an
+[MUSIK endet]
 
 
 IEMON
@@ -2511,7 +2515,7 @@ Feige und ehrenlos?
 IEMON 
 (kalt)
 Nein. 
-(Gerangel von Iemon und Oyumi > Oyumi schreit > Aufprall Körper auf Tisch, Knochenbrechen [IEMON] > ein letztes Röcheln) (Wellen (Kies - [OSODE], [NAOSUKE] klappt Mikro hoch))
+(Gerangel von Iemon und Oyumi > Oyumi schreit > Aufprall Körper auf Tisch, Knochenbrechen [IEMON] > ein letztes Röcheln) (Aufschlag: Schlag auf Kies [NAOSUKE], (Wellen (Kies - [OSODE], [NAOSUKE] klappt Mikro hoch))
 (Todes Thema [Musik])
 
 
@@ -2920,6 +2924,7 @@ Du dachtest nur an dich. Lauf, Priester, lauf. Oder ich werde Osodes Wunsch nich
 
 
 (Schnelle Schritte auf Kies, die sich langsam entfernen [IEMON])
+[MUSIK untermalt die Flucht]
 
 
 
@@ -3215,7 +3220,7 @@ NAOSUKE
 Schande.
 
 
-(Ein Messer wird langsam aus der Scheide gezogen [NAOSUKE] Sound [IEMON] )
+(Ein Messer wird langsam aus der Scheide gezogen [NAOSUKE] Sound [OSODE] )
 
 
 NAOSUKE
@@ -3241,7 +3246,7 @@ verzeiht mir.
  -> Ein Körper sackt zusammen [NAOSUKE] -> Stille)
 
 
-(Todes Thema [Musik])
+(Todes Thema [Musik] geht über zu Bordell)
 
 
 
@@ -3259,7 +3264,7 @@ TAKUETSU
 Trink erst einmal etwas, mein Freund.
 
 
-(Sake wird ausgeschenkt [TAKUETSU]-> Trinkgeräusch x2 $], [SATO])
+(Sake wird ausgeschenkt [TAKUETSU]-> Trinkgeräusch x2 [SATO])
 
 
 SATO
@@ -3364,8 +3369,7 @@ Bis morgen.
 (Schritte auf Holz [OIWA] -> Schiebetür auf und zu [OSODE])
 
 
-
-
+[Bordellmusik klingt aus]
 
 
 
@@ -3376,7 +3380,7 @@ Szene 20: High noon im Tempel
 Ort: Verfallener Tempel; Figuren: Iemon, Sato, Takuetsu, Oiwa, Osode
 
 
-Geräuschkulisse Verfallener Tempel: Wind pfeift [MUSIK], altes Holz knarzt [OSODE], ein einzelnes Tempelglöckchen klirrt unregelmässig im Wind [NAOSUKE], Wasser tropft [TAKUETSU]
+Geräuschkulisse Verfallener Tempel: Wind pfeift [MUSIK], altes Holz knarzt [OSODE], ein einzelnes Tempelglöckchen klirrt unregelmässig im Wind ([NAOSUKE] über Kiesbecken), Wasser tropft [TAKUETSU]
 Technik: Nur das Licht der Laternen
 
 
@@ -3473,7 +3477,7 @@ Oiwa?
  ICH LIEBTE DICH!
 
 
-(STILLE -> Dann ein leises, grausames Lachen von Oiwa)
+(STILLE -> Dann ein leises, grausames Lachen von Oiwa MUSIK mit)
 
 
 OIWA
@@ -3546,7 +3550,7 @@ OIWA
 SATO 
 (ruhig, klar)
  Iemon.
-(Alle Geräusche verstummen. Nur Iemons Atem.)
+(Alle Geräusche verstummen. Nur Iemons Atem. Ba)
 
 
 IEMON 
@@ -5514,6 +5518,7 @@ lch sagte, du sollst es NICHT sagen! [MUSIK setzt zaghaft wieder ein, weiter ang
  (versucht aufzustehen, fällt aber gleich [OIWA])
 (Seine Schritte entfernen sich [OSODE] –
  > Schiebetür zu. [OSODE]
+[MUSIK: Klagethema]
 
 
 Szene 9: Hat deine Braut…
@@ -5544,10 +5549,12 @@ Oiwa-sama…? ([OIWA] wacht auf) Bitte erschreckt euch nicht. Ich… ich muss mi
  > Takuetsu fällt nach hinten durch die Tür,reißen von Papier [NAOSUKE] und brechen von Holz [IEMON] 
  > Zwei Schritte auf Tatami [OSODE])
 (Ein Handspiegel wird auf den Boden gelegt, Ein kurzer Moment des Schweigens (musik kurz innehalten, bis der Spiegel fällt), Oiwa sieht ihr Gesicht [OIWA] und der Spiegel wird fallen gelassen.) [TAKUETSU]
+[MUSIK intensiver]
 (Er versucht, ihr das Schwert zu entreißen. 
  > Stichgeräusch [SATO]
 (Das Schwert fällt [OIWA])
 (Schnelle Schritte auf Holz die leiser werden [IEMON]
+[MUSIK wird zu ihrem Klagethema]
 (Intro Thema mit Gesang [Musik])
 
 
@@ -5562,18 +5569,21 @@ Geräuschkulisse Garten: Vogelgezwitscher [OIWA], Frosch/Zikaden [OIWA], ein san
  > Eine Laterne wird entzündet (TECHNIK? [TAKUETSU]?)
 (Papier rascheln [TAKUETSU], Feuerstein schlägt [IEMON]
 (Papier raschelt [TAKUETSU], Feuerstein schlägt [IEMON]
+[MUSIK: einzelner Shamisen-Ton]
+[MUSIK Spannungsaufbau]
 (Schwertziehgräusch[OSODE] visuell [IEMON])
 [Reißender Stoff [SATO]
 (Todes Thema [Musik])
 (Kopf und Körper fallen auf Boden (Sellerie, [NAOSUKE])
 Klockbambus [NAOSUKE])
-(Todes Thema [Musik])
+(Todes Thema [Musik], dann STILLE)
 (Ein Windstoß [SATO] löscht die Laternen.)
 
 
 Szene 12: MorgenGrauen
 
 
+[MUSIK ganz kurzer Übergang]
 Geräuschkulisse: Hahnenschrei [IEMON] –
  > Wind in Bambus [SATO], [OSODE], Vogelgezwitscher [OIWA]
 (Stille 
@@ -5586,8 +5596,10 @@ Szene 13: Geister im Bordell
 
 Geräuschkulisse Bordell: Shamisenmusik (MUSIK), gedämpftes Gelächter [ALLE], mittelschwere Sake-Trunkenheit im Hintergrund. [ALLE]
 (Beide lachen. Die Tür [OSODE] & [OIWA] wird hastig aufgeschoben. Kurzes Atmen von Iemon, Iemon tritt ein, Schritte auf Holz [OIWA] – ungepflegt, atemlos, Gelächter hört auf, erschrockenes Tuscheln)
+[Shamisenmusik stops] (Kurze Stille.)
 (Gesicht-Lampe geht an [TAKUETSU] 
  > [OIWA]: LÜGNER!)
+[Klagethema MUSIK]
 (Schritte auf Holz, Gemeinsam mit Sprechen- [OIWA])
 
 
@@ -5602,7 +5614,7 @@ Geräuschkulisse Tempel: Leiser Regen [SATO], –
  (Papier raschelt [OIWA] –
  >
 Mittelmächtiger Gong [OSODE])
-(Klopfen eines Priesterstabes [NAOSUKE].
+(Klopfen eines Priesterstabes [NAOSUKE]. [MUSIK mit Beat unterstützen]
  Das Rascheln von Papierstreifen (Shide) im Wind.[OIWA]
 Wind und Regen ([TAKUETSU] und [SATO], zusätzlicher Wind - [OSODE]) werden dabei immer lauter.)
 (Alle Geräusche hören schlagartig auf.)[TAKUETSU], [SATO], [OSODE], [OIWA]
@@ -5615,6 +5627,7 @@ Wind und Regen ([TAKUETSU] und [SATO], zusätzlicher Wind - [OSODE]) werden dabe
 Der Gong fällt klirrend zu Boden [OSODE])
 [ALLE] GERÄUSCHE PAUSIEREN
 (Ein ohrenbetäubender Donnerschlag) [OIWA] → Geräusche wieder an
+[MUSIK endet]
  (Hastige Schritte auf Holz, werden leiser!) [TAKUETSU] –
  > 
 Reißt eine Tür auf [OSODE] 
@@ -5630,7 +5643,7 @@ Geräuschkulisse Hafen: Möwen [OSODE], Wellen (Kies
 (Gerangel von Iemon und Oyumi 
  > Oyumi schreit 
  > Aufprall Körper auf Tisch, Knochenbrechen [IEMON] 
- > ein letztes Röcheln) (Wellen (Kies - [OSODE], [NAOSUKE] klappt Mikro hoch))
+ > ein letztes Röcheln) (Aufschlag: Schlag auf Kies [NAOSUKE], (Wellen (Kies - [OSODE], [NAOSUKE] klappt Mikro hoch))
 (Todes Thema [Musik])
 (Schritte (Kies): Naosuke und Takuetsu kommen angelaufen [TAKUETSU])
 (Laufschritte auf Kies (Iemon geht ab) - [OSODE])
@@ -5665,6 +5678,7 @@ Geräuschkulisse Tempelvorhof: gelegentliches Krähen von Krähen [WIEBKE], Wind
 (Körper fällt auf Kies [IEMON])
 (Todes Thema [Musik])
 (Schnelle Schritte auf Kies, die sich langsam entfernen [IEMON])
+[MUSIK untermalt die Flucht]
 
 
 Szene 18: Sweet Home Alabama
@@ -5685,13 +5699,13 @@ Geräuschkulisse Naosukes Haus: Feuerschale [TAKUETSU]
  > Feuerschale [TAKUETSU])
 (Papier wird zusammengeknüllt [NAOSUKE])
 (Papier rascheln [NAOSUKE])
-(Ein Messer wird langsam aus der Scheide gezogen [NAOSUKE] Sound [IEMON] )
+(Ein Messer wird langsam aus der Scheide gezogen [NAOSUKE] Sound [OSODE] )
 (Ein dumpfer Stich -
  > reißender Stoff [OIWA]
  -
  > Ein Körper sackt zusammen [NAOSUKE] -
  > Stille)
-(Todes Thema [Musik])
+(Todes Thema [Musik] geht über zu Bordell)
 
 
 Szene 19: Sato Holmes und Takuetsu Watson
@@ -5699,15 +5713,16 @@ Szene 19: Sato Holmes und Takuetsu Watson
 
 Geräuschkulisse Bordell: Gespräche im Hintergrund, Lachen, Shamisen [MUSIK], Schritte auf Holz [OIWA],
 (Sake wird ausgeschenkt [TAKUETSU]-
- > Trinkgeräusch x2 $], [SATO])
+ > Trinkgeräusch x2 [SATO])
 (Schritte auf Holz [OIWA] -
  > Schiebetür auf und zu [OSODE])
+[Bordellmusik klingt aus]
 
 
 Szene 20: High noon im Tempel
 
 
-Geräuschkulisse Verfallener Tempel: Wind pfeift [MUSIK], altes Holz knarzt [OSODE], ein einzelnes Tempelglöckchen klirrt unregelmässig im Wind [NAOSUKE], Wasser tropft [TAKUETSU]
+Geräuschkulisse Verfallener Tempel: Wind pfeift [MUSIK], altes Holz knarzt [OSODE], ein einzelnes Tempelglöckchen klirrt unregelmässig im Wind ([NAOSUKE] über Kiesbecken), Wasser tropft [TAKUETSU]
 (Nasses Reißen [SATO])
  (lauter Windstoß [NAOSUKE] -
  > Tempelglocke(Gong) [OSODE]) 
