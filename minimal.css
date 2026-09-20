@@ -3,7 +3,7 @@
  */
 
 :root {
-  /* --color-highlights: #822E2B; */
+  --alternate-color-highlights: #822E2B;
   --color-highlights: #573875;
   --color-links: #79A6D8;
   --color-background: #0d1109;
@@ -14,13 +14,20 @@
   box-sizing: border-box;
 }
 
-input {
-  max-height: 0.9rem;
-  vertical-align: center;
-  max-width: 0.9rem;
-  padding: 0;
+.color-label {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-left: 1rem;
+  font-size: 0.9rem;
 }
 
+.coloris {
+  width: 2rem;
+  height: 2rem;
+  border: none;
+  background: transparent;
+}
 mark {
   display:block;
   background-color: var(--color-highlights);

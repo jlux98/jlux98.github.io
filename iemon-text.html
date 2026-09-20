@@ -5,6 +5,9 @@ Posted by Lukas Sommer, modified by community. See post 'Timeline' for change hi
 Retrieved 2026-09-20, License - CC BY-SA 3.0
 -->
 
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/mdbassit/Coloris@latest/dist/coloris.min.css"/>
+<script src="https://cdn.jsdelivr.net/gh/mdbassit/Coloris@latest/dist/coloris.min.js"></script>
+
 <!-- The CSS is assumed to apply “display=none” to the elements
 with class="no-print" when used for printing. -->
 <header class="zoom-header">
@@ -24,11 +27,10 @@ with class="no-print" when used for printing. -->
     </span>]
   </span>
 
-  <label style="margin-left:1rem;">
-    <span style="font-size:0.9rem;">Akzent</span>
-    <input id="highlightPicker" class"highlightPicker" type="color" value="#573875" aria-label="Highlight color">
-  </label>
-</p>
+<label class="color-label">
+  <span>Accent</span>
+  <input type="text" class="coloris" value="#573875">
+</label></p>
 </header>
 <script>
   /* document.body.style.fontSize is empty – though “font-size=100%” is set in
@@ -61,11 +63,17 @@ with class="no-print" when used for printing. -->
 </script>
 
 <script>
-  const root = document.documentElement;
-  const picker = document.getElementById("highlightPicker");
+  Coloris({
+    el: '.coloris',
+    theme: 'dark',
+    themeInline: false,
+    alpha: false,
+    format: 'hex',
+    swatches: ['#573875', '#79A6D8', '#0d1109', '#F5E8B7', '#ffffff']
+  });
 
-  picker.addEventListener("input", function () {
-    root.style.setProperty("--color-highlights", picker.value);
+  document.querySelector('.coloris').addEventListener('input', (e) => {
+    document.documentElement.style.setProperty('--color-highlights', e.target.value);
   });
 </script>
 <body>
