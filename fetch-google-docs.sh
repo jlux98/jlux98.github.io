@@ -56,10 +56,9 @@ MARKDOWN_TEXT="$(echo "$MARKDOWN_TEXT" | sed -E 's/  +/  /g')"
 echo "$MARKDOWN_TEXT" > full-text.md
 # MARKDOWN_TEXT="$(echo "$MARKDOWN_TEXT" | tr '\n' '|')"
 
+if [[ $PANDOC_INSTALLED == "TRUE" ]]; then
 convert_with_css "README" "index"
 convert_with_css "full-text"
-
-if [[ $PANDOC_INSTALLED == "TRUE" ]]; then
     source ./render-actor-parts.sh "full-text.md"
 fi
 
