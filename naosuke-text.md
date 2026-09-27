@@ -15,7 +15,7 @@ Linksbündig: Geräuschkulissenbeschreibung
   
 **Einführung**  
   
-Einzug: “scheppernd” (alle außer Takuetsu), alle setzen sich. Iemon nimmt das größte Schwert mit, Naosuke das Tanto. Ruhige Musik setzt ein.  
+Einzug: “scheppernd” (alle außer Takuetsu). Naosuke oder Samon (je nach Bühnenaufbau) entzündet das Teelicht im Räucherkessel.  Iemon nimmt das größte Schwert mit, Naosuke das Tanto. Alle setzen sich.Ruhige Musik setzt ein.  
   
 (Licht geht aus; nur eine Kerze/Laterne (Oiwa-Laterne vor kleinen Tisch) beleuchtet den Erzähler, Er stellt die Laterne ab. Licht auf Takuetsu.) (Prolog mit Shamisen)  
   
@@ -41,7 +41,7 @@ in der Hoffnung, Oiwas Geist zu besänftigen –
 damit sie ihren Zorn nicht auf jene richtet,  
 die ihre Geschichte erneut erzählen.  
   
-(Erzähler entzündet Räucherstäbchen und dankt kurz alle verbeugen sich mit)  
+(Erzähler entzündet Räucherstäbchen am brennenden Teelicht und dankt kurz. Alle verbeugen sich mit ihm)  
   
 So bitten auch wir dich, Oiwa, um Erlaubnis, deine Geschichte zu erzählen, und um ihre Vergebung.  
   
@@ -2667,7 +2667,12 @@ bleibt sie dann bei mir?
 **OIWA**  
 *(lacht)*  
   
-==[(Ein einziger Schwertschlag (Sellerieköpfen\[NAOSUKE\]) \-\> Sterbegeräusch, Kopf \-\> Tisch)]()==  
+**SATO**  
+Sei ein letztes Mal ein echter Samurai … Knie nieder.  
+  
+(IEMON steckt das Schwert ein. Kies knirscht. Geräuschkulisse wird kurz lauter, setzt dann ganz aus. Stille außer SATOS und IEMONS angespanntes Atmen. SATO schlägt zu (ächzt). Kopf fällt auf Kies und rollt. SATO atmet weiter, IEMON nicht mehr.)  
+  
+IEMON setzt sich den Schleier wieder auf.  
   
 [(Todes Thema \[Musik\])]()  
   
