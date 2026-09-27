@@ -2669,9 +2669,14 @@ Niemand wird mich holen.
 **SATO**  
 Sei ein letztes Mal ein echter Samurai … Knie nieder.
 
-(IEMON steckt das Schwert ein. Kies knirscht. Geräuschkulisse wird kurz lauter, setzt dann ganz aus. Stille außer SATOS und IEMONS angespanntes Atmen. SATO schlägt zu (ächzt). Kopf fällt auf Kies und rollt. SATO atmet weiter, IEMON nicht mehr.)
+[(\[IEMON\] steckt das Schwert ein.  ]()  
+[Kies knirscht als I. sich hinkniet \[NAOSUKE\].  ]()  
+[\[ALLE\] Geräuschkulisse wird kurz lauter, setzt dann ganz aus.  ]()  
+[Stille außer \[SATO\]s und \[IEMON\]s angespanntes Atmen.  ]()  
+[\[SATO\] schlägt zu (ächzt), \[NAOSUKE\] Kopf fällt auf Kies und rollt.  ]()  
+[\[SATO\] atmet weiter, \[IEMON\] nicht mehr.)]()  
 
-IEMON setzt sich den Schleier wieder auf.
+[\[IEMON\] setzt sich den Schleier wieder auf.]()  
 
 [(Todes Thema \[Musik\])]()  
 
