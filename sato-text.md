@@ -17,7 +17,7 @@ Linksbündig: Geräuschkulissenbeschreibung
   
 Einzug: “scheppernd” (alle außer Takuetsu). Naosuke oder Samon (je nach Bühnenaufbau) entzündet das Teelicht im Räucherkessel.  Iemon nimmt das größte Schwert mit, Naosuke das Tanto. Alle setzen sich.Ruhige Musik setzt ein.  
   
-(Licht geht aus; nur eine Kerze/Laterne (Oiwa-Laterne vor kleinen Tisch) beleuchtet den Erzähler, Er stellt die Laterne ab. Licht auf Takuetsu.) (Prolog mit Shamisen)  
+[(Licht geht aus; nur eine Kerze/Laterne (Oiwa-Laterne vor kleinen Tisch) beleuchtet den Erzähler, Er stellt die Laterne ab. Licht auf Takuetsu.) (Prolog mit Shamisen und Trommel (\[NAOSUKE\]))]()  
   
 Beim **Hyaku-mono-gatari Kaidankai**  
 erzählte man sich  
@@ -43,13 +43,13 @@ die ihre Geschichte erneut erzählen.
   
 (Erzähler entzündet Räucherstäbchen am brennenden Teelicht und dankt kurz. Alle verbeugen sich mit ihm)  
   
-So bitten auch wir dich, Oiwa, um Erlaubnis, deine Geschichte zu erzählen, und um ihre Vergebung.  
+So bitten auch wir dich, Oiwa, um Erlaubnis, deine Geschichte zu erzählen, und um Vergebung.  
   
 Oiwas und Iemons Geschichte beginnt…  
 an einem verregneten Abend,  
 in einem Teehaus am Rande der Tōkaidō-Straße.  
   
-[(MUSIK weiter, bis Takuetsu sitzt. Shamisen-Signal und Trommeldoppelschlag \[NAOSUKE\])]()  
+[(MUSIK und Trommel \[NAOSUKE\] weiter, bis Takuetsu sitzt. Shamisen-Signal und Trommeldoppelschlag \[NAOSUKE\])]()  
   
 ###  
   
@@ -302,8 +302,10 @@ Aber ihr habt keine Ahnung, was es heißt, in dieser neuen Welt zu leben.
 Ich kenne die Bedeutung von Ehre.  
 Und ich weiß, was geschieht, wenn man sie verliert.  
   
+Kurze Pause  
+  
 **IEMON**  
-Dann wisst ihr, was nun kommt.  
+*(deutlicher Atemzug)* Dann wisst ihr, was nun kommt.  
   
 ==[*(Geräuschkulisse stoppt \[ALLE\] \> Schwert wird gezogen (Sound \[OSODE\], Visual \[IEMON\]) \> Stoffgeräusch \[SATO\] \> Keuchen von \[SATO\])*]()==  
   
@@ -625,15 +627,16 @@ Aki. Komm und hilf mir. Der alte Arzt von nebenan hat extra eine Salbe für mich
 (gedämpft)  
 Ja Herrin.  
   
-[*(Schritte \[OIWA\]),Schiebetür zu \[OSODE\], Platz nehmen (Stoff \[NAOSUKE\] und Matte \[OIWA\]*]()  
+[*(Schritte \[OIWA\]),Schiebetür zu \[OSODE\], Platz nehmen (Stoff \[NAOSUKE\] und Matte \[OSODE\]*]()  
   
 Ich fange dann an, Herrin.  
   
 [*(Öffnen Salbendöschen \[OIWA\]) (Eincremegeräusch, Eincremen vorm Mikrofon, \[IEMON\])*]()  
+==[ *(Windspiel endet, Hautreißen vorbereiten \[SATO\],* ]()==  
   
 **OIWA**  
 Sehr schön Aki. (PAUSE.)  
-vergiss den Hals nicht. (Musik setzt ein, wird immer unruhiger)  
+vergiss den Hals nicht.  
   
 **AKI**  
 Natürlich, Herrin.  
@@ -642,7 +645,7 @@ Natürlich, Herrin.
   
 **OIWA**  
 Oh man spürt die Wirkung ja richtig. Die Salbe sie… sie brennt\!  
-Mach sie ab Aki, mach sie sie ab.  
+Mach sie ab Aki, mach sie sie ab. (Musik setzt ein, wird immer unruhiger)  
   
 [*(Panisches Gefuchtel und Schreie und Keuchen von \[OIWA\] aus Schmerz, von Aki Panik \[NAOSUKE\])*]()  
   
@@ -683,7 +686,7 @@ Ich weiß es nicht\!
 *(zwischen Zähnen, voller Zorn und Verzweiflung)*  
 Dann machst du etwas falsch\! Wasch gründlicher, Aki\! Gründlicher\!  
   
-==[ *(Haut reißt ein Stück \[SATO\], Schrei \[OIWA\], Stoff reiben hört auf \[NAOSUKE\],* **Musik stoppt**)]()==  
+==[ *(**Geräusche- Stille**, Haut reißt ein Stück \[SATO\], Schrei \[OIWA\], Stoff reiben hört auf \[NAOSUKE\],* **Musik stoppt**)]()==  
   
 **AKI**  
 Herrin… euer… euer Gesicht…  
@@ -1007,7 +1010,7 @@ Oiwa-sama\! Nicht\! Legt das Schwert weg\!
 Ihr werdet mir nichts tun\!  
 Niemand wird mir etwas tun\!  
   
-[*(Im Rhythmus 1-2-3: Zwei stolpernde Schritte auf Tatami (Faustschläge gegen Tatamimatte) \[OSODE\] \> Takuetsu fällt nach hinten durch die Tür,reißen von Papier \[NAOSUKE\] und brechen von Holz \[IEMON\] \> Zwei Schritte auf Tatami \[OSODE\])*]()  
+==[*(Im Rhythmus 1-2-3: Zwei stolpernde Schritte auf Tatami (Faustschläge gegen Tatamimatte) \[OSODE\] \> Takuetsu fällt nach hinten durch die Tür,reißen von Papier \[NAOSUKE\] und brechen von Holz \[IEMON\] \> Zwei Schritte auf Tatami \[OSODE\] \<*  Haut reißt erneut \[SATO\])]()==  
   
 *(Licht geht an, da der Flur beleuchtet ist.)*  
 ***(MUSIK leiser, auf Oiwas Schauspiel reagieren)***  
@@ -1093,7 +1096,7 @@ Geliebter.
   
 **Ort: Garten am Haus Iemons; Figuren: Iemon, Oume, Ito Kihei, Oiwa**  
   
-==[**Geräuschkulisse Garten: Vogelgezwitscher \[OIWA\]**, Frosch/Zikaden \[OIWA\], ein sanfter Wind bewegt Bambus \[SATO\] und \[OSODE\], Klockbambus \[NAOSUKE\], Schritte auf Kies ??\[TAKUETSU\]??\]]()==  
+==[**Geräuschkulisse Garten: Vogelgezwitscher \[OIWA\]**, Frosch/Zikaden \[OIWA\], ein sanfter Wind bewegt Bambus \[SATO\] und \[OSODE\], Klockbambus \[NAOSUKE\], Naosuke Mikro auf Kies, Schritte auf Kies \[TAKUETSU\]\]]()==  
   
 ***ITO KIHEI***  
 Es war ein angemessener Tag.  
@@ -1888,7 +1891,7 @@ Feige und ehrenlos?
 (kalt)  
 Nein.  
   
-[(Gerangel von Iemon und Oyumi \> Oyumi schreit \> Aufprall Körper auf Tisch, Knochenbrechen \[IEMON\] \> ein letztes Röcheln) (Aufschlag: Schlag auf Kies \[NAOSUKE\], (Wellen (Kies \- \[OSODE\], \[NAOSUKE\] klappt Mikro hoch))]()  
+[(Gerangel von Iemon und Oyumi \> Oyumi schreit \> Aufprall Körper auf Tisch, Knochenbrechen \[IEMON\] \> ein letztes Röcheln) (Aufschlag: Schlag auf Kies \[NAOSUKE\], Klatschen in hohle Hand (SATO), (Wellen (Kies \- \[OSODE\], \[NAOSUKE\] klappt Mikro hoch))]()  
 [**(Todes Thema \[Musik\])**]()  
   
 **OIWA**  
@@ -2402,12 +2405,11 @@ Ich habe meine Schwester in den Tod getrieben.
 Es gibt nur einen Weg, wie ich diese Taten sühnen könnte.  
   
 (Kurze Stille \-\> Atem)  
+[(Ein dumpfer Stich \-\> reißender Stoff \[OIWA\]]()  
+[ \-\> Ein Körper sackt zusammen \[NAOSUKE\] \-\> **Stille)**]()  
   
 Schwestern, Vater  
 verzeiht mir.  
-  
-[(Ein dumpfer Stich \-\> reißender Stoff \[OIWA\]]()  
-[ \-\> Ein Körper sackt zusammen \[NAOSUKE\] \-\> Stille)]()  
   
 [**(Todes Thema \[Musik\] geht über zu Bordell)**]()  
   
@@ -2506,7 +2508,7 @@ Bis morgen.==
   
 **Ort: Verfallener Tempel; Figuren: Iemon, Sato, Takuetsu, Oiwa, Osode**  
   
-[**Geräuschkulisse Verfallener Tempel:** Wind pfeift \[MUSIK\], altes Holz knarzt \[OSODE\], ein einzelnes Tempelglöckchen klirrt unregelmässig im Wind (\[NAOSUKE\] über Kiesbecken), Wasser tropft \[TAKUETSU\]]()  
+[**Geräuschkulisse Verfallener Tempel:** Wind pfeift \[WIEBKE\], altes Holz knarzt \[OSODE\], ein einzelnes Tempelglöckchen klirrt unregelmässig im Wind (\[NAOSUKE\] über Kiesbecken), Wasser tropft \[TAKUETSU\]]()  
 **Technik:** Nur das Licht der Laternen  
   
 **IEMON**  
@@ -2681,7 +2683,7 @@ Sei ein letztes Mal ein echter Samurai … Knie nieder.==
   
 [(Todes Thema \[Musik\])]()  
   
-[(Stille \-\> Wind \[NAOSUKE\])]()  
+[(Stille \-\> Wind \[TAKUETSU\])]()  
   
 **TAKUETSU**  
 *(leise)*  
@@ -2733,3 +2735,25 @@ und wie lange seine Schatten bleiben.
 *(Musik hört auf)*  
   
 [(*Gong \- \[OSODE\]*)]()  
+  
+# Transportplanung für die Aufführungen  
+  
+| Transportplanung: Aufführungen Trag deinen Namen ein\!  Wer sich an den Aufführungen einträgt, hat vor Ort die Verantwortung, dass alles rechtzeitig an seinem Platz ist.  Wer sich bei Transport einträgt, hat die Verantwortung den Transport UND die Aufbewahrung bis zum nächsten Termin zu übernehmen. Kostüme: Jede/r ist selbst dafür verantwortlich, dass sein/ihr Kostüm am Aufführungstag da ist\! Geräusche: Jede/r ist selbst dafür verantwortlich, Requisiten, die verbraucht werden (Wasser, Salzstangen, etc.) am Aufführungstag aufzufüllen.  |  |  |  |  |  |  |  |  |  |  |  |  
+| :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |  
+|  | Geräusch requisiten | Schiebetür (Geräusch)  | Teinacher \-Kästen | Bühnenbild | Maske  | Technik? Licht? Ton? | Catering | Sponsorenmaterial, Programmhefte, Flyer, Kasse | Kleines Bühnen Bild | Was noch? | Was noch? |  
+| Was? | 2 Taschen, Regenrohr, ?  | Tür, Schiene | 14 Sprudelkisten (klein), Sitzkissen | 2 Tischplatten, 2 Fronten, 4 Stangen, Deko (Laternen, Blumen) | 3 Kisten und Pinsel reinigen | ? | Verpflegung für Cast | Banner, Beachflag, Programmhefte, Flyer vom Frauennotruf, Bargeldkasse (Auffüllen des Bargeldes) | Minitisch, Ofen und Räucherstäbchen |  |  |  
+| 4.10.26 (GP) Abbau\!\!\! | vor Ort | vor Ort | Svenja | vor Ort | vor Ort, Svenja |  |  | / | Vor Ort, Julian |  |  |  
+| (11.10.26 Zusatz) Nur noch Geräusche\! | vor Ort | vor Ort | / | / | / | / | / | / |  |  |  |  
+| Transport |  |  |  |  | Svenja |  |  | Programmhefte: Adrian (?), Rest:Svenja | Julian |  |  |  
+| 16.10.26 (Aufbau und GP SB) |  |  |  |  | Svenja |  |  | Svenja | Julian |  |  |  
+| 17.10.26 (Auftritt SB) |  |  |  |  | Svenja |  |  | Svenja |  |  |  |  
+| Transport |  |  |  |  | Svenja |  |  | Svenja |  |  |  |  
+| 24.10.26 (Wadern) |  |  |  |  | Svenja |  |  | Svenja |  |  |  |  
+| Transport |  |  |  |  |  |  |  |  |  |  |  |  
+| 7\. Und 8.11.26 (Kaidan) |  |  |  |  |  |  |  |  |  |  |  |  
+| Transport |  |  |  |  |  |  |  |  | Julian |  |  |  
+| 13.11.26 (CEB) |  |  |  |  | Svenja |  |  | Svenja |  |  |  |  
+| 14.11.26 (CEB) |  |  |  |  |  |  |  |  |  |  |  |  
+| Transport |  |  |  |  | Svenja |  |  | Svenja |  |  |  |  
+| 20.11.26 (Saarhölzbach) |  |  |  |  | Svenja |  |  | Svenja |  |  |  |  
+| Transport in den Fundus oder Rückgabe zum Besitzer |  |  |  |  | Svenja |  |  | Svenja |  |  |  |  
