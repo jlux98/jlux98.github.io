@@ -15,7 +15,7 @@ Linksbündig: Geräuschkulissenbeschreibung
   
 **Einführung**  
   
-Einzug: “scheppernd” (alle außer Takuetsu). Naosuke oder Samon (je nach Bühnenaufbau) entzündet das Teelicht im Räucherkessel.  Iemon nimmt das größte Schwert mit, Naosuke das Tanto. Alle setzen sich.Ruhige Musik setzt ein.  
+Einzug: “scheppernd” (alle außer Takuetsu). Naosuke oder Samon (je nach Bühnenaufbau) entzündet das Teelicht im Räucherkessel.  Iemon nimmt das größte Schwert mit. Alle setzen sich.Ruhige Musik setzt ein.  
   
 [(Licht geht aus; nur eine Kerze/Laterne (Oiwa-Laterne vor kleinen Tisch) beleuchtet den Erzähler, Er stellt die Laterne ab. Licht auf Takuetsu.) (Prolog mit Shamisen und Trommel (\[NAOSUKE\]))]()  
   
@@ -1096,7 +1096,9 @@ Geliebter.
   
 **Ort: Garten am Haus Iemons; Figuren: Iemon, Oume, Ito Kihei, Oiwa**  
   
-==[**Geräuschkulisse Garten: Vogelgezwitscher \[OIWA\]**, Frosch/Zikaden \[OIWA\], ein sanfter Wind bewegt Bambus \[SATO\] und \[OSODE\], Klockbambus \[NAOSUKE\], Naosuke Mikro auf Kies, Schritte auf Kies \[TAKUETSU\]\]]()==  
+==[**Geräuschkulisse Garten: Vogelgezwitscher \[OIWA\]**, Frosch/Zikaden \[OIWA\], ein sanfter Wind bewegt Bambus \[SATO\] und \[OSODE\], Klockbambus \[NAOSUKE\], Schritte auf Kies \[TAKUETSU\]\]]()==  
+  
+[\[NAOSUKE\] Mikro auf Kies]()  
   
 ***ITO KIHEI***  
 Es war ein angemessener Tag.  
@@ -1266,7 +1268,7 @@ Schweig.
 ==**OIWA**  
 Jetzt…  
 siehst du mich.  
-(**STILLE** bis auf Klock-Bambus)==  
+[(**STILLE** bis auf Klock-Bambus \[NAOSUKE\])]()==  
   
 **IEMON**  
 (flüsternd, panisch beherrscht)  
@@ -1412,6 +1414,8 @@ Ich versprach dir die Treue. Und bleibe dir treu.==
 (beginnt zu schreien)  
 Hilfe\! Bitte\!  
   
+[(\[NAOSUKE\] Holzhammer vorbereiten)]()  
+  
 **IEMON**  
 Du wirst mich nicht mehr verfolgen\!  
   
@@ -1425,7 +1429,7 @@ Glaubst du, ich würde mein Schwert nicht gegen dich richten, böser Geist?
 Iemon? Warum habt ihr? Was ist mit euch?  
 Nein, legt das Schwert weg, ich bin doch eure…  
 (Schrei bricht ab)  
-[(Kopf und Körper fallen auf Boden (Sellerie, \[NAOSUKE\])]()  
+[(Kopf und Körper fallen auf Kies (Holzhammer, \[NAOSUKE\])]()  
 Stille.  
 [Klockbambus \[NAOSUKE\])]()  
 [**(Todes Thema \[Musik\], dann STILLE)**]()  
@@ -1444,7 +1448,7 @@ Und jetzt bist du allein
   
 mit mir.  
   
-(Letztes Geräusch Klockbambus)  
+[(Letztes Geräusch Klockbambus \[NAOSUKE\])]()  
   
 ### Szene 12: MorgenGrauen  
   
@@ -1891,7 +1895,7 @@ Feige und ehrenlos?==
 (kalt)  
 Nein.  
   
-[(Gerangel von Iemon und Oyumi \> Oyumi schreit \> Aufprall Körper auf Tisch, Knochenbrechen \[IEMON\] \> ein letztes Röcheln) (Aufschlag: Schlag auf Kies \[NAOSUKE\], Klatschen in hohle Hand (SATO), (Wellen (Kies \- \[OSODE\], \[NAOSUKE\] klappt Mikro hoch))]()  
+[(Gerangel von Iemon und Oyumi \> Oyumi schreit \> Aufprall Körper auf Tisch, Knochenbrechen \[IEMON\] \> ein letztes Röcheln) (Aufschlag: Schlag auf Kies \[NAOSUKE\], Klatschen in hohle Hand (\[SATO\]), (Wellen (Kies \- \[OSODE\], \[NAOSUKE\] klappt Mikro hoch))]()  
 [**(Todes Thema \[Musik\])**]()  
   
 ==**OIWA**  
@@ -2170,7 +2174,9 @@ Was? Nein, Osode\! Sato. Ich wollte doch nicht. Ich, ich dachte \-
 **SATO**  
 Du dachtest nur an dich. Lauf, Priester, lauf. Oder ich werde Osodes Wunsch nicht erfüllen können\!  
   
-[(Schnelle Schritte auf Kies, die sich langsam entfernen \[IEMON\])]()  
+[(\[NAOSUKE\] reagiert auf Drohung (Aufschrei etc.))]()  
+  
+[(Flucht Naosuke: Schnelle Schritte auf Kies, die sich langsam entfernen \[IEMON\])]()  
 [**\[MUSIK untermalt die Flucht\]**]()  
   
 ### Szene 18: Sweet Home Alabama  
@@ -2633,7 +2639,7 @@ Dann töte sie.==
 **SATO**  
 (ruhig, klar)  
 Iemon.  
-(Alle Geräusche verstummen. Nur Iemons Atem. Ba)  
+[(\[ALLE\] Geräusche verstummen. Nur \[IEMON\]s Atem ist zu hören)]()  
   
 **IEMON**  
 (zitternd)  
@@ -2740,20 +2746,20 @@ und wie lange seine Schatten bleiben.
   
 | Transportplanung: Aufführungen Trag deinen Namen ein\!  Wer sich an den Aufführungen einträgt, hat vor Ort die Verantwortung, dass alles rechtzeitig an seinem Platz ist.  Wer sich bei Transport einträgt, hat die Verantwortung den Transport UND die Aufbewahrung bis zum nächsten Termin zu übernehmen. Kostüme: Jede/r ist selbst dafür verantwortlich, dass sein/ihr Kostüm am Aufführungstag da ist\! Geräusche: Jede/r ist selbst dafür verantwortlich, Requisiten, die verbraucht werden (Wasser, Salzstangen, etc.) am Aufführungstag aufzufüllen.  |  |  |  |  |  |  |  |  |  |  |  |  
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |  
-|  | Geräusch requisiten | Schiebetür (Geräusch)  | Teinacher \-Kästen | Bühnenbild | Maske  | Technik? Licht? Ton? | Catering | Sponsorenmaterial, Programmhefte, Flyer, Kasse | Kleines Bühnen Bild | Was noch? | Was noch? |  
-| Was? | 2 Taschen, Regenrohr, ?  | Tür, Schiene | 14 Sprudelkisten (klein), Sitzkissen | 2 Tischplatten, 2 Fronten, 4 Stangen, Deko (Laternen, Blumen) | 3 Kisten und Pinsel reinigen | ? | Verpflegung für Cast | Banner, Beachflag, Programmhefte, Flyer vom Frauennotruf, Bargeldkasse (Auffüllen des Bargeldes) | Minitisch, Ofen und Räucherstäbchen |  |  |  
-| 4.10.26 (GP) Abbau\!\!\! | vor Ort | vor Ort | Svenja | vor Ort | vor Ort, Svenja |  |  | / | Vor Ort, Julian |  |  |  
-| (11.10.26 Zusatz) Nur noch Geräusche\! | vor Ort | vor Ort | / | / | / | / | / | / |  |  |  |  
-| Transport |  |  |  |  | Svenja |  |  | Programmhefte: Adrian (?), Rest:Svenja | Julian |  |  |  
-| 16.10.26 (Aufbau und GP SB) |  |  |  |  | Svenja |  |  | Svenja | Julian |  |  |  
-| 17.10.26 (Auftritt SB) |  |  |  |  | Svenja |  |  | Svenja |  |  |  |  
-| Transport |  |  |  |  | Svenja |  |  | Svenja |  |  |  |  
-| 24.10.26 (Wadern) |  |  |  |  | Svenja |  |  | Svenja |  |  |  |  
-| Transport |  |  |  |  |  |  |  |  |  |  |  |  
-| 7\. Und 8.11.26 (Kaidan) |  |  |  |  |  |  |  |  |  |  |  |  
-| Transport |  |  |  |  |  |  |  |  | Julian |  |  |  
-| 13.11.26 (CEB) |  |  |  |  | Svenja |  |  | Svenja |  |  |  |  
-| 14.11.26 (CEB) |  |  |  |  |  |  |  |  |  |  |  |  
-| Transport |  |  |  |  | Svenja |  |  | Svenja |  |  |  |  
-| 20.11.26 (Saarhölzbach) |  |  |  |  | Svenja |  |  | Svenja |  |  |  |  
-| Transport in den Fundus oder Rückgabe zum Besitzer |  |  |  |  | Svenja |  |  | Svenja |  |  |  |  
+|  | Geräusch requisiten | Schiebetür (Geräusche)  | Teinacher \-Kästen | Bühnenbild | Maske  | Technik | Catering | Sponsorenmaterial, Programmhefte, Flyer, Kasse | Kleines Bühnen Bild | Getränke für Verkauf  (nur CEB) | Was noch? |  
+| Was? | 2 Taschen, Regenrohr, ?  | Tür, Schiene, Klockbambus,  Schwerte | 14 Sprudelkisten (klein), 6 Sitzkissen | 2 Tischplatten, 2 Fronten, 4 Stangen, Deko (Laternen, Blumen) Seil 4 Eimer mit Kies | 3 Kisten und Pinsel reinigen | 2 Lautsprecher, 2 Stative, Kiste mit schwarzem Stoff  | Verpflegung für Cast | Banner, Beachflag, Programmhefte, Flyer vom Frauennotruf, Bargeldkasse (Auffüllen des Bargeldes) | Minitisch, Ofen und Räucherstäbchen | Getränke und Snacks  (Jule ist Leitung) |  |  
+| 4.10.26 (GP) Abbau\!\!\! | vor Ort Wiebke | vor Ort | Svenja | vor Ort | vor Ort, Svenja | Mathias Und Svenja | / | / | Vor Ort, Julian | / |  |  
+| (11.10.26 Zusatz) Nur noch Geräusche\! | vor Ort Wiebke | vor Ort | / | vor Ort | / | / | / | / | Nicht vor Ort  | / |  |  
+| Transport | Wiebke | Simon | Jojo | Tristan | Svenja | Julian | Adrian | Programmhefte: Adrian (?), Rest:Svenja | Julian | / |  |  
+| 16.10.26 (Aufbau und GP SB) | Wiebke | Simon | Jojo | Tristan | Svenja | Julian | Adrian | Svenja | Julian | / |  |  
+| 17.10.26 (Auftritt SB) | Wiebke | Simon | Jojo | Tristan | Svenja | Julian  | Adrian | Svenja | Julian | / |  |  
+| Transport | Wiebke | Jule | Jojo | Tristan nach Wadrill, von Wadrill nach Wadern Jan | Svenja | Julian nach Wadrill, Von Wadrill nach Wadern Jan | / | Svenja | Julian nach Wadrill, Von Wadrill nach Wadern Jan | / |  |  
+| 24.10.26 (Wadern) | Wiebke | Jule | Jojo | Jan | Svenja | Jan | Kauf vor Ort | Svenja | Jan | / |  |  
+| Transport | Wiebke | Jule | Jojo | Julian/ Mathias | Wiebke | Julian? | Adrian | Adrian | Julian  | / |  |  
+| 7\. Und 8.11.26 (Kaidan) | Wiebke | Jule | Jojo | Julian/ Mathias | Wiebke | Julian | Adrian | Adrian | Julian  | / |  |  
+| Transport | Wiebke | Jule (Schlüssel CEB\!) | Jojo | Julian/ Mathias | Wiebke | Julian | Adrian | Adrian | Julian | Jule |  |  
+| 13.11.26 (CEB) | Wiebke | Jule | Jojo | Tristan | Svenja | Julian  | Adrian | Svenja | Julian | Jule (Verkauf: Jan und Wiebke) |  |  
+| 14.11.26 (CEB) | Wiebke | Jule | Jojo | Tristan | Jacky | Julian | Adrian | Adrian | Julian | Jule (Verkauf: Jule und Wiebke) |  |  
+| Transport | Wiebke | Simon | Jojo | Tristan | Jacky | Julian | Adrian | Svenja | Julian  | Jule |  |  
+| 20.11.26 (Saarhölzbach) | Wiebke | Simon | Jojo | Tristan | Jacky Später: Svenja | Julian | Adrian | Svenja | Julian  | / |  |  
+| Transport in den Fundus oder Rückgabe zum Besitzer | Wiebke | Jule | Jojo | Tristan | Svenja | Julian | Adrian | Svenja | Julian | / |  |  
