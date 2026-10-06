@@ -1,13 +1,13 @@
 # Yotsuya Companion Website
 
-## [Volltext](./full-text.html)
+## [Volltext](./v1/full-text.html)
 
-## [markiert für Oiwa](./oiwa-text.html)
+## [markiert für Oiwa](./v1/oiwa-text.html)
 
-## [markiert für Iemon](./iemon-text.html)
+## [markiert für Iemon](./v1/iemon-text.html)
 
-## [markiert für Naosuke](./naosuke-text.html)
+## [markiert für Naosuke](./v1/naosuke-text.html)
 
-## [markiert für Satô](./sato-text.html)
+## [markiert für Satô](./v1/sato-text.html)
 
-## [markiert für Takuetsu](./sato-text.html)
+## [markiert für Takuetsu](./v1/takuetsu-text.html)
