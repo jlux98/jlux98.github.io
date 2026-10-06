@@ -56,8 +56,8 @@ echo "$MARKDOWN_TEXT" > full-text.md
 # MARKDOWN_TEXT="$(echo "$MARKDOWN_TEXT" | tr '\n' '|')"
 
 if [[ $PANDOC_INSTALLED == "TRUE" ]]; then
-convert_with_css "README" "index"
-convert_with_css "full-text"
+    convert_with_css "README" "index" "Yotsuya Companion Page"
+    convert_with_css "full-text" "full-text" "Full Text"
     source ./render-actor-parts.sh "full-text.md"
 fi
 

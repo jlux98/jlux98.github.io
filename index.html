@@ -1,139 +1,228 @@
-<link rel="stylesheet" type="text/css" href="minimal.css">
-<!--
-Source - https://stackoverflow.com/a/34635971
-Posted by Lukas Sommer, modified by community. See post 'Timeline' for change history
-Retrieved 2026-09-20, License - CC BY-SA 3.0
--->
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <meta name="generator" content="pandoc">
+    <meta name="description" content="">
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/mdbassit/Coloris@latest/dist/coloris.min.css" />
-<script src="https://cdn.jsdelivr.net/gh/mdbassit/Coloris@latest/dist/coloris.min.js"></script>
+    <title>Yotsuya Companion Page</title>
 
-<!-- The CSS is assumed to apply “display=none” to the elements
-with class="no-print" when used for printing. -->
-<header class="zoom-header">
-  <p class="no-print">
-    <!-- Some text size tools.
-  The CSS is assumed to apply “display=none” to the elements
-  with id="textSizeTools". So the text size tools are
-  by default invisible and do not take any space in the default
-  rendering. -->
-    <span id="textSizeTools">
-      [<span class="linkStyle zoomInCursor" onclick="javascript:resizeText(true)">
-        größer
-      </span>]
-      –
-      [<span class="linkStyle zoomOutCursor" onclick="javascript:resizeText(false)">
-        kleiner
-      </span>]
-    </span>
+    <!-- Bootstrap core CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
 
-    <label class="color-label">
-      <span>Geräusche</span>
-      <input type="text" class="coloris" id="soundsPicker" value="#79A6D8">
-    </label>
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <link href="https://maxcdn.bootstrapcdn.com/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
 
-    <label class="color-label">
-      <span>Einsätze</span>
-      <input type="text" class="coloris" id="markPicker" value="#573875">
-    </label>
+    <!-- Custom styles for this template -->
+    <link href="https://mushiyo.github.io/pandoc-toc-sidebar/css/dashboard.css" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <style type="text/css">code{white-space: pre;}</style>
+    <style type="text/css">.sidebar ul{padding-left: 10px;}</style>
+  </head>
+
+  <body>
+    <link rel="stylesheet" type="text/css" href="minimal.css">
+    <!--
+    Source - https://stackoverflow.com/a/34635971
+    Posted by Lukas Sommer, modified by community. See post 'Timeline' for change history
+    Retrieved 2026-09-20, License - CC BY-SA 3.0
+    -->
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/mdbassit/Coloris@latest/dist/coloris.min.css" />
+    <script src="https://cdn.jsdelivr.net/gh/mdbassit/Coloris@latest/dist/coloris.min.js"></script>
+
+    <!-- The CSS is assumed to apply “display=none” to the elements
+    with class="no-print" when used for printing. -->
+    <header class="zoom-header">
+      <p class="no-print">
+        <!-- Some text size tools.
+      The CSS is assumed to apply “display=none” to the elements
+      with id="textSizeTools". So the text size tools are
+      by default invisible and do not take any space in the default
+      rendering. -->
+        <span id="textSizeTools">
+          [<span class="linkStyle zoomInCursor" onclick="javascript:resizeText(true)">
+            größer
+          </span>]
+          –
+          [<span class="linkStyle zoomOutCursor" onclick="javascript:resizeText(false)">
+            kleiner
+          </span>]
+        </span>
+
+        <label class="color-label">
+          <span>Geräusche</span>
+          <input type="text" class="coloris" id="soundsPicker" value="#79A6D8">
+        </label>
+
+        <label class="color-label">
+          <span>Einsätze</span>
+          <input type="text" class="coloris" id="markPicker" value="#573875">
+        </label>
 
 
-    <button id="themeToggle" type="button" aria-label="Switch to light mode">
-      ☀️
-    </button>
-  </p>
-</header>
-<script>
-  /* document.body.style.fontSize is empty – though “font-size=100%” is set in
-   * the CSS. We initialize it here with the value "100%", that
-   * corresponds to our CSS entry . From
-   * now on, the value is available in ECMAScript. */
-  document.body.style.fontSize = "100%";
-  var resizeText = (function () {
-    'use strict';
-    var step = 0;
-    return function (bigger) {
-      if (bigger !== true) {
-        step -= 1;
-      } else {
-        step += 1;
+        <button id="themeToggle" type="button" aria-label="Switch to light mode">
+          ☀️
+        </button>
+      </p>
+    </header>
+    <script>
+      /* document.body.style.fontSize is empty – though “font-size=100%” is set in
+       * the CSS. We initialize it here with the value "100%", that
+       * corresponds to our CSS entry . From
+       * now on, the value is available in ECMAScript. */
+      document.body.style.fontSize = "100%";
+      var resizeText = (function () {
+        'use strict';
+        var step = 0;
+        return function (bigger) {
+          if (bigger !== true) {
+            step -= 1;
+          } else {
+            step += 1;
+          }
+          document.body.style.fontSize = 100 * Math.pow(1.2, step) + "%";
+        };
+      }());
+      /* If the browser is scripting-enabled, than this script will be executed
+       * and the text size tools will become visible. If the browser is not scripting-enabled,
+       * than this script will not be executed and the text size tools will stay hidden.
+       * This is intentional, because without scripting, the text size tools would not
+       * work, and it is not good if the user can see buttons and links that
+       * do not work. The same is if this script does not work because some
+       * of the commands do not work in the current browser: The script cannot
+       * be executed until here, so the text size tools will not be made
+       * visible. */
+      document.getElementById("textSizeTools").style.display = 'initial';
+    </script>
+
+    <script>
+      Coloris({
+        el: '#soundsPicker',
+        theme: 'dark',
+        themeInline: false,
+        alpha: false,
+        format: 'hex',
+        swatches: ['#573875', '#79A6D8', '#0d1109', '#F5E8B7', '#ffffff']
+      });
+
+      document.querySelector('#soundsPicker').addEventListener('input', (e) => {
+        document.documentElement.style.setProperty('--color-links', e.target.value);
+      });
+    </script>
+    <script>
+      Coloris({
+        el: '#markPicker',
+        theme: 'dark',
+        themeInline: false,
+        alpha: false,
+        format: 'hex',
+        swatches: ['#573875', '#79A6D8', '#0d1109', '#F5E8B7', '#ffffff']
+      });
+
+      document.querySelector('#markPicker').addEventListener('input', (e) => {
+        document.documentElement.style.setProperty('--color-highlights', e.target.value);
+      });
+    </script>
+    <script>
+      const root = document.documentElement;
+      const toggle = document.getElementById("themeToggle");
+
+      function applyTheme(mode) {
+        root.dataset.theme = mode;
+        toggle.textContent = mode === "dark" ? "☀️" : "🌙";
+        toggle.setAttribute(
+          "aria-label",
+          mode === "dark" ? "Switch to light mode" : "Switch to dark mode"
+        );
+        localStorage.setItem("theme", mode);
       }
-      document.body.style.fontSize = 100 * Math.pow(1.2, step) + "%";
-    };
-  }());
-  /* If the browser is scripting-enabled, than this script will be executed
-   * and the text size tools will become visible. If the browser is not scripting-enabled,
-   * than this script will not be executed and the text size tools will stay hidden.
-   * This is intentional, because without scripting, the text size tools would not
-   * work, and it is not good if the user can see buttons and links that
-   * do not work. The same is if this script does not work because some
-   * of the commands do not work in the current browser: The script cannot
-   * be executed until here, so the text size tools will not be made
-   * visible. */
-  document.getElementById("textSizeTools").style.display = 'initial';
-</script>
 
-<script>
-  Coloris({
-    el: '#soundsPicker',
-    theme: 'dark',
-    themeInline: false,
-    alpha: false,
-    format: 'hex',
-    swatches: ['#573875', '#79A6D8', '#0d1109', '#F5E8B7', '#ffffff']
-  });
+      const savedTheme = localStorage.getItem("theme") || "dark";
+      applyTheme(savedTheme);
 
-  document.querySelector('#soundsPicker').addEventListener('input', (e) => {
-    document.documentElement.style.setProperty('--color-links', e.target.value);
-  });
-</script>
-<script>
-  Coloris({
-    el: '#markPicker',
-    theme: 'dark',
-    themeInline: false,
-    alpha: false,
-    format: 'hex',
-    swatches: ['#573875', '#79A6D8', '#0d1109', '#F5E8B7', '#ffffff']
-  });
+      toggle.addEventListener("click", () => {
+        const next = root.dataset.theme === "dark" ? "light" : "dark";
+        applyTheme(next);
+      });
+    </script>
+    <body>
 
-  document.querySelector('#markPicker').addEventListener('input', (e) => {
-    document.documentElement.style.setProperty('--color-highlights', e.target.value);
-  });
-</script>
-<script>
-  const root = document.documentElement;
-  const toggle = document.getElementById("themeToggle");
-
-  function applyTheme(mode) {
-    root.dataset.theme = mode;
-    toggle.textContent = mode === "dark" ? "☀️" : "🌙";
-    toggle.setAttribute(
-      "aria-label",
-      mode === "dark" ? "Switch to light mode" : "Switch to dark mode"
-    );
-    localStorage.setItem("theme", mode);
-  }
-
-  const savedTheme = localStorage.getItem("theme") || "dark";
-  applyTheme(savedTheme);
-
-  toggle.addEventListener("click", () => {
-    const next = root.dataset.theme === "dark" ? "light" : "dark";
-    applyTheme(next);
-  });
-</script>
-<body>
+    <div class="container-fluid">
+      <div class="row">
+        <div id="sidebar" class="col-sm-3 col-md-2 sidebar">
+          <!--<ul class="nav nav-sidebar">
+            <li class="active"><a href="#">Overview <span class="sr-only">(current)</span></a></li>
+          </ul>-->
+          <ul>
+          <li><a href="#yotsuya-companion-website"
+          id="toc-yotsuya-companion-website">Yotsuya Companion
+          Website</a>
+          <ul>
+          <li><a href="#volltext" id="toc-volltext">Volltext</a></li>
+          <li><a href="#markiert-für-oiwa"
+          id="toc-markiert-für-oiwa">markiert für Oiwa</a></li>
+          <li><a href="#markiert-für-iemon"
+          id="toc-markiert-für-iemon">markiert für Iemon</a></li>
+          <li><a href="#markiert-für-naosuke"
+          id="toc-markiert-für-naosuke">markiert für Naosuke</a></li>
+          <li><a href="#markiert-für-satô"
+          id="toc-markiert-für-satô">markiert für Satô</a></li>
+          <li><a href="#markiert-für-takuetsu"
+          id="toc-markiert-für-takuetsu">markiert für Takuetsu</a></li>
+          </ul></li>
+          </ul>
+        </div>
+        <div class="col-sm-9 col-sm-offset-3 col-md-10 col-md-offset-2 main">
+        
 <h1 id="yotsuya-companion-website">Yotsuya Companion Website</h1>
-<h2 id="volltext"><a href="./full-text.html">Volltext</a></h2>
-<h2 id="markiert-für-oiwa"><a href="./oiwa-text.html">markiert für
+<h2 id="volltext"><a href="./v1/full-text.html">Volltext</a></h2>
+<h2 id="markiert-für-oiwa"><a href="./v1/oiwa-text.html">markiert für
 Oiwa</a></h2>
-<h2 id="markiert-für-iemon"><a href="./iemon-text.html">markiert für
+<h2 id="markiert-für-iemon"><a href="./v1/iemon-text.html">markiert für
 Iemon</a></h2>
-<h2 id="markiert-für-naosuke"><a href="./naosuke-text.html">markiert für
-Naosuke</a></h2>
-<h2 id="markiert-für-satô"><a href="./sato-text.html">markiert für
+<h2 id="markiert-für-naosuke"><a href="./v1/naosuke-text.html">markiert
+für Naosuke</a></h2>
+<h2 id="markiert-für-satô"><a href="./v1/sato-text.html">markiert für
 Satô</a></h2>
-<h2 id="markiert-für-takuetsu"><a href="./sato-text.html">markiert für
-Takuetsu</a></h2>
+<h2 id="markiert-für-takuetsu"><a
+href="./v1/takuetsu-text.html">markiert für Takuetsu</a></h2>
+        </div>
+      </div>
+    </div>
+    
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <script src="https://maxcdn.bootstrapcdn.com/js/ie10-viewport-bug-workaround.js"></script>
+    <script>
+        //document.getElementById('sidebar').getElementsByTagName('ul')[0].className += "nav nav-sidebar";
+        
+        /* ajust the height when click the toc
+           the code is from https://github.com/twbs/bootstrap/issues/1768
+        */
+        var shiftWindow = function() { scrollBy(0, -50) };
+        window.addEventListener("hashchange", shiftWindow);
+        function load() { if (window.location.hash) shiftWindow(); }
+        
+        /*add Bootstrap styles to tables*/
+        var tables = document.getElementsByTagName("table");
+        for(var i = 0; i < tables.length; ++i){
+            tables[i].className += "table table-bordered table-hover";
+        }
+    </script>
+  </body>
+</html>
 </body>

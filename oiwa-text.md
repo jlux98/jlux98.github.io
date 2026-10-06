@@ -13,7 +13,9 @@ Orange: Technik
 ´GROSS: Schauspieler:In  
 Linksbündig: Geräuschkulissenbeschreibung  
   
-**Einführung**  
+## Akt 1  
+  
+Einführung  
   
 Einzug: “scheppernd” (alle außer Takuetsu). Naosuke oder Samon (je nach Bühnenaufbau) entzündet das Teelicht im Räucherkessel.  Iemon nimmt das größte Schwert mit. Alle setzen sich.Ruhige Musik setzt ein.  
   
