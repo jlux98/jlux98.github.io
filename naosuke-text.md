@@ -13,7 +13,9 @@ Orange: Technik
 ´GROSS: Schauspieler:In  
 Linksbündig: Geräuschkulissenbeschreibung  
   
-**Einführung**  
+## Akt 1  
+  
+Einführung  
   
 Einzug: “scheppernd” (alle außer Takuetsu). Naosuke oder Samon (je nach Bühnenaufbau) entzündet das Teelicht im Räucherkessel.  Iemon nimmt das größte Schwert mit. Alle setzen sich.Ruhige Musik setzt ein.  
   
@@ -159,7 +161,7 @@ Naosuke, du solltest lieber jemand anderen anhimmeln. Meine Frau ist nicht für 
 Naosuke-san... Ich habe dir oft gesagt: Ich bin verheiratet. Und ich wähle aus, wem ich Gesellschaft leiste.  
   
 ==**NAOSUKE**  
-Ich verlange keine Gesellschaft... nur, dass du mich ansiehst, wie früher.==  
+Ich verlange keine Gesellschaft... nur, dass du mich wieder ansiehst, wie du es früher getan hast.==  
   
 **TAKUETSU**  
 Früher?  
@@ -177,7 +179,6 @@ Genug, Takuetsu. Sato\!
 **TAKUETSU**  
 Ach was\! Wir scherzen nur.  
 Aber sag mir Naosuke-san, wie fühlt es sich an, zu wissen, dass deine Geliebte hier Tee serviert und du ihn trotzdem nicht trinken darfst?  
-*(Kurzes Schweigen)*  
   
 ==**NAOSUKE**  
 *(schlägt mit Faust auf Tisch)* Ihr könnt lachen... alle.  
@@ -332,7 +333,7 @@ Vater.
 [\[IEMON\] Mikrofon auf Kies]()  
   
 ==**NAOSUKE**  
-*(flüsternd, zu sich selbst)*  
+*(aufgebracht, zu sich selbst)*  
 Da steht er... der Bastard... Osode-chans Mann...  
 Er hat sie mir genommen und wegen ihm ist sie in diesem Bordell.==  
   
@@ -341,11 +342,13 @@ Er hat sie mir genommen und wegen ihm ist sie in diesem Bordell.==
 Verfluchter Regen…  
   
 ==**NAOSUKE**  
-*(flüsternd, zu sich selbst)*  
+*(gewaltbereit, zu sich selbst)*  
 Sie hat gesagt... sie liebt keinen anderen...  
 Aber du... du hast sie beschmutzt…==  
   
-==[*(Meister wird erstochen: Eine Klinge (Tanto: \[NAOSUKE\]) wird gezogen \[OSODE\]  \> 4 rasche Schritte auf Kies \[IEMON\] \> Stoff reißen \[TAKUETSU\] und gleichzeitiger Aufprall \[NAOSUKE\] \> Aufschrei \> Röcheln)*]()==  
+==[*(Meister wird erstochen: Tanto \[NAOSUKE\]) wird gezogen \[OSODE\]*]()==  
+[*\> 4 rasche Schritte auf Kies \[IEMON\]*]()  
+==[*\> Stoff reißen \[TAKUETSU\] & Aufprall \[NAOSUKE\] \> Aufschrei \> Röcheln)*]()==  
   
 ==**NAOSUKE**  
 Endlich, Sato-san. Lass mich sehen wie du…==  
@@ -387,8 +390,8 @@ Nein... nein, sie werden mich finden
   
 ==**NAOSUKE**  
 *(keuchend, nervös)*  
-Iemon\! Bist du da? Du sagtest mir, du wärest  heute noch im Haus deines Schwiegervaters\!  
-Öffne… ich flehe dich an\!i==  
+Iemon\! Bist du da? Du hast gesagt du bist heute im Haus deines Schwiegervaters\!  
+Öffne… ich flehe dich an\!==  
   
 [*(Tür wird langsam geöffnet \[OSODE\])*]()  
 **IEMON**  
@@ -397,9 +400,9 @@ Naosuke. Du kommst zu einer Stunde, in der kein guter Mensch mehr auf den Wegen 
 Was treibt dich hierher?  
   
 ==**NAOSUKE**  
-*(flüstert, ringt nach Luft)*  
+*(ringt nach Luft)*  
 Ich musste dich finden… ich konnte zu niemand anderem.  
-Mein Meister, ich habe ihn getötet.  
+Mein Meister, ich habe ihn...  
 Es war ein Versehen, eine Verwechslung. Ich wollte nie…==  
   
 **IEMON**  
@@ -411,6 +414,7 @@ Du bittest um Vergebung? Um Schutz?
 *(flehend)*  
 Du bist der einzige, der mich nicht ausliefern wird.  
 Wenn die Beamten fragen, ich sage, ich war hier, bei dir, im Hause deiner Schwiegerfamilie.  
+*(ringt nach Atem)*  
 Eine ehrbare Familie, ein Samurai… eure Worte werden Gewicht haben.==  
   
 **IEMON**  
@@ -418,7 +422,8 @@ Ein Alibi also.
 Und du willst mich in deine Tat verstricken?  
   
 ==**NAOSUKE**  
-Nur du kannst mir helfen. Und ich werde in deiner Schuld stehen.==  
+Nur du kannst mir helfen.  
+*(verhandelnd)* Und ich werde in deiner Schuld stehen\!==  
   
 **IEMON**  
 Tritt ein.  
@@ -426,8 +431,8 @@ Tritt ein.
 [*(Schritte auf Holz \[OIWA\], Tür schließt \[OSODE\], Starker Regen stopp \[SATO\], leichter Regen \[OIWA\], Feuer \[TAKUETSU\])*]()  
   
 ==**NAOSUKE**  
-Iemon… was… liegt dort?  
-Ist… das Samon-sama?==  
+Iemon… was… liegt dort auf dem Boden?  
+Ist das etwa… Samon-sama?==  
   
 [**(\[OIWA\]: REGENTROMMEL ZU \[SATO\])**]()  
   
@@ -437,21 +442,21 @@ Ich konnte nichts tun.
   
 ==**NAOSUKE**  
 Ein… Einbrecher also?  
-Wenn ich aussagen würde, ich hätte einen Fremden über die Mauer fliehen sehen…==  
+[(Zustimmungsgeräusch \[IEMON\])]()  
+Wenn ich also aussagen würde, ich hätte einen Fremden über die Mauer fliehen sehen…==  
   
 **IEMON**  
 Dann wären wir beide geschützt.  
   
 ==**NAOSUKE:**  
-Ja…  
-Ein Alibi für dich… und eines für mich.  
+Es wäre ein Alibi für dich… und für mich.  
 Wir wären miteinander verbunden.==  
   
 **IEMON**  
 Und was forderst du für dein Schweigen…und deine Aussage?  
   
 ==**NAOSUKE**  
-Wenn du nun Oberhaupt der Familie wirst…  
+Da du ab jetzt Oberhaupt der Familie sein wirst…  
 Löse die Ehe deiner Schwägerin Osode und gib sie mir.  
 Dafür binde ich mein Schicksal an dieses Haus… und an dich.==  
   
@@ -462,7 +467,7 @@ Einer lügt, einer schweigt. Zwei Männer jagen einen Mörder, der nicht existie
 So soll es sein.  
   
 ==**NAOSUKE**  
-Wir schwören also, den Mörder zu finden… den es nicht gibt.==  
+Wir werden schwören, den Einbrecher zu finden… den es nicht gibt.==  
   
 **IEMON**  
 Bis die Toten selbst sprechen.  
@@ -500,7 +505,7 @@ Euer geliebter Vater\!
 Naosuke-san und ich betraten gerade den Garten, als wir jemanden über die Mauer klettern sahen. Es ging zu schnell, wir konnten nicht mehr reagieren. Dann haben wir den guten Samon-sama gefunden. Er hat sich sicher dem Einbrecher in den Weg gestellt.  
   
 ==**NAOSUKE**  
-Ja, genau so war es. Ich habe den Mörder genau gesehen, ein grobschlächtiger Mann. Ich würde ihn sicher wiedererkennen.==  
+Ja, genau so war es. Ich habe den Mörder auch genau gesehen, ein grobschlächtiger Mann. Ich würde ihn sicher wiedererkennen.==  
   
 **OSODE**  
 Vater, das kann nicht sein. Das darf nicht.  
@@ -517,7 +522,7 @@ Ich werde aber Hilfe von Naosuke-san benötigen. Er hat das Gesicht des Täters 
 Da dies aber eine Angelegenheit unserer Familie ist, kann ich ihn nicht einfach dort hineinziehen.  
   
 ==**NAOSUKE**  
-Nun, werter Iemon-sama. Ich bin bereit, mich an eure Familie zu binden und dann gemeinsam mit euch den Mörder zu stellen.==  
+Werter Iemon-sama. Ich bin gerne bereit, mich an eure Familie zu binden und dann gemeinsam mit euch den Mörder zu stellen.==  
   
 **OSODE**  
 Was meint ihr? An uns binden?  
@@ -618,6 +623,8 @@ Das werde ich. Ich hoffe, wir sehen uns bald wieder, Oiwa-sama.
   
 [*(Schritte \[OIWA\] –\> Öffnen Schiebetür \[OSODE\])*]()  
   
+(kurze Sprechpause)  
+  
 **OIWA**  
 Ein nettes Mädchen, auch wenn sie etwas verzogen ist.  
 *(Lauter)*  
@@ -627,21 +634,24 @@ Aki. Komm und hilf mir. Der alte Arzt von nebenan hat extra eine Salbe für mich
 (gedämpft)  
 Ja Herrin.  
   
-==[*(Schritte \[OIWA\]),Schiebetür zu \[OSODE\], Platz nehmen (Stoff \[NAOSUKE\] und Matte \[OSODE\]*]()==  
+[*(einige Schritte \[OIWA\])*]()  
+==[*Schiebetür zu \[OSODE\], Platz nehmen (Stoff \[NAOSUKE\] und Matte \[OSODE\]*]()==  
   
+**AKI**  
 Ich fange dann an, Herrin.  
   
 [*(Öffnen Salbendöschen \[OIWA\]) (Eincremegeräusch, Eincremen vorm Mikrofon, \[IEMON\])*]()  
 [ *(Windspiel endet, Hautreißen vorbereiten \[SATO\],* ]()  
   
 **OIWA**  
-Sehr schön Aki. (PAUSE.)  
+Sehr schön Aki.  
+*(Sprechpause)*  
 vergiss den Hals nicht.  
   
 **AKI**  
 Natürlich, Herrin.  
   
-[*(Eincremegeräusch, Eincremen vorm Mikrofon, \[IEMON\])*]()  
+[*(Eincremegeräusch, Eincremen vorm Mikrofon, \[IEMON\], leichte Geräusche des Unbehagens \[OIWA\])*]()  
   
 **OIWA**  
 Oh man spürt die Wirkung ja richtig. Die Salbe sie… sie brennt\!  
@@ -653,6 +663,7 @@ Mach sie ab Aki, mach sie sie ab. (Musik setzt ein, wird immer unruhiger)
 (panisch)  
 Herrin, haltet still, bitte\!  
 Sonst kann ich euch nicht helfen\!  
+*(Panisches Atmen, reiben)*  
 Oiwa-sama\!  
   
 *(Schweres Atmen von Oiwa)*  
@@ -680,7 +691,7 @@ Bitte, Herrin, ich tue mein Bestes, aber meine Hände, sie brennen auch\!
 Es fühlt sich an, als schälte sich meine Haut…\! Warum… warum ist die Salbe so heiß?\!  
   
 **AKI**  
-Ich weiß es nicht\!  
+*(zwischen Zähnen)* Ich weiß es nicht\!  
   
 **OIWA**  
 *(zwischen Zähnen, voller Zorn und Verzweiflung)*  
@@ -1458,7 +1469,7 @@ mit mir.
 [**Geräuschkulisse: Hahnenschrei \[IEMON\]** –\> Wind in Bambus \[SATO\], \[OSODE\], Vogelgezwitscher \[OIWA\]]()  
   
 ==**NAOSUKE**  
-Ihr habt nach mir schicken lassen, Iemon?==  
+*(noch nicht ganz wach)* Ihr habt nach mir schicken lassen, Iemon?==  
   
 **IEMON**  
 Ja, es ist etwas geschehen.  
@@ -1474,7 +1485,7 @@ Und ihr Großvater.
 In derselben Nacht.  
   
 ==**NAOSUKE**  
-Was…?  
+*(plötzlich hellwach)* Was…?\!  
 Aber ihr habt doch gestern erst die Hochzeit gefeiert.==  
   
 **IEMON**  
@@ -1513,7 +1524,7 @@ Nicht immer.
 Aber… oft.  
   
 ==**NAOSUKE**  
-*(wie zu einem Psychotischen)* Ihr solltet vielleicht Hilfe suchen, bei uns im Tempel.==  
+*(wie zu einem Psychotischen)* Ihr solltet vielleicht Hilfe suchen, bei uns im Tempel?==  
   
 **IEMON**  
 Ich bin nicht verrückt.  
@@ -1531,7 +1542,7 @@ Gut.
 Denn wenn du es nicht tätest…  
   
 ==**NAOSUKE**  
-Ich stehe… auf eurer Seite==  
+*(in Todesangst)* Natürlich\! Ich stehe… ich stehe auf eurer Seite==  
   
 [(Ein Vogel flattert auf) \[OIWA\]]()  
   
@@ -1549,7 +1560,8 @@ Dein Bordell ist berühmter als der Tempel.
   
 **TAKUETSU**  
 Die Leute kommen aber nicht wegen der Gebete.  
-[*(Beide lachen. Die Tür* \[OSODE\] & \[OIWA\] *wird hastig aufgeschoben. Kurzes Atmen von Iemon, Iemon tritt ein, Schritte auf Holz \[OIWA\] – ungepflegt, atemlos, Gelächter hört auf, erschrockenes Tuscheln)*]()  
+[*(Beide lachen. Die Tür* \[OSODE\] & \[OIWA\] *wird hastig aufgeschoben. Kurzes Atmen von Iemon, Iemon tritt ein, Schritte auf Holz \[OIWA\] – ungepflegt, atemlos.*]()  
+[*\[ALLE\] Gelächter hört auf, erschrockenes Tuscheln setzt ein)*]()  
   
 **SATO**  
 Welch Überraschung\!  
@@ -1662,7 +1674,7 @@ Tu was… sie hört nicht auf… sie ist immer da…\!
 ==[ ( Holzperlen klacken \[NAOSUKE\], als Naosuke sich bewegt.)]()==  
   
 ==**NAOSUKE**  
-Beruhige dich, Iemon. Dies ist heiliger Boden.  
+Beruhige dich, Iemon. Das hier ist heiliger Boden.  
 Hier dürfen die Toten nicht sprechen.==  
   
 **IEMON**  
@@ -1673,7 +1685,7 @@ Ich sehe ihr Gesicht, egal ob ich wache oder schlafe\!
 {Donner in der Hand behalten}  
   
 ==**NAOSUKE**  
-Geister… werden nicht aus dem Tod geboren,  
+Heimsuchungen… werden nicht aus dem Tod geboren,  
 sondern aus dem, was wir den Toten angetan haben.==  
   
 **IEMON**  
@@ -1685,7 +1697,7 @@ Sie ist krank gewesen… schwach… es war nicht meine Schuld\!
 Onryō – rachsüchtige Geister – entstehen aus starkem Leid.  
 Aus Verrat.  
 Aus unterdrücktem Hass.  
-Je mehr man die Wahrheit verdrängt,  
+*(nachdrücklich)* Je mehr man die Wahrheit verdrängt,  
 desto fester klammern sie sich an die Welt der Lebenden.==  
   
 [ (Wind \[TAKUETSU\] und Regen \[SATO\] stärker)]()  
@@ -1697,15 +1709,13 @@ Sag mir einfach, wie ich sie loswerde.
   
 ==**NAOSUKE**  
 Ich kann versuchen, dich zu reinigen.  
-Nicht, um sie zu vertreiben…  
-sondern um sie fernzuhalten.==  
-  
+Es wird sie nicht vertreiben…  
+aber es kann sie fernhalten.  
 [ (Papier raschelt \[OIWA\] –\>]()  
 [ Mittelmächtiger Gong \[OSODE\])]()  
-  
-Ein Shintō-Ritual der Abwehr.  
+Ein Shintō-Ritual der Abwehr…  
 Es wird deinen Geist schützen –  
-wenn dein Herz rein genug ist.  
+falls dein Herz rein genug ist.==  
   
 **IEMON**  
 Dann tu es.  
@@ -1748,7 +1758,7 @@ Nein\!
 Halt den Mund\!  
   
 ==**NAOSUKE**  
-Iemon?  
+*(schnell)* Iemon?  
 Mit wem sprichst du?==  
   
 **OIWA**  
@@ -1764,7 +1774,7 @@ Sie steht hinter dir\!
 ==**NAOSUKE**  
 Ich sehe nichts.  
 Bleib im Kreis\!  
-Schau sie nicht an\!==  
+Schau sie *nicht* an\!==  
   
 [(Das Holz des Bodens knarzt.\[OSODE\] –\>]()  
 [ Langer gequälter Atem direkt am Mikrofon. \[OIWA\]]()  
@@ -1782,8 +1792,8 @@ Ich habe dich geliebt\!
 **OIWA/OUME**  
 [ Dann steh zu deinem Schwur und bleib bei mir (\[OSODE\]: Gong vorbereiten)]()  
   
-==[ (Ein heftiger Windstoß \[TAKUETSU\] \> Papier reißt (Shide reißen) \[NAOSUKE\],]()==  
-[ Der Gong fällt klirrend zu Boden \[OSODE\])]()  
+[ (Ein heftiger Windstoß \[TAKUETSU\]]()  
+==[\> Gong fällt klirrend zu Boden \[OSODE\] & Papier reißt (Shide reißen) \[NAOSUKE\])]()==  
   
 ==**NAOSUKE**  
 Die Kami hören nicht mehr zu…  
@@ -1904,10 +1914,13 @@ Und nun, Iemon?
 **IEMON**  
 Lass mich in Frieden.  
   
-[(Schritte (Kies): Naosuke und Takuetsu kommen angelaufen \[TAKUETSU\])]()  
+[(Schritte (Kies): Naosuke und Takuetsu kommen angelaufen \[TAKUETSU\],]()  
+heftiger Atem von Naosuke und Takuetsu)  
   
 ==**NAOSUKE**  
-Iemon\! Da bist du ja\! Wir haben dich gesucht\! Komm zurück in den Tempel. Wir können das Ritual wiederholen. Ich bin mir sicher.==  
+Iemon\! Da bist du ja\! Wir haben dich gesucht\!  
+*(ringt nach Atem)*  
+Komm zurück in den Tempel. Wir können das Ritual wiederholen. Ich bin mir sicher.==  
   
 **IEMON**  
 Nein. Es wird nichts nützen.  
@@ -1917,9 +1930,11 @@ Iemon, was meinst du?
 Warum starrst du so ins Hafenbecken?  
   
 ==**NAOSUKE**  
-Iemon? Was ist das? Wer ist das da unten?  
+Iemon? Was ist das?  
+*(kurze Sprechpause)*  
+Liegt da etwa jemand da unten?  
 Oh, ihr Götter\!  
-Iemon, du- Was hast du getan? Warum?==  
+Iemon, du- *(Frustrationsgeräusch)* Was hast du getan? Warum?==  
   
 **OIWA**  
 Deine Freunde wissen es. Sie werden dich nicht mehr schützen. Du bist allein.  
@@ -1931,7 +1946,7 @@ Nein, ich habe es nicht getan. Oiwa, sie war es.
 (Lacht)  
   
 ==**NAOSUKE**  
-Du warst es, Iemon. Und bei deiner Ehre, stell dich deinen Taten oder du wirst auf ewig verfolgt werden.==  
+*(schneidend)* Du warst es, Iemon. Und bei deiner Ehre, stell dich deinen Taten oder du wirst auf ewig verfolgt werden.==  
   
 **IEMON**  
 Nein, ich war es nicht. Ich habe nichts getan. Ich- ich muss fort von hier.  
@@ -1941,32 +1956,38 @@ Nein, ich war es nicht. Ich habe nichts getan. Ich- ich muss fort von hier.
 Iemon\! Warte, du kannst doch nicht-  
   
 ==**NAOSUKE**  
-Lass ihn. Er ist verloren. Ich werde an seiner Statt nun die Familie führen, nach der Hochzeit.==  
+Lass ihn. Er ist verloren…  
+*(kurze Sprechpause)*  
+Ich werde an seiner Statt nun die Familie führen, nach der Hochzeit.==  
   
 **TAKUETSU**  
 Welche Hochzeit? Von was sprichst du, Naosuke?  
   
 ==**NAOSUKE**  
-Osode. Sie hat ihren Fehler eingesehen und wir heiraten. Ihre bisherige Ehe wird aufgelöst.==  
+*(triumphierend)* Osode. Sie hat ihren Fehler eingesehen und wir heiraten. Ihre bisherige Ehe wird aufgelöst.==  
   
 **TAKUETSU**  
 Was? Bist du nun auch dem Wahnsinn verfallen? Osode würde dich niemals heiraten\!  
   
 ==**NAOSUKE**  
-Du wirst schon sehen. Schon bald verlierst du dein bestes Mädchen.==  
+Du wirst schon sehen. *(lacht höhnisch)* Bald verlierst du dein “bestes Mädchen”.==  
   
 **TAKUETSU**  
 Du bist verrückt. Wenn Sato erfährt, dass du so etwas über seine Frau erzählst, wird er…  
   
 ==**NAOSUKE**  
-Wird er was? Er ist nichts weiter als ein Ronin, der sein Geld damit verdient, in deinem Bordell Störenfriede rauszuschmeißen. Osode hat eingewilligt, mich zu heiraten, auf Anweisung des Familienoberhaupts.==  
+Wird er was?  
+Er ist nichts als ein Ronin, der sein Geld damit verdient, in deinem Bordell Störenfriede rauszuschmeißen.  
+Osode hat eingewilligt, mich zu heiraten, auf Anweisung des Familienoberhaupts.==  
   
 **TAKUETSU**  
 Du sprichst von Iemon?  
   
 ==**NAOSUKE**  
-Ja. Zu dem Zeitpunkt war er aber noch nicht…  
-Nunja, wie auch immer. Die Hochzeit findet morgen statt und dann werdet ihr alle sehen, dass Osode zu mir steht. Auf bald, Takuetsu.==  
+Ja… Damals war er aber noch nicht…  
+Naja, wie auch immer.  
+Die Hochzeit findet morgen statt und dann werdet ihr alle sehen, dass Osode zu mir steht.  
+Auf bald, Takuetsu.==  
   
 [Schritte auf Kies (Naosuke geht ab) \[OSODE\]]()  
   
@@ -2126,7 +2147,7 @@ Ihre Familie? Iemon\! Was mischt der sich ein? Was ist er dir schuldig?
 Sato\! Es wurde so bestimmt. Ich kann nichts mehr tun. Ich muss mich meiner Familie fügen.  
   
 ==**NAOSUKE**  
-Siehst du, Sato: Meine Frau hat Verstand. Und wenn sie dich erst einmal vergessen hat, kann sie mit mir endlich glücklich sein.==  
+Siehst du, Sato: Meine *Frau* hat Verstand. Und wenn sie *dich* erst einmal vergessen hat, kann sie mit *mir* endlich glücklich sein.==  
   
 **SATO**  
 Glaubst du, dass ich mir das gefallen lasse, Priester?  
@@ -2174,7 +2195,7 @@ Was? Nein, Osode\! Sato. Ich wollte doch nicht. Ich, ich dachte \-==
 **SATO**  
 Du dachtest nur an dich. Lauf, Priester, lauf. Oder ich werde Osodes Wunsch nicht erfüllen können\!  
   
-==[(\[NAOSUKE\] reagiert auf Drohung (Aufschrei etc.))]()==  
+==[(\[NAOSUKE\] reagiert auf Drohung (erschrockener Aufschrei etc.))]()==  
   
 [(Flucht Naosuke: Schnelle Schritte auf Kies, die sich langsam entfernen \[IEMON\])]()  
 [**\[MUSIK untermalt die Flucht\]**]()  
@@ -2445,7 +2466,9 @@ Es ist Iemons Schuld. Er hat sie dazu gezwungen.
 Sato. Er ist ihr Familienoberhaupt. Sie hat nach einem Ausweg gesucht.  
   
 **SATO**  
-Ein Ausweg? Vor dem verdammten Tempel zu verbluten, nennst du einen Ausweg.  
+*(überlaut)* Ein Ausweg?\!  
+[(\[MUSIK\] erschreckt sich, verspielt sich, setzt neu an)]()  
+Vor dem verdammten Tempel zu verbluten, nennst du einen Ausweg?\!  
   
 **TAKUETSU**  
 Nicht für mich, aber für sie. Denselben hat auch Naosuke gewählt, er wurde gestern in seinem Haus gefunden.  
@@ -2545,10 +2568,10 @@ Ich kann dich nicht ansehen, wenn du so sprichst.
 (flüsternd, fast liebevoll)  
 Dann hör zu.  
   
-**OIWA/SAMON/ITO/OUME**  
+==**OIWA/SAMON/ITO/OUME/NAOSUKE**  
 (chorartig, kaum verständlich)  
 Iemon… Iemon…  
-(Chor macht weiter bis unten)  
+(Chor macht weiter bis unten)==  
   
 **IEMON**  
 (panisch)  
@@ -2687,8 +2710,6 @@ Sei ein letztes Mal ein echter Samurai … Knie nieder.
   
 [\[IEMON\] setzt sich den Schleier wieder auf.]()  
   
-[(Todes Thema \[Musik\])]()  
-  
 [(Stille \-\> Wind \[TAKUETSU\])]()  
   
 **TAKUETSU**  
@@ -2744,15 +2765,17 @@ und wie lange seine Schatten bleiben.
   
 # Transportplanung für die Aufführungen  
   
+  
+  
 | Transportplanung: Aufführungen Trag deinen Namen ein\!  Wer sich an den Aufführungen einträgt, hat vor Ort die Verantwortung, dass alles rechtzeitig an seinem Platz ist.  Wer sich bei Transport einträgt, hat die Verantwortung den Transport UND die Aufbewahrung bis zum nächsten Termin zu übernehmen. Kostüme: Jede/r ist selbst dafür verantwortlich, dass sein/ihr Kostüm am Aufführungstag da ist\! Geräusche: Jede/r ist selbst dafür verantwortlich, Requisiten, die verbraucht werden (Wasser, Salzstangen, etc.) am Aufführungstag aufzufüllen.  |  |  |  |  |  |  |  |  |  |  |  |  
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |  
 |  | Geräusch requisiten | Schiebetür (Geräusche)  | Teinacher \-Kästen | Bühnenbild | Maske  | Technik | Catering | Sponsorenmaterial, Programmhefte, Flyer, Kasse | Kleines Bühnen Bild | Getränke für Verkauf  (nur CEB) | Was noch? |  
 | Was? | 2 Taschen, Regenrohr, ?  | Tür, Schiene, Klockbambus,  Schwerte | 14 Sprudelkisten (klein), 6 Sitzkissen | 2 Tischplatten, 2 Fronten, 4 Stangen, Deko (Laternen, Blumen) Seil 4 Eimer mit Kies | 3 Kisten und Pinsel reinigen | 2 Lautsprecher, 2 Stative, Kiste mit schwarzem Stoff  | Verpflegung für Cast | Banner, Beachflag, Programmhefte, Flyer vom Frauennotruf, Bargeldkasse (Auffüllen des Bargeldes) | Minitisch, Ofen und Räucherstäbchen | Getränke und Snacks  (Jule ist Leitung) |  |  
-| 4.10.26 (GP) Abbau\!\!\! | vor Ort Wiebke | vor Ort | Svenja | vor Ort | vor Ort, Svenja | Mathias Und Svenja | / | / | Vor Ort, Julian | / |  |  
+| 4.10.26 (GP) Abbau\!\!\! | vor Ort Wiebke | vor Ort | Jule | vor Ort | vor Ort, Svenja | Mathias Und Svenja | / | / | Vor Ort, Julian | / |  |  
 | (11.10.26 Zusatz) Nur noch Geräusche\! | vor Ort Wiebke | vor Ort | / | vor Ort | / | / | / | / | Nicht vor Ort  | / |  |  
-| Transport | Wiebke | Simon | Jojo | Tristan | Svenja | Julian | Adrian | Programmhefte: Adrian (?), Rest:Svenja | Julian | / |  |  
-| 16.10.26 (Aufbau und GP SB) | Wiebke | Simon | Jojo | Tristan | Svenja | Julian | Adrian | Svenja | Julian | / |  |  
-| 17.10.26 (Auftritt SB) | Wiebke | Simon | Jojo | Tristan | Svenja | Julian  | Adrian | Svenja | Julian | / |  |  
+| Transport | Wiebke | Tristan | Simon | Simon Tristan: Fronten | Svenja | Julian | Adrian | Programmhefte: Adrian (?), Rest:Svenja | Julian | / |  |  
+| 16.10.26 (Aufbau und GP SB) | Wiebke | Tristan | Simon | Simon Tristan: Fronten | Svenja | Julian | Adrian | Svenja | Julian | / |  |  
+| 17.10.26 (Auftritt SB) | Wiebke | Tristan | Simon | Simon Tristan: Fronte | Svenja | Julian  | Adrian | Svenja | Julian | / |  |  
 | Transport | Wiebke | Jule | Jojo | Tristan nach Wadrill, von Wadrill nach Wadern Jan | Svenja | Julian nach Wadrill, Von Wadrill nach Wadern Jan | / | Svenja | Julian nach Wadrill, Von Wadrill nach Wadern Jan | / |  |  
 | 24.10.26 (Wadern) | Wiebke | Jule | Jojo | Jan | Svenja | Jan | Kauf vor Ort | Svenja | Jan | / |  |  
 | Transport | Wiebke | Jule | Jojo | Julian/ Mathias | Wiebke | Julian? | Adrian | Adrian | Julian  | / |  |  
