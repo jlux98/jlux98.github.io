@@ -47,7 +47,7 @@ get_file() {
 
 TEXT="$(get_file | sed 's/\r//g')"
 MARKDOWN_TEXT="$(get_file markdown | sed 's/\r//g')"
-LINE_MARKDOWN_TEXT_BEGINNING="$(($(echo "$MARKDOWN_TEXT" | grep -n '^# Text$' | cut -d ':' -f 1 | head -n 1) - 1))"
+LINE_MARKDOWN_TEXT_BEGINNING="$(($(echo "$MARKDOWN_TEXT" | grep -n '^Legende:$' | cut -d ':' -f 1 | head -n 1) - 1))"
 if [[ $LINE_MARKDOWN_TEXT_BEGINNING == "-1" ]]; then
     LINE_MARKDOWN_TEXT_BEGINNING=0
 fi
