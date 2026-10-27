@@ -1,5 +1,10 @@
   
-# TAKUETSU  
+  
+  
+|  Tōkaidō Yotsuya Kaidan Die Laternen von Yotsuya  Ein Hörspiel nach einer japanischen Geisterlegende Jan Niklas Hilt  |  |  
+| ----- | ----- |  
+|  |  |  
+|  Eine Produktion der Theaterwerke Bietzen  Die Laternen von Yotsuya © 2026 by Jan Niklas Hilt is licensed under CC BY-NC 4.0. To view a copy of this license, visit https\://creativecommons.org/licenses/by-nc/4.0/ |  |  
   
 **Legende:**  
   
@@ -2763,26 +2768,4 @@ und wie lange seine Schatten bleiben.
   
 [(*Gong \- \[OSODE\]*)]()  
   
-# Transportplanung für die Aufführungen  
   
-  
-  
-| Transportplanung: Aufführungen Trag deinen Namen ein\!  Wer sich an den Aufführungen einträgt, hat vor Ort die Verantwortung, dass alles rechtzeitig an seinem Platz ist.  Wer sich bei Transport einträgt, hat die Verantwortung den Transport UND die Aufbewahrung bis zum nächsten Termin zu übernehmen. Kostüme: Jede/r ist selbst dafür verantwortlich, dass sein/ihr Kostüm am Aufführungstag da ist\! Geräusche: Jede/r ist selbst dafür verantwortlich, Requisiten, die verbraucht werden (Wasser, Salzstangen, etc.) am Aufführungstag aufzufüllen.  |  |  |  |  |  |  |  |  |  |  |  |  
-| :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |  
-|  | Geräusch requisiten | Schiebetür (Geräusche)  | Teinacher \-Kästen | Bühnenbild | Maske  | Technik | Catering | Sponsorenmaterial, Programmhefte, Flyer, Kasse | Kleines Bühnen Bild | Getränke für Verkauf  (nur CEB) | Was noch? |  
-| Was? | 2 Taschen, Regenrohr, ?  | Tür, Schiene, Klockbambus,  Schwerte | 14 Sprudelkisten (klein), 6 Sitzkissen | 2 Tischplatten, 2 Fronten, 4 Stangen, Deko (Laternen, Blumen) Seil 4 Eimer mit Kies | 3 Kisten und Pinsel reinigen | 2 Lautsprecher, 2 Stative, Kiste mit schwarzem Stoff  | Verpflegung für Cast | Banner, Beachflag, Programmhefte, Flyer vom Frauennotruf, Bargeldkasse (Auffüllen des Bargeldes) | Minitisch, Ofen und Räucherstäbchen | Getränke und Snacks  (Jule ist Leitung) |  |  
-| 4.10.26 (GP) Abbau\!\!\! | vor Ort Wiebke | vor Ort | Jule | vor Ort | vor Ort, Svenja | Mathias Und Svenja | / | / | Vor Ort, Julian | / |  |  
-| (11.10.26 Zusatz) Nur noch Geräusche\! | vor Ort Wiebke | vor Ort | / | vor Ort | / | / | / | / | Nicht vor Ort  | / |  |  
-| Transport | Wiebke | Tristan | Simon | Simon Tristan: Fronten | Svenja | Julian | Adrian | Programmhefte: Adrian (?), Rest:Svenja | Julian | / |  |  
-| 16.10.26 (Aufbau und GP SB) | Wiebke | Tristan | Simon | Simon Tristan: Fronten | Svenja | Julian | Adrian | Svenja | Julian | / |  |  
-| 17.10.26 (Auftritt SB) | Wiebke | Tristan | Simon | Simon Tristan: Fronte | Svenja | Julian  | Adrian | Svenja | Julian | / |  |  
-| Transport | Wiebke | Jule | Jojo | Tristan nach Wadrill, von Wadrill nach Wadern Jan | Svenja | Julian nach Wadrill, Von Wadrill nach Wadern Jan | / | Svenja | Julian nach Wadrill, Von Wadrill nach Wadern Jan | / |  |  
-| 24.10.26 (Wadern) | Wiebke | Jule | Jojo | Jan | Svenja | Jan | Kauf vor Ort | Svenja | Jan | / |  |  
-| Transport | Wiebke | Jule | Jojo | Julian/ Mathias | Wiebke | Julian? | Adrian | Adrian | Julian  | / |  |  
-| 7\. Und 8.11.26 (Kaidan) | Wiebke | Jule | Jojo | Julian/ Mathias | Wiebke | Julian | Adrian | Adrian | Julian  | / |  |  
-| Transport | Wiebke | Jule (Schlüssel CEB\!) | Jojo | Julian/ Mathias | Wiebke | Julian | Adrian | Adrian | Julian | Jule |  |  
-| 13.11.26 (CEB) | Wiebke | Jule | Jojo | Tristan | Svenja | Julian  | Adrian | Svenja | Julian | Jule (Verkauf: Jan und Wiebke) |  |  
-| 14.11.26 (CEB) | Wiebke | Jule | Jojo | Tristan | Jacky | Julian | Adrian | Adrian | Julian | Jule (Verkauf: Jule und Wiebke) |  |  
-| Transport | Wiebke | Simon | Jojo | Tristan | Jacky | Julian | Adrian | Svenja | Julian  | Jule |  |  
-| 20.11.26 (Saarhölzbach) | Wiebke | Simon | Jojo | Tristan | Jacky Später: Svenja | Julian | Adrian | Svenja | Julian  | / |  |  
-| Transport in den Fundus oder Rückgabe zum Besitzer | Wiebke | Jule | Jojo | Tristan | Svenja | Julian | Adrian | Svenja | Julian | / |  |  

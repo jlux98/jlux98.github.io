@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 set -eu
-set -x
+# set -x
 
 source ./convert_with_css.sh
 
@@ -48,7 +48,11 @@ get_file() {
 TEXT="$(get_file | sed 's/\r//g')"
 MARKDOWN_TEXT="$(get_file markdown | sed 's/\r//g')"
 LINE_MARKDOWN_TEXT_BEGINNING="$(($(echo "$MARKDOWN_TEXT" | grep -n '^# Text$' | cut -d ':' -f 1 | head -n 1) - 1))"
+if [[ $LINE_MARKDOWN_TEXT_BEGINNING == "-1" ]]; then
+    LINE_MARKDOWN_TEXT_BEGINNING=0
+fi
 LINE_MARKDOWN_TEXT_END="$(($(echo "$MARKDOWN_TEXT" | grep -n 'Transportplanung' | cut -d ':' -f 1 | head -n 1) - 1))"
+echo "Text beginning: $LINE_MARKDOWN_TEXT_BEGINNING"
 echo "Text end: $LINE_MARKDOWN_TEXT_END"
 MARKDOWN_TEXT="$(echo "$MARKDOWN_TEXT" | sed -n "$((LINE_MARKDOWN_TEXT_BEGINNING + 1)),$LINE_MARKDOWN_TEXT_END p")"
 MARKDOWN_TEXT="$(echo "$MARKDOWN_TEXT" | sed -E 's/^(.*\\\[[^]+\\\].*$)/[\1]()  /')"
