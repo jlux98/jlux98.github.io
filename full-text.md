@@ -69,7 +69,10 @@ So bitten auch wir dich, Oiwa, um Erlaubnis, deine Geschichte zu erzählen, und 
  (Betrunken)  Ein Samurai ohne Herr ist wie eine Klinge ohne Griff... scharf vielleicht, aber nutzlos.
 
 **NAOSUKE**  
-Du hast deine Anstellung verloren, Iemon. Du wirst sicher wieder eine finden. Kann dein Schwiegervater da nichts tun?
+Ach Iemon...  
+Ich weiß, du bist schon lange auf der Suche...  
+Aber ich bin mir sicher, du *wirst* eine neue Anstellung finden!  
+Kann dein Schwiegervater da nichts tun?
 
 **IEMON**  
 Du hast ja keine Ahnung, Naosuke. Du hast deine sichere Anstellung im Tempel.  
@@ -86,6 +89,8 @@ Mein Schwiegervater wird nichts tun. Er verachtet mich. Ich würde ihn am liebst
 Er erwartet mich morgen Abend. Ich ahne nichts Gutes.
 
 **NAOSUKE**  
+Ich frage mich, was er wohl will?  
+Ich denke jedenfalls nicht, dass du dir Sorgen machen musst.  
  Dein Schwiegervater ist ein Mann von Prinzipien. Und du... hast deine Ehre.
 
 **IEMON**  
@@ -110,7 +115,7 @@ Er erwartet mich morgen Abend. Ich ahne nichts Gutes.
 
 **NAOSUKE**  
 [ *(laut) (Packt Takuetsu, Stoffgeräusch \[NAOSUKE\] und Ächzen von \[TAKUETSU\])*  ]()  
- Halt deinen Mund, Takuetsu\! (**Takuetsu:** Ähm…)
+ (*hart)* Halt. Deinen. Mund. Takuetsu\! (**Takuetsu:** Ähm…)
 
 **IEMON**  
  Setz dich, Naosuke.
