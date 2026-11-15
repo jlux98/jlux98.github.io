@@ -640,15 +640,15 @@ Ein nettes Mädchen, auch wenn sie etwas verzogen ist.
 *(Lauter)*  
 Aki. Komm und hilf mir. Der alte Arzt von nebenan hat extra eine Salbe für mich angerührt. Du musst mir helfen, sie aufzutragen, bring auch etwas Wasser mit.  
   
-**AKI**  
+==**AKI/NAOSUKE**  
 (gedämpft)  
-Ja Herrin.  
+Ja Herrin.==  
   
 [*(einige Schritte \[OIWA\])*]()  
 ==[*Schiebetür zu \[OSODE\], Platz nehmen (Stoff \[NAOSUKE\] und Matte \[OSODE\]*]()==  
   
-**AKI**  
-Ich fange dann an, Herrin.  
+==**AKI/NAOSUKE**  
+Ich fange dann an, Herrin.==  
   
 [*(Öffnen Salbendöschen \[OIWA\]) (Eincremegeräusch, Eincremen vorm Mikrofon, \[IEMON\])*]()  
 [ *(Windspiel endet, Hautreißen vorbereiten \[SATO\],* ]()  
@@ -658,8 +658,8 @@ Sehr schön Aki.
 *(Sprechpause)*  
 vergiss den Hals nicht.  
   
-**AKI**  
-Natürlich, Herrin.  
+==**AKI/NAOSUKE**  
+Natürlich, Herrin.==  
   
 [*(Eincremegeräusch, Eincremen vorm Mikrofon, \[IEMON\], leichte Geräusche des Unbehagens \[OIWA\])*]()  
   
@@ -669,21 +669,21 @@ Mach sie ab Aki, mach sie sie ab. (Musik setzt ein, wird immer unruhiger)
   
 ==[*(Panisches Gefuchtel und Schreie und Keuchen von \[OIWA\] aus Schmerz, von Aki Panik \[NAOSUKE\])*]()==  
   
-**AKI**  
+==**AKI/NAOSUKE**  
 (panisch)  
 Herrin, haltet still, bitte\!  
 Sonst kann ich euch nicht helfen\!  
 *(Panisches Atmen, reiben)*  
-Oiwa-sama\!  
+Oiwa-sama\!==  
   
 *(Schweres Atmen von Oiwa)*  
   
 **OIWA**  
 Nun tu doch endlich was\!  
   
-**AKI**  
+==**AKI/NAOSUKE**  
 *(stammelnd, panisch)*  
-S–so haltet still, Herrin\! Ich wasche es ab, ich wasche alles ab\!  
+S–so haltet still, Herrin\! Ich wasche es ab, ich wasche alles ab\!==  
   
 [*(Wasser wird hektisch aus einer Schüssel geschöpft \[TAKUETSU\])*]()  
   
@@ -691,8 +691,8 @@ S–so haltet still, Herrin\! Ich wasche es ab, ich wasche alles ab\!
 *(schreiend, verzerrt)*  
 Es brennt\! Aki\! Aki, schneller\! *Schneller\!*  
   
-**AKI**  
-Bitte, Herrin, ich tue mein Bestes, aber meine Hände, sie brennen auch\!  
+==**AKI/NAOSUKE**  
+Bitte, Herrin, ich tue mein Bestes, aber meine Hände, sie brennen auch\!==  
   
 [*(Hastiges Reiben mit Stoff und Creme) \[IEMON\]*]()  
   
@@ -700,8 +700,8 @@ Bitte, Herrin, ich tue mein Bestes, aber meine Hände, sie brennen auch\!
 *(weint vor Schmerz)*  
 Es fühlt sich an, als schälte sich meine Haut…\! Warum… warum ist die Salbe so heiß?\!  
   
-**AKI**  
-*(zwischen Zähnen)* Ich weiß es nicht\!  
+==**AKI/NAOSUKE**  
+*(zwischen Zähnen)* Ich weiß es nicht\!==  
   
 **OIWA**  
 *(zwischen Zähnen, voller Zorn und Verzweiflung)*  
@@ -709,38 +709,38 @@ Dann machst du etwas falsch\! Wasch gründlicher, Aki\! Gründlicher\!
   
 ==[ *(**Geräusche- Stille**, Haut reißt ein Stück \[SATO\], Schrei \[OIWA\], Stoff reiben hört auf \[NAOSUKE\],* **Musik stoppt**)]()==  
   
-**AKI**  
-Herrin… euer… euer Gesicht…  
+==**AKI/NAOSUKE**  
+Herrin… euer… euer Gesicht…==  
   
 **OIWA**  
 *(sofort hart, aggressiv)*  
 Sag es nicht\!  
   
-**AKI**  
+==**AKI/NAOSUKE**  
 Aber… ich…  
-==[*(Ohrfeigengeräusch \[NAOSUKE\] \> Schmerzensschrei Aki)*]()==  
+[*(Ohrfeigengeräusch \[NAOSUKE\] \> Schmerzensschrei Aki)*]()==  
   
 **OIWA**  
 [ lch sagte, du sollst es NICHT sagen\! **\[MUSIK setzt zaghaft wieder ein, weiter angespannt\]**]()  
 Das ist nur die Reizung… der Schmerz… nichts weiter\! Nichts weiter\! Hörst du?\!  
   
-**AKI**  
-Herrin, eure Haut… sie ist, sie löst sich in Fetzen… es… es…  
+==**AKI/NAOSUKE**  
+Herrin, eure Haut… sie ist, sie löst sich in Fetzen… es… es…==  
   
 **OIWA**  
 NEIN\!  
 *(immer lauter, verzweifelnd)*  
 Es ist nur die Salbe\! Sie zieht\! So wirkt sie eben\! Der alte Arzt weiß, was er tut\!  
   
-**AKI**  
-Aber ihr blutet…\!  
+==**AKI/NAOSUKE**  
+Aber ihr blutet…\!==  
   
 **OIWA**  
 Das… ist nur deine Schuld, weil… du so grob bist, Aki.  
 Ganz ruhig… ganz ruhig… es ist gleich vorbei…  
   
-**AKI**  
-H… Herrin… ich… ich kann das nicht… ich…  
+==**AKI/NAOSUKE**  
+H… Herrin… ich… ich kann das nicht… ich…==  
   
 [(Stolpernde Schritte \[OSODE\])]()  
   
@@ -748,8 +748,8 @@ H… Herrin… ich… ich kann das nicht… ich…
 (heftig)  
 Aki\! Du wirst bleiben\! Du wirst mir helfen\!  
   
-**AKI**  
-Ich kann nicht\! Verzeiht\!  
+==**AKI/NAOSUKE**  
+Ich kann nicht\! Verzeiht\!==  
   
 [(Schnelle Schritte \[OSODE\] –\> Schiebetür auf \[OSODE\])]()  
   
@@ -1620,6 +1620,9 @@ Iemon, hier ist nichts.
 **IEMON**  
 Dort in der Lampe\!  
 Ihr Gesicht… in der Laterne\!  
+  
+==**BETRUNKENER BORDELLGAST/NAOSUKE**  
+Schmeiß ihn endlich raus, Sato!!==  
   
 **SATO**  
 Da ist nur Papier und Feuer.  

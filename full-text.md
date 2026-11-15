@@ -639,14 +639,14 @@ Ein nettes Mädchen, auch wenn sie etwas verzogen ist.
 *(Lauter)*  
 Aki. Komm und hilf mir. Der alte Arzt von nebenan hat extra eine Salbe für mich angerührt. Du musst mir helfen, sie aufzutragen, bring auch etwas Wasser mit.
 
-**AKI**  
+**AKI/NAOSUKE**  
 (gedämpft)  
 Ja Herrin.
 
 [*(einige Schritte \[OIWA\])*  ]()  
 [*Schiebetür zu \[OSODE\], Platz nehmen (Stoff \[NAOSUKE\] und Matte \[OSODE\]*]()  
 
-**AKI**  
+**AKI/NAOSUKE**  
 Ich fange dann an, Herrin.
 
 [*(Öffnen Salbendöschen \[OIWA\]) (Eincremegeräusch, Eincremen vorm Mikrofon, \[IEMON\])*  ]()  
@@ -657,7 +657,7 @@ Sehr schön Aki.
 *(Sprechpause)*  
 vergiss den Hals nicht. 
 
-**AKI**  
+**AKI/NAOSUKE**  
 Natürlich, Herrin.
 
 [*(Eincremegeräusch, Eincremen vorm Mikrofon, \[IEMON\], leichte Geräusche des Unbehagens \[OIWA\])*]()  
@@ -668,7 +668,7 @@ Mach sie ab Aki, mach sie sie ab. (Musik setzt ein, wird immer unruhiger)
   
 [*(Panisches Gefuchtel und Schreie und Keuchen von \[OIWA\] aus Schmerz, von Aki Panik \[NAOSUKE\])*]()  
 
-**AKI**  
+**AKI/NAOSUKE**  
 (panisch)  
 Herrin, haltet still, bitte\!  
 Sonst kann ich euch nicht helfen\!  
@@ -680,7 +680,7 @@ Oiwa-sama\!
 **OIWA**  
 Nun tu doch endlich was\!
 
-**AKI**  
+**AKI/NAOSUKE**  
  *(stammelnd, panisch)*  
  S–so haltet still, Herrin\! Ich wasche es ab, ich wasche alles ab\!
 
@@ -690,7 +690,7 @@ Nun tu doch endlich was\!
  *(schreiend, verzerrt)*  
  Es brennt\! Aki\! Aki, schneller\! *Schneller\!*
 
-**AKI**  
+**AKI/NAOSUKE**  
  Bitte, Herrin, ich tue mein Bestes, aber meine Hände, sie brennen auch\!
 
 [*(Hastiges Reiben mit Stoff und Creme) \[IEMON\]*]()  
@@ -699,7 +699,7 @@ Nun tu doch endlich was\!
  *(weint vor Schmerz)*  
  Es fühlt sich an, als schälte sich meine Haut…\! Warum… warum ist die Salbe so heiß?\!
 
-**AKI**  
+**AKI/NAOSUKE**  
 *(zwischen Zähnen)* Ich weiß es nicht\! 
 
 **OIWA**  
@@ -708,14 +708,14 @@ Nun tu doch endlich was\!
 
 [ *(**Geräusche- Stille**, Haut reißt ein Stück \[SATO\], Schrei \[OIWA\], Stoff reiben hört auf \[NAOSUKE\],* **Musik stoppt**)]()  
 
-**AKI**  
+**AKI/NAOSUKE**  
  Herrin… euer… euer Gesicht…
 
 **OIWA**  
  *(sofort hart, aggressiv)*  
  Sag es nicht\!
 
-**AKI**  
+**AKI/NAOSUKE**  
  Aber… ich…  
 [*(Ohrfeigengeräusch \[NAOSUKE\] \> Schmerzensschrei Aki)*]()  
 
@@ -723,7 +723,7 @@ Nun tu doch endlich was\!
 [ lch sagte, du sollst es NICHT sagen\! **\[MUSIK setzt zaghaft wieder ein, weiter angespannt\]**  ]()  
  Das ist nur die Reizung… der Schmerz… nichts weiter\! Nichts weiter\! Hörst du?\!
 
-**AKI**  
+**AKI/NAOSUKE**  
  Herrin, eure Haut… sie ist, sie löst sich in Fetzen… es… es…
 
 **OIWA**  
@@ -731,14 +731,14 @@ Nun tu doch endlich was\!
  *(immer lauter, verzweifelnd)*  
  Es ist nur die Salbe\! Sie zieht\! So wirkt sie eben\! Der alte Arzt weiß, was er tut\!
 
-**AKI**  
+**AKI/NAOSUKE**  
  Aber ihr blutet…\!
 
 **OIWA**  
  Das… ist nur deine Schuld, weil… du so grob bist, Aki.  
  Ganz ruhig… ganz ruhig… es ist gleich vorbei…
 
-**AKI**  
+**AKI/NAOSUKE**  
  H… Herrin… ich… ich kann das nicht… ich…
 
 [(Stolpernde Schritte \[OSODE\])]()  
@@ -747,7 +747,7 @@ Nun tu doch endlich was\!
  (heftig)  
  Aki\! Du wirst bleiben\! Du wirst mir helfen\! 
 
-**AKI**  
+**AKI/NAOSUKE**  
  Ich kann nicht\! Verzeiht\!
 
 [(Schnelle Schritte \[OSODE\] –\> Schiebetür auf \[OSODE\])]()  
@@ -1620,8 +1620,11 @@ Es muss ein Fluch sein.
  Dort in der Lampe\!  
  Ihr Gesicht… in der Laterne\!
 
+**BETRUNKENER BORDELLGAST/NAOSUKE**  
+ Schmeiß ihn endlich raus, Sato!!
+
 **SATO**  
- Da ist nur Papier und Feuer.
+ Da ist nur Papier und Feuer. 
 
 **OIWA/OUME (Zweistimmig mit Oume)**  
  Geliebter… warum hast du mich allein gelassen?
