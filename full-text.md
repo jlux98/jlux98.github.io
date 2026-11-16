@@ -406,7 +406,6 @@ Endlich, Sato-san. Lass mich sehen wie du…
 **IEMON**  
  *(ernst, angespannt)*  
  Naosuke. Du kommst zu einer Stunde, in der kein guter Mensch mehr auf den Wegen ist.  
- Was treibt dich hierher?
 
 **NAOSUKE**  
 *(ringt nach Luft)*  
@@ -415,9 +414,19 @@ Endlich, Sato-san. Lass mich sehen wie du…
  Es war ein Versehen, eine Verwechslung. Ich wollte nie…
 
 **IEMON**  
-Du hast also Blut vergossen.  
+ Du bist nass.  
+
+**NAOSUKE**  
+ *(Sprechpause)*  
+ *(leicht verwirrt)* Ja, es regnet.  
+
+**IEMON**  
+ *(Sprechpause)*  
+ Ja.  
+ *(Sprechpause)*  
+ Du hast also Blut vergossen.  
  Und du kommst zu mir… warum?  
-Du bittest um Vergebung? Um Schutz?
+ Du bittest um Vergebung? Um Schutz?
 
 **NAOSUKE**  
 *(flehend)*  
