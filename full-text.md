@@ -414,6 +414,7 @@ Endlich, Sato-san. Lass mich sehen wie du…
  Es war ein Versehen, eine Verwechslung. Ich wollte nie…
 
 **IEMON**  
+ *(Sprechpause)*  
  Du bist nass.  
 
 **NAOSUKE**  
