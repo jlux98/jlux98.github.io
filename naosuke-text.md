@@ -406,8 +406,7 @@ Iemon\! Bist du da? Du hast gesagt du bist heute im Haus deines Schwiegervaters\
 [*(Tür wird langsam geöffnet \[OSODE\])*]()  
 **IEMON**  
 *(ernst, angespannt)*  
-Naosuke.  
-Du kommst zu einer Stunde, in der kein guter Mensch mehr auf den Wegen ist.  
+Naosuke. Du kommst zu einer Stunde, in der kein guter Mensch mehr auf den Wegen ist.  
   
 ==**NAOSUKE**  
 *(ringt nach Luft)*  
@@ -417,16 +416,15 @@ Es war ein Versehen, eine Verwechslung. Ich wollte nie…==
   
 **IEMON**  
 Du bist nass.  
-
+  
 ==**NAOSUKE**  
-*(Sprechpause)*
-*(leicht verwirrt)* Ja, es regnet.
-==  
-
+*(Sprechpause)*  
+*(leicht verwirrt)* Ja, es regnet.==  
+  
 **IEMON**  
-*(Sprechpause)*
-Ja.
-*(Sprechpause)*
+*(Sprechpause)*  
+Ja.  
+*(Sprechpause)*  
 Du hast also Blut vergossen.  
 Und du kommst zu mir… warum?  
 Du bittest um Vergebung? Um Schutz?  
@@ -1631,6 +1629,9 @@ Iemon, hier ist nichts.
 **IEMON**  
 Dort in der Lampe\!  
 Ihr Gesicht… in der Laterne\!  
+  
+==**BETRUNKENER BORDELLGAST/NAOSUKE**  
+Schmeiß ihn endlich raus, Sato!!==  
   
 **SATO**  
 Da ist nur Papier und Feuer.  
